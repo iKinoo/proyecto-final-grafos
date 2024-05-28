@@ -1,0 +1,1505 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOQnviQA=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where right clicking on sidebar items showed the wrong menu options",
+                        "url": "https://github.com/files-community/Files/pull/10219",
+                        "state": "MERGED",
+                        "number": 10219,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Bug: Move options are showing for non favorites on the sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/10215",
+                                        "state": "CLOSED",
+                                        "number": 10215,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where settings displayed wrong language after installing Files",
+                        "url": "https://github.com/files-community/Files/pull/10222",
+                        "state": "MERGED",
+                        "number": 10222,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Bug: Settings displays wrong language after installing Files",
+                                        "url": "https://github.com/files-community/Files/issues/10220",
+                                        "state": "CLOSED",
+                                        "number": 10220,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/10238",
+                        "state": "MERGED",
+                        "number": 10238,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where columns sometimes had no width",
+                        "url": "https://github.com/files-community/Files/pull/10239",
+                        "state": "MERGED",
+                        "number": 10239,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Added option to set default column sizes",
+                                        "url": "https://github.com/files-community/Files/pull/10117",
+                                        "state": "MERGED",
+                                        "number": 10117,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fix: Fixed issue with resizing the status column",
+                                        "url": "https://github.com/files-community/Files/pull/11027",
+                                        "state": "MERGED",
+                                        "number": 11027,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Allow resizing the status column",
+                                        "url": "https://github.com/files-community/Files/issues/10432",
+                                        "state": "CLOSED",
+                                        "number": 10432,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed an issue where the name column had a max width",
+                        "url": "https://github.com/files-community/Files/pull/10240",
+                        "state": "MERGED",
+                        "number": 10240,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where untagged files were sometimes displayed in the search results",
+                        "url": "https://github.com/files-community/Files/pull/10241",
+                        "state": "MERGED",
+                        "number": 10241,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Feature: Improved the tooltip when hovering over drives",
+                        "url": "https://github.com/files-community/Files/pull/10242",
+                        "state": "MERGED",
+                        "number": 10242,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added extract archive button inside archives",
+                        "url": "https://github.com/files-community/Files/pull/10243",
+                        "state": "MERGED",
+                        "number": 10243,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fixed issues involving #10243",
+                                        "url": "https://github.com/files-community/Files/pull/10253",
+                                        "state": "MERGED",
+                                        "number": 10253,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/10247",
+                        "state": "MERGED",
+                        "number": 10247,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Code Quality: Renaming of helpers to reflect static nature.",
+                        "url": "https://github.com/files-community/Files/pull/10249",
+                        "state": "CLOSED",
+                        "number": 10249,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code: Implement inter-process synchronization for LiteDB",
+                        "url": "https://github.com/files-community/Files/pull/10250",
+                        "state": "MERGED",
+                        "number": 10250,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Fixed issue where tags loaded slowly",
+                                        "url": "https://github.com/files-community/Files/pull/10577",
+                                        "state": "MERGED",
+                                        "number": 10577,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Code Quality: installed version of NuGet package LiteDB has a critical vulnerability",
+                                        "url": "https://github.com/files-community/Files/issues/11585",
+                                        "state": "CLOSED",
+                                        "number": 11585,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fixed issues involving #10243",
+                        "url": "https://github.com/files-community/Files/pull/10253",
+                        "state": "MERGED",
+                        "number": 10253,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where drives had the wrong order in the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/10258",
+                        "state": "MERGED",
+                        "number": 10258,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Fixed network locations not appearing on the sidebar",
+                                        "url": "https://github.com/files-community/Files/pull/12411",
+                                        "state": "MERGED",
+                                        "number": 12411,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where the progress bar wasn't shown when connecting new drives",
+                        "url": "https://github.com/files-community/Files/pull/10259",
+                        "state": "MERGED",
+                        "number": 10259,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue with the text alignment in the properties window",
+                        "url": "https://github.com/files-community/Files/pull/10260",
+                        "state": "MERGED",
+                        "number": 10260,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Feature: Display drive letter of the connected network drives",
+                        "url": "https://github.com/files-community/Files/pull/10269",
+                        "state": "MERGED",
+                        "number": 10269,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Fix: Changed label on code quality issue template to correct one",
+                        "url": "https://github.com/files-community/Files/pull/10273",
+                        "state": "MERGED",
+                        "number": 10273,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed progress ring style in drive tooltip",
+                        "url": "https://github.com/files-community/Files/pull/10274",
+                        "state": "MERGED",
+                        "number": 10274,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lamparter"
+                        },
+                        "title": "Feature: Update themes",
+                        "url": "https://github.com/files-community/Files/pull/10275",
+                        "state": "CLOSED",
+                        "number": 10275,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Lamparter"
+                                        },
+                                        "title": "Feature: Update themes",
+                                        "url": "https://github.com/files-community/Files/issues/10281",
+                                        "state": "CLOSED",
+                                        "number": 10281,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Feature: Removed FullTrustProcess",
+                        "url": "https://github.com/files-community/Files/pull/10283",
+                        "state": "MERGED",
+                        "number": 10283,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Feature: Remove FullTrust handlers",
+                                        "url": "https://github.com/files-community/Files/issues/9858",
+                                        "state": "CLOSED",
+                                        "number": 9858,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Feature: Optimize startup speed",
+                                        "url": "https://github.com/files-community/Files/pull/10322",
+                                        "state": "MERGED",
+                                        "number": 10322,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Fix: Fixed issue where it wasn't working to open properties from blank area of a folder",
+                                        "url": "https://github.com/files-community/Files/pull/10294",
+                                        "state": "MERGED",
+                                        "number": 10294,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cskaust"
+                        },
+                        "title": "Update README.md",
+                        "url": "https://github.com/files-community/Files/pull/10284",
+                        "state": "CLOSED",
+                        "number": 10284,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Remove OpenProtectedFileForRead function",
+                        "url": "https://github.com/files-community/Files/pull/10285",
+                        "state": "MERGED",
+                        "number": 10285,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Axe.Windows from 1.1.2 to 2.0.0",
+                        "url": "https://github.com/files-community/Files/pull/10287",
+                        "state": "CLOSED",
+                        "number": 10287,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump FluentFTP from 39.4.0 to 42.0.0",
+                        "url": "https://github.com/files-community/Files/pull/10288",
+                        "state": "CLOSED",
+                        "number": 10288,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Code Quality: Optimizations",
+                        "url": "https://github.com/files-community/Files/pull/10290",
+                        "state": "MERGED",
+                        "number": 10290,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "itsWindows11"
+                        },
+                        "title": "Remove fulltrust communication for LibraryHelper",
+                        "url": "https://github.com/files-community/Files/pull/10292",
+                        "state": "CLOSED",
+                        "number": 10292,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Fix: Fixed issue where renaming a shortcut that had a blank name would cause a crash",
+                        "url": "https://github.com/files-community/Files/pull/10293",
+                        "state": "MERGED",
+                        "number": 10293,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where it wasn't working to open properties from blank area of a folder",
+                        "url": "https://github.com/files-community/Files/pull/10294",
+                        "state": "MERGED",
+                        "number": 10294,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Fix: Fixed issue where properties window was always on top",
+                                        "url": "https://github.com/files-community/Files/pull/10897",
+                                        "state": "MERGED",
+                                        "number": 10897,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where the sidebars right click menu would sometimes get cut off",
+                        "url": "https://github.com/files-community/Files/pull/10295",
+                        "state": "MERGED",
+                        "number": 10295,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Vanara.PInvoke.Mpr from 3.4.9 to 3.4.10",
+                        "url": "https://github.com/files-community/Files/pull/10297",
+                        "state": "MERGED",
+                        "number": 10297,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Vanara.Windows.Shell from 3.3.15 to 3.4.10",
+                        "url": "https://github.com/files-community/Files/pull/10298",
+                        "state": "CLOSED",
+                        "number": 10298,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Fix: Remove icons from extract flyout",
+                        "url": "https://github.com/files-community/Files/pull/10299",
+                        "state": "MERGED",
+                        "number": 10299,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Misc fixes and bumping dependencies",
+                        "url": "https://github.com/files-community/Files/pull/10302",
+                        "state": "MERGED",
+                        "number": 10302,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where the drive letter was included in the name",
+                        "url": "https://github.com/files-community/Files/pull/10303",
+                        "state": "MERGED",
+                        "number": 10303,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Feature: Open selected folders in new tab using Ctrl+Enter",
+                        "url": "https://github.com/files-community/Files/pull/10306",
+                        "state": "MERGED",
+                        "number": 10306,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Bug: Double tap to rename no longer working",
+                                        "url": "https://github.com/files-community/Files/issues/10344",
+                                        "state": "CLOSED",
+                                        "number": 10344,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Vanara.Windows.Extensions from 3.4.9 to 3.4.10",
+                        "url": "https://github.com/files-community/Files/pull/10309",
+                        "state": "MERGED",
+                        "number": 10309,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Appium.WebDriver from 4.3.2 to 4.4.0",
+                        "url": "https://github.com/files-community/Files/pull/10310",
+                        "state": "MERGED",
+                        "number": 10310,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Feature: Improve loading animations on the home page",
+                        "url": "https://github.com/files-community/Files/pull/10318",
+                        "state": "MERGED",
+                        "number": 10318,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Feature: Optimize startup speed",
+                        "url": "https://github.com/files-community/Files/pull/10322",
+                        "state": "MERGED",
+                        "number": 10322,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where delete modal displayed duplicate items",
+                        "url": "https://github.com/files-community/Files/pull/10323",
+                        "state": "MERGED",
+                        "number": 10323,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Use date from Windows culture instead of Files culture",
+                        "url": "https://github.com/files-community/Files/pull/10324",
+                        "state": "MERGED",
+                        "number": 10324,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed icon overlays not showing",
+                        "url": "https://github.com/files-community/Files/pull/10325",
+                        "state": "MERGED",
+                        "number": 10325,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Code quality: Compare null with 'is' instead of '=='",
+                        "url": "https://github.com/files-community/Files/pull/10326",
+                        "state": "MERGED",
+                        "number": 10326,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "QuaintMako"
+                                        },
+                                        "title": "Fix: Navigating using left/right arrows in the column layout no longer crashes the app",
+                                        "url": "https://github.com/files-community/Files/pull/10421",
+                                        "state": "MERGED",
+                                        "number": 10421,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Feature: Lazily loading themes to improve startup time",
+                        "url": "https://github.com/files-community/Files/pull/10329",
+                        "state": "MERGED",
+                        "number": 10329,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Slowlife01"
+                        },
+                        "title": "Fix: wrong logo path in README",
+                        "url": "https://github.com/files-community/Files/pull/10331",
+                        "state": "MERGED",
+                        "number": 10331,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Updated readme logo",
+                        "url": "https://github.com/files-community/Files/pull/10335",
+                        "state": "CLOSED",
+                        "number": 10335,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed issue where type column wasn't translated",
+                        "url": "https://github.com/files-community/Files/pull/10338",
+                        "state": "CLOSED",
+                        "number": 10338,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Feature: Change \"File folder\" text to say \"Folder\"",
+                                        "url": "https://github.com/files-community/Files/issues/5853",
+                                        "state": "CLOSED",
+                                        "number": 5853,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix: Fixed column Type text",
+                        "url": "https://github.com/files-community/Files/pull/10339",
+                        "state": "MERGED",
+                        "number": 10339,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/10340",
+                        "state": "MERGED",
+                        "number": 10340,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where emptying recycle bin wouldn't display the operation in the status center",
+                        "url": "https://github.com/files-community/Files/pull/10341",
+                        "state": "MERGED",
+                        "number": 10341,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Windows.SDK.BuildTools from 10.0.22621.1 to 10.0.22621.755",
+                        "url": "https://github.com/files-community/Files/pull/10345",
+                        "state": "MERGED",
+                        "number": 10345,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed accessibility testing step",
+                        "url": "https://github.com/files-community/Files/pull/10346",
+                        "state": "CLOSED",
+                        "number": 10346,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added back ARM64 build",
+                        "url": "https://github.com/files-community/Files/pull/10348",
+                        "state": "MERGED",
+                        "number": 10348,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where double tap to rename was no longer working",
+                        "url": "https://github.com/files-community/Files/pull/10349",
+                        "state": "MERGED",
+                        "number": 10349,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes",
+                        "url": "https://github.com/files-community/Files/pull/10350",
+                        "state": "CLOSED",
+                        "number": 10350,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed notification on Win+E",
+                        "url": "https://github.com/files-community/Files/pull/10352",
+                        "state": "MERGED",
+                        "number": 10352,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix FilesLauncher and CustomOpenDialog projects",
+                        "url": "https://github.com/files-community/Files/pull/10353",
+                        "state": "MERGED",
+                        "number": 10353,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: toggle default explorer setting",
+                        "url": "https://github.com/files-community/Files/pull/10354",
+                        "state": "MERGED",
+                        "number": 10354,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed crash that would occur when clicking browse on properties customize page",
+                        "url": "https://github.com/files-community/Files/pull/10356",
+                        "state": "MERGED",
+                        "number": 10356,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Code Quality: Refactored TerminalController",
+                        "url": "https://github.com/files-community/Files/pull/10358",
+                        "state": "MERGED",
+                        "number": 10358,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Code Quality: Removal of dead code and dead types",
+                        "url": "https://github.com/files-community/Files/pull/10360",
+                        "state": "MERGED",
+                        "number": 10360,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/10362",
+                        "state": "MERGED",
+                        "number": 10362,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed issue with displaying file operation progress",
+                        "url": "https://github.com/files-community/Files/pull/10363",
+                        "state": "MERGED",
+                        "number": 10363,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed crash that would occur when emptying recycle bin from the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/10364",
+                        "state": "MERGED",
+                        "number": 10364,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed crash that would occur when checking for updates",
+                        "url": "https://github.com/files-community/Files/pull/10365",
+                        "state": "MERGED",
+                        "number": 10365,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "QuaintMako"
+                                        },
+                                        "title": "Soft-locking operations when executing at least two operations after each other",
+                                        "url": "https://github.com/files-community/Files/issues/10383",
+                                        "state": "CLOSED",
+                                        "number": 10383,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Formatted with tabs",
+                        "url": "https://github.com/files-community/Files/pull/10366",
+                        "state": "MERGED",
+                        "number": 10366,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Updated build instructions",
+                        "url": "https://github.com/files-community/Files/pull/10371",
+                        "state": "MERGED",
+                        "number": 10371,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Improved default width of columns in details layout",
+                        "url": "https://github.com/files-community/Files/pull/10373",
+                        "state": "MERGED",
+                        "number": 10373,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where setting image as wallpaper would add image to the local state folder",
+                        "url": "https://github.com/files-community/Files/pull/10374",
+                        "state": "MERGED",
+                        "number": 10374,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/10377",
+                        "state": "MERGED",
+                        "number": 10377,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where count was missing when switching layout from adaptive",
+                        "url": "https://github.com/files-community/Files/pull/10378",
+                        "state": "MERGED",
+                        "number": 10378,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Cleanup: Removed custom terminal option",
+                        "url": "https://github.com/files-community/Files/pull/10380",
+                        "state": "MERGED",
+                        "number": 10380,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Fix: Resolving soft-lock issue in operations.",
+                        "url": "https://github.com/files-community/Files/pull/10384",
+                        "state": "MERGED",
+                        "number": 10384,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Fix: Fixed crash that would occur when holding down ctrl + t",
+                        "url": "https://github.com/files-community/Files/pull/10385",
+                        "state": "CLOSED",
+                        "number": 10385,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Fix duplicate window opening when pressing Ctrl+N",
+                                        "url": "https://github.com/files-community/Files/pull/10648",
+                                        "state": "MERGED",
+                                        "number": 10648,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "R3voA3"
+                                        },
+                                        "title": "Bug: App crashes when opening a lot of tabs",
+                                        "url": "https://github.com/files-community/Files/issues/2145",
+                                        "state": "CLOSED",
+                                        "number": 2145,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Feature: Replaced 'File Folder' by 'Folder' use",
+                        "url": "https://github.com/files-community/Files/pull/10386",
+                        "state": "MERGED",
+                        "number": 10386,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed crash when renaming in GridView",
+                        "url": "https://github.com/files-community/Files/pull/10388",
+                        "state": "MERGED",
+                        "number": 10388,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed issue where it wasn't working to import settings",
+                        "url": "https://github.com/files-community/Files/pull/10389",
+                        "state": "MERGED",
+                        "number": 10389,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed issue with Files launcher not getting copied to output directory",
+                        "url": "https://github.com/files-community/Files/pull/10390",
+                        "state": "MERGED",
+                        "number": 10390,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed issue where the Files window wasn't being activated on Win+Num",
+                        "url": "https://github.com/files-community/Files/pull/10391",
+                        "state": "MERGED",
+                        "number": 10391,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Fixed issue with Files launcher not getting copied to output \u2026",
+                        "url": "https://github.com/files-community/Files/pull/10392",
+                        "state": "MERGED",
+                        "number": 10392,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Code Quality: Removing and ordering using statements",
+                        "url": "https://github.com/files-community/Files/pull/10397",
+                        "state": "MERGED",
+                        "number": 10397,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Code Quality : If/Else refactoring and minor formattings",
+                        "url": "https://github.com/files-community/Files/pull/10398",
+                        "state": "MERGED",
+                        "number": 10398,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/10399",
+                        "state": "MERGED",
+                        "number": 10399,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Don't display warning when changing extension from properties window",
+                        "url": "https://github.com/files-community/Files/pull/10400",
+                        "state": "MERGED",
+                        "number": 10400,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Code Quality: Use constant documentation for help command",
+                        "url": "https://github.com/files-community/Files/pull/10402",
+                        "state": "MERGED",
+                        "number": 10402,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed accessibility tests",
+                        "url": "https://github.com/files-community/Files/pull/10403",
+                        "state": "MERGED",
+                        "number": 10403,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "manfromarce"
+                        },
+                        "title": "Fix: Fixed issue where OEM plus key for Alt+Shift++ (New pane) wasn't working",
+                        "url": "https://github.com/files-community/Files/pull/10405",
+                        "state": "MERGED",
+                        "number": 10405,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Show modal when extracting password protected archives",
+                        "url": "https://github.com/files-community/Files/pull/10413",
+                        "state": "MERGED",
+                        "number": 10413,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Feature: Add compression options",
+                                        "url": "https://github.com/files-community/Files/issues/10327",
+                                        "state": "CLOSED",
+                                        "number": 10327,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Draft Key Manager",
+                        "url": "https://github.com/files-community/Files/pull/10416",
+                        "state": "CLOSED",
+                        "number": 10416,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "QuaintMako"
+                                        },
+                                        "title": "Fix: Fixed crash that would occur when holding down ctrl + t",
+                                        "url": "https://github.com/files-community/Files/pull/10385",
+                                        "state": "CLOSED",
+                                        "number": 10385,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Draft rich command",
+                                        "url": "https://github.com/files-community/Files/pull/10673",
+                                        "state": "CLOSED",
+                                        "number": 10673,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Tests: Added copy paste test",
+                        "url": "https://github.com/files-community/Files/pull/10418",
+                        "state": "MERGED",
+                        "number": 10418,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Fix: Navigating using left/right arrows in the column layout no longer crashes the app",
+                        "url": "https://github.com/files-community/Files/pull/10421",
+                        "state": "MERGED",
+                        "number": 10421,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Add sync status to tooltip",
+                        "url": "https://github.com/files-community/Files/pull/10424",
+                        "state": "MERGED",
+                        "number": 10424,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.NET.Test.Sdk from 17.3.2 to 17.4.0",
+                        "url": "https://github.com/files-community/Files/pull/10426",
+                        "state": "MERGED",
+                        "number": 10426,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump System.Threading.Tasks.Dataflow from 7.0.0-rc.2.22472.3 to 7.0.0",
+                        "url": "https://github.com/files-community/Files/pull/10427",
+                        "state": "MERGED",
+                        "number": 10427,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump FluentFTP from 41.0.0 to 42.0.1",
+                        "url": "https://github.com/files-community/Files/pull/10428",
+                        "state": "MERGED",
+                        "number": 10428,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Data.Sqlite.Core from 7.0.0-rc.2.22472.11 to 7.0.0",
+                        "url": "https://github.com/files-community/Files/pull/10429",
+                        "state": "MERGED",
+                        "number": 10429,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Extensions.DependencyInjection from 7.0.0-rc.2.22472.3 to 7.0.0",
+                        "url": "https://github.com/files-community/Files/pull/10430",
+                        "state": "MERGED",
+                        "number": 10430,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Cancel search when pressing esc key",
+                        "url": "https://github.com/files-community/Files/pull/10434",
+                        "state": "MERGED",
+                        "number": 10434,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where ongoing tasks icon would show file transfers as complete when the operation failed",
+                        "url": "https://github.com/files-community/Files/pull/10435",
+                        "state": "MERGED",
+                        "number": 10435,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers from 0.4.346202 to 0.4.355802",
+                        "url": "https://github.com/files-community/Files/pull/10437",
+                        "state": "MERGED",
+                        "number": 10437,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

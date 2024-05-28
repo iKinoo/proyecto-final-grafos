@@ -1,0 +1,1803 @@
+{
+    "data": {
+        "repository": {
+            "issues": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpIBzmI3y90="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "BarkBijli"
+                        },
+                        "title": "I can't unpin from favorites or sort favorites.",
+                        "url": "https://github.com/files-community/Files/issues/12823",
+                        "state": "CLOSED",
+                        "number": 12823,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cos1110"
+                        },
+                        "title": "Drag to resize the window from the top border results to move.",
+                        "url": "https://github.com/files-community/Files/issues/12820",
+                        "state": "CLOSED",
+                        "number": 12820,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Deleting tags after changing layout may cause crash",
+                        "url": "https://github.com/files-community/Files/issues/12814",
+                        "state": "CLOSED",
+                        "number": 12814,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fix: Fixed issue were removing a tag after changing the layout would cause a crash",
+                                        "url": "https://github.com/files-community/Files/pull/12839",
+                                        "state": "MERGED",
+                                        "number": 12839,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: \"Open in new window\" follows the startup settings",
+                        "url": "https://github.com/files-community/Files/issues/12812",
+                        "state": "CLOSED",
+                        "number": 12812,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where \"Open in new window\" followed the startup settings",
+                                        "url": "https://github.com/files-community/Files/pull/12853",
+                                        "state": "MERGED",
+                                        "number": 12853,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "littlefooch"
+                        },
+                        "title": "Network Folder Display Slow",
+                        "url": "https://github.com/files-community/Files/issues/12808",
+                        "state": "CLOSED",
+                        "number": 12808,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dotdotcurrve"
+                        },
+                        "title": "Font size",
+                        "url": "https://github.com/files-community/Files/issues/12807",
+                        "state": "CLOSED",
+                        "number": 12807,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JohRest"
+                        },
+                        "title": "Bug: STRG-e key combination crashes Files",
+                        "url": "https://github.com/files-community/Files/issues/12801",
+                        "state": "CLOSED",
+                        "number": 12801,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed crash that would occur when pressing Ctrl+E on the Home page",
+                                        "url": "https://github.com/files-community/Files/pull/12806",
+                                        "state": "MERGED",
+                                        "number": 12806,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "xmamalou"
+                        },
+                        "title": "Make pull request window not appear unless pull was requested + add \"up to date\" notif when pulling",
+                        "url": "https://github.com/files-community/Files/issues/12797",
+                        "state": "CLOSED",
+                        "number": 12797,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Bug: Misalignment Between Separators",
+                        "url": "https://github.com/files-community/Files/issues/12792",
+                        "state": "CLOSED",
+                        "number": 12792,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Fix: Fixed alignment issues on the Status Bar",
+                                        "url": "https://github.com/files-community/Files/pull/12794",
+                                        "state": "MERGED",
+                                        "number": 12794,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "proxymentality"
+                        },
+                        "title": "crush on ya for making such a marvelous explorer (●'◡'●)ﾉ♥",
+                        "url": "https://github.com/files-community/Files/issues/12783",
+                        "state": "CLOSED",
+                        "number": 12783,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mdtauk"
+                        },
+                        "title": "Issue: Preview Pane fields should be read-only",
+                        "url": "https://github.com/files-community/Files/issues/12781",
+                        "state": "CLOSED",
+                        "number": 12781,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Redesigned the way details are displayed in the details pane",
+                                        "url": "https://github.com/files-community/Files/pull/12782",
+                                        "state": "MERGED",
+                                        "number": 12782,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "piperun"
+                        },
+                        "title": "Folder with over 1000+ files will cause high CPU usage even when idle",
+                        "url": "https://github.com/files-community/Files/issues/12767",
+                        "state": "CLOSED",
+                        "number": 12767,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yIsItSo"
+                        },
+                        "title": "Bug: \"copy path\" from context menu crashes files",
+                        "url": "https://github.com/files-community/Files/issues/12757",
+                        "state": "CLOSED",
+                        "number": 12757,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed crash that would occur when copying path",
+                                        "url": "https://github.com/files-community/Files/pull/12765",
+                                        "state": "MERGED",
+                                        "number": 12765,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tanchekwei"
+                        },
+                        "title": "Bug: Properties of shortcut misalign in Recycle Bin",
+                        "url": "https://github.com/files-community/Files/issues/12756",
+                        "state": "CLOSED",
+                        "number": 12756,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where the columns were misaligned in Recycle Bin",
+                                        "url": "https://github.com/files-community/Files/pull/12836",
+                                        "state": "MERGED",
+                                        "number": 12836,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Nothing happens when entering `%temp%`",
+                        "url": "https://github.com/files-community/Files/issues/12742",
+                        "state": "CLOSED",
+                        "number": 12742,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where `%temp%` and `%tmp%` were not replaced with the correct path when entered from the Address bar",
+                                        "url": "https://github.com/files-community/Files/pull/12743",
+                                        "state": "MERGED",
+                                        "number": 12743,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Anazark"
+                        },
+                        "title": "Remove the dead useless space above tabs",
+                        "url": "https://github.com/files-community/Files/issues/12741",
+                        "state": "CLOSED",
+                        "number": 12741,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Base-115"
+                        },
+                        "title": "Bug: To entry in any empty folder with arrow keys in Column Layout crash Files ",
+                        "url": "https://github.com/files-community/Files/issues/12724",
+                        "state": "CLOSED",
+                        "number": 12724,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed crash with moving into an empty folder in column layout",
+                                        "url": "https://github.com/files-community/Files/pull/12725",
+                                        "state": "MERGED",
+                                        "number": 12725,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Bug: Issue with Recycle Bin Icon Not Updating After Emptying",
+                        "url": "https://github.com/files-community/Files/issues/12720",
+                        "state": "CLOSED",
+                        "number": 12720,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Bug: Translation Issues in Property Dialog",
+                        "url": "https://github.com/files-community/Files/issues/12718",
+                        "state": "CLOSED",
+                        "number": 12718,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Translated missing strings in Properties",
+                                        "url": "https://github.com/files-community/Files/pull/12721",
+                                        "state": "MERGED",
+                                        "number": 12721,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IlyaSulli"
+                        },
+                        "title": "Folders with many files open partially down the folder",
+                        "url": "https://github.com/files-community/Files/issues/12714",
+                        "state": "CLOSED",
+                        "number": 12714,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: The Git panel remains in the status bar when the home page is displayed in dual-pane",
+                        "url": "https://github.com/files-community/Files/issues/12701",
+                        "state": "CLOSED",
+                        "number": 12701,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fix: Fixed issue where Git buttons were incorrectly shown in the status bar",
+                                        "url": "https://github.com/files-community/Files/pull/12703",
+                                        "state": "MERGED",
+                                        "number": 12703,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gregclerk"
+                        },
+                        "title": "crash on unc share access",
+                        "url": "https://github.com/files-community/Files/issues/12682",
+                        "state": "CLOSED",
+                        "number": 12682,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IlyaSulli"
+                        },
+                        "title": "Show Multi-file size",
+                        "url": "https://github.com/files-community/Files/issues/12680",
+                        "state": "CLOSED",
+                        "number": 12680,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Add tooltips to Git columns",
+                        "url": "https://github.com/files-community/Files/issues/12675",
+                        "state": "CLOSED",
+                        "number": 12675,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Feature: Added tooltips to Git columns in the details layout",
+                                        "url": "https://github.com/files-community/Files/pull/12676",
+                                        "state": "MERGED",
+                                        "number": 12676,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IlyaSulli"
+                        },
+                        "title": "Bug: Context menu is mising icon for \"New shortcut\"",
+                        "url": "https://github.com/files-community/Files/issues/12668",
+                        "state": "CLOSED",
+                        "number": 12668,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Fix: Fixed issue where the icon was missing from the \"new shortcut\" option",
+                                        "url": "https://github.com/files-community/Files/pull/12671",
+                                        "state": "MERGED",
+                                        "number": 12671,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "elixss"
+                        },
+                        "title": "Connecting an iPhone does not open Files ",
+                        "url": "https://github.com/files-community/Files/issues/12663",
+                        "state": "CLOSED",
+                        "number": 12663,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Item names in Tags widget don't have ellipsis even when trimmed",
+                        "url": "https://github.com/files-community/Files/issues/12650",
+                        "state": "CLOSED",
+                        "number": 12650,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where item names in the Tags widget didn't have ellipsis",
+                                        "url": "https://github.com/files-community/Files/pull/12651",
+                                        "state": "MERGED",
+                                        "number": 12651,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "XERE"
+                        },
+                        "title": "タグ機能",
+                        "url": "https://github.com/files-community/Files/issues/12643",
+                        "state": "CLOSED",
+                        "number": 12643,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "onlytanmoy"
+                        },
+                        "title": "3 more options on the top ribbon bar",
+                        "url": "https://github.com/files-community/Files/issues/12635",
+                        "state": "CLOSED",
+                        "number": 12635,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "onlytanmoy"
+                                        },
+                                        "title": "3 more options on the top ribbon bar",
+                                        "url": "https://github.com/files-community/Website/issues/454",
+                                        "state": "CLOSED",
+                                        "number": 454,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "moray33"
+                        },
+                        "title": "Sort files by lenght",
+                        "url": "https://github.com/files-community/Files/issues/12627",
+                        "state": "CLOSED",
+                        "number": 12627,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "enricodarodda"
+                        },
+                        "title": "PDF files missing pages in Preview Pane",
+                        "url": "https://github.com/files-community/Files/issues/12623",
+                        "state": "CLOSED",
+                        "number": 12623,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "EpGithub22"
+                        },
+                        "title": "TreeView Glyph on the left navigation pane",
+                        "url": "https://github.com/files-community/Files/issues/12611",
+                        "state": "CLOSED",
+                        "number": 12611,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Archive files are counted as folders",
+                        "url": "https://github.com/files-community/Files/issues/12605",
+                        "state": "CLOSED",
+                        "number": 12605,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where archive files were counted as folders",
+                                        "url": "https://github.com/files-community/Files/pull/12621",
+                                        "state": "MERGED",
+                                        "number": 12621,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Bug: Consistent crash in Dual Pane mode when getting out of Git folder",
+                        "url": "https://github.com/files-community/Files/issues/12589",
+                        "state": "CLOSED",
+                        "number": 12589,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Fixed crash in Dual Pane mode when switching away from Git folder",
+                                        "url": "https://github.com/files-community/Files/pull/12599",
+                                        "state": "MERGED",
+                                        "number": 12599,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed crash when switching away from Git folder",
+                                        "url": "https://github.com/files-community/Files/pull/12656",
+                                        "state": "MERGED",
+                                        "number": 12656,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hawkerm"
+                                        },
+                                        "title": "Bug: Application hang when dragging file onto a tab/folder which contains existing file with same name ",
+                                        "url": "https://github.com/files-community/Files/issues/12637",
+                                        "state": "CLOSED",
+                                        "number": 12637,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Bug: Preview Pane does not refresh when switching pane in Dual Pane",
+                        "url": "https://github.com/files-community/Files/issues/12588",
+                        "state": "CLOSED",
+                        "number": 12588,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where the preview pane didn't update when switching panes",
+                                        "url": "https://github.com/files-community/Files/pull/12647",
+                                        "state": "MERGED",
+                                        "number": 12647,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "YT-Advanced"
+                        },
+                        "title": "Use Everything for searching",
+                        "url": "https://github.com/files-community/Files/issues/12587",
+                        "state": "CLOSED",
+                        "number": 12587,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Feature: Add Separate \"Compress\" and \"Decompress\" Options in the Context Menu",
+                        "url": "https://github.com/files-community/Files/issues/12582",
+                        "state": "CLOSED",
+                        "number": 12582,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Separated the archive options in the right click menu",
+                                        "url": "https://github.com/files-community/Files/pull/12655",
+                                        "state": "MERGED",
+                                        "number": 12655,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mdtauk"
+                        },
+                        "title": "Feature: Non-interactive Status Bar text brush",
+                        "url": "https://github.com/files-community/Files/issues/12563",
+                        "state": "CLOSED",
+                        "number": 12563,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Updated status bar brushes",
+                                        "url": "https://github.com/files-community/Files/pull/12565",
+                                        "state": "MERGED",
+                                        "number": 12565,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mdtauk"
+                        },
+                        "title": "Feature: Add tooltip to git branch on status bar",
+                        "url": "https://github.com/files-community/Files/issues/12562",
+                        "state": "CLOSED",
+                        "number": 12562,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Updated status bar brushes",
+                                        "url": "https://github.com/files-community/Files/pull/12565",
+                                        "state": "MERGED",
+                                        "number": 12565,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "bAN0NYM0US"
+                        },
+                        "title": "Bug: Drag & Drop thumbnail issue",
+                        "url": "https://github.com/files-community/Files/issues/12556",
+                        "state": "OPEN",
+                        "number": 12556,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "mambans"
+                                        },
+                                        "title": "Bug: Crash when dragging items to another Files window and hovering over the folder",
+                                        "url": "https://github.com/files-community/Files/issues/12827",
+                                        "state": "CLOSED",
+                                        "number": 12827,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "MarathonMax"
+                                        },
+                                        "title": "Drag and drop of files to another windows files should not create a shadow with all column info",
+                                        "url": "https://github.com/files-community/Files/issues/14687",
+                                        "state": "CLOSED",
+                                        "number": 14687,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "soredake"
+                                        },
+                                        "title": "Make drag-icon size constant and preferably small by default",
+                                        "url": "https://github.com/files-community/Files/issues/15021",
+                                        "state": "CLOSED",
+                                        "number": 15021,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jatinsehrwt"
+                        },
+                        "title": "Auto hidden Taskbar doesn't open when hovering Taskbar position.",
+                        "url": "https://github.com/files-community/Files/issues/12552",
+                        "state": "CLOSED",
+                        "number": 12552,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "GuruDeol"
+                        },
+                        "title": "Taskbar stays hidden",
+                        "url": "https://github.com/files-community/Files/issues/12547",
+                        "state": "CLOSED",
+                        "number": 12547,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "barisunsalhn"
+                        },
+                        "title": "Copying file path copies without quotes",
+                        "url": "https://github.com/files-community/Files/issues/12540",
+                        "state": "CLOSED",
+                        "number": 12540,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Allen1351"
+                        },
+                        "title": "Lag when deleting folders",
+                        "url": "https://github.com/files-community/Files/issues/12536",
+                        "state": "CLOSED",
+                        "number": 12536,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Right-clicking at the bottom of the page does not bring up a context menu.",
+                        "url": "https://github.com/files-community/Files/issues/12524",
+                        "state": "CLOSED",
+                        "number": 12524,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue with context menu sometimes not displaying",
+                                        "url": "https://github.com/files-community/Files/pull/12576",
+                                        "state": "MERGED",
+                                        "number": 12576,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "poxynam"
+                        },
+                        "title": "Option to disable smooth scrolling",
+                        "url": "https://github.com/files-community/Files/issues/12521",
+                        "state": "CLOSED",
+                        "number": 12521,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "LinusHe"
+                        },
+                        "title": "Support of \"Peek\" Feature from Windows PowerToys",
+                        "url": "https://github.com/files-community/Files/issues/12519",
+                        "state": "CLOSED",
+                        "number": 12519,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Mushiness0127"
+                        },
+                        "title": "while moving or copying files, close files app and reopen then progress tab is gone plz fix this",
+                        "url": "https://github.com/files-community/Files/issues/12513",
+                        "state": "CLOSED",
+                        "number": 12513,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Inconsistent Translation in \"Files\" App - \"Allow\" instead of \"Autorisé\" in Advanced Permissions",
+                        "url": "https://github.com/files-community/Files/issues/12501",
+                        "state": "CLOSED",
+                        "number": 12501,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed translation in Advanced Permissions page",
+                                        "url": "https://github.com/files-community/Files/pull/12502",
+                                        "state": "MERGED",
+                                        "number": 12502,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "MCUxDaredevil"
+                        },
+                        "title": "Add the ability to display full names",
+                        "url": "https://github.com/files-community/Files/issues/12493",
+                        "state": "CLOSED",
+                        "number": 12493,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Support for optimizing for specific document types",
+                        "url": "https://github.com/files-community/Files/issues/12491",
+                        "state": "OPEN",
+                        "number": 12491,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "Not needed anymore",
+                        "url": "https://github.com/files-community/Files/issues/12487",
+                        "state": "CLOSED",
+                        "number": 12487,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "abbcccbba"
+                        },
+                        "title": "希望在新版本对图像UI做出改变",
+                        "url": "https://github.com/files-community/Files/issues/12473",
+                        "state": "CLOSED",
+                        "number": 12473,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "98Ulamog"
+                        },
+                        "title": "error alerts on notifications bar",
+                        "url": "https://github.com/files-community/Files/issues/12464",
+                        "state": "CLOSED",
+                        "number": 12464,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jh961202"
+                        },
+                        "title": "Progress bar misplaced in Ongoing Tasks window",
+                        "url": "https://github.com/files-community/Files/issues/12463",
+                        "state": "CLOSED",
+                        "number": 12463,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "warquys"
+                        },
+                        "title": "Bug: \"Show preview only\" option menu does not appear for txt files",
+                        "url": "https://github.com/files-community/Files/issues/12437",
+                        "state": "CLOSED",
+                        "number": 12437,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Added pivot to switch between details and preview pane",
+                                        "url": "https://github.com/files-community/Files/pull/12438",
+                                        "state": "MERGED",
+                                        "number": 12438,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added git columns to the details layout",
+                        "url": "https://github.com/files-community/Files/issues/12431",
+                        "state": "CLOSED",
+                        "number": 12431,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "0x5bfa"
+                                        },
+                                        "title": "Feature: Added Git columns to the details layout",
+                                        "url": "https://github.com/files-community/Files/pull/12485",
+                                        "state": "MERGED",
+                                        "number": 12485,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Au-angeloupali"
+                        },
+                        "title": "Feature: Tab separation with position memory",
+                        "url": "https://github.com/files-community/Files/issues/12430",
+                        "state": "OPEN",
+                        "number": 12430,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "rafaelsouzams"
+                        },
+                        "title": "Feature: Horizontal Panel",
+                        "url": "https://github.com/files-community/Files/issues/12427",
+                        "state": "OPEN",
+                        "number": 12427,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Wolfgodie"
+                                        },
+                                        "title": "Dual Pane Switch (Vertical - Horizontal)",
+                                        "url": "https://github.com/files-community/Files/issues/13943",
+                                        "state": "CLOSED",
+                                        "number": 13943,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Add a link to Crowdin on the About page of the settings dialog",
+                        "url": "https://github.com/files-community/Files/issues/12426",
+                        "state": "CLOSED",
+                        "number": 12426,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Added Crowdin link to the about page",
+                                        "url": "https://github.com/files-community/Files/pull/12433",
+                                        "state": "MERGED",
+                                        "number": 12433,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Restart dialog does not display without scrolling",
+                        "url": "https://github.com/files-community/Files/issues/12421",
+                        "state": "CLOSED",
+                        "number": 12421,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Added restart teaching tip",
+                                        "url": "https://github.com/files-community/Files/pull/12425",
+                                        "state": "MERGED",
+                                        "number": 12425,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Transmissiontoday"
+                        },
+                        "title": "Key bind - assign Color Tag",
+                        "url": "https://github.com/files-community/Files/issues/12406",
+                        "state": "CLOSED",
+                        "number": 12406,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Au-angeloupali"
+                        },
+                        "title": "Vertically center icons and names in minimized view",
+                        "url": "https://github.com/files-community/Files/issues/12391",
+                        "state": "CLOSED",
+                        "number": 12391,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Jay-o-Way"
+                        },
+                        "title": "Bug: RepositionThemeTransition sometimes not playing nicely",
+                        "url": "https://github.com/files-community/Files/issues/12360",
+                        "state": "CLOSED",
+                        "number": 12360,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Feature: Switched to RepositionThemeTransition\"",
+                                        "url": "https://github.com/files-community/Files/pull/12361",
+                                        "state": "MERGED",
+                                        "number": 12361,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "carlosvsilva"
+                        },
+                        "title": "Home: removing a recent file from the list fails and opens instead File Locksmith from MS Powertoys",
+                        "url": "https://github.com/files-community/Files/issues/12354",
+                        "state": "CLOSED",
+                        "number": 12354,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lvsunz3748"
+                        },
+                        "title": "Rename FILES",
+                        "url": "https://github.com/files-community/Files/issues/12350",
+                        "state": "CLOSED",
+                        "number": 12350,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "wharjack"
+                                        },
+                                        "title": "Feature Request: Rename “Files” into something unique for SEO",
+                                        "url": "https://github.com/files-community/Files/issues/12385",
+                                        "state": "CLOSED",
+                                        "number": 12385,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Removing duplicates in localized strings",
+                        "url": "https://github.com/files-community/Files/issues/12341",
+                        "state": "CLOSED",
+                        "number": 12341,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "rajq123"
+                        },
+                        "title": "Sub menu disappear when we move mouse",
+                        "url": "https://github.com/files-community/Files/issues/12328",
+                        "state": "CLOSED",
+                        "number": 12328,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "itsWindows11"
+                        },
+                        "title": "Code Quality: Seal classes when possible",
+                        "url": "https://github.com/files-community/Files/issues/12304",
+                        "state": "CLOSED",
+                        "number": 12304,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gumbarros"
+                                        },
+                                        "title": "Code quality: Seal all non-inherited classes to improve performance",
+                                        "url": "https://github.com/files-community/Files/pull/14990",
+                                        "state": "MERGED",
+                                        "number": 14990,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Feature :  resize office files",
+                        "url": "https://github.com/files-community/Files/issues/12297",
+                        "state": "CLOSED",
+                        "number": 12297,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "BammBeee62"
+                        },
+                        "title": "Details view Columns",
+                        "url": "https://github.com/files-community/Files/issues/12278",
+                        "state": "CLOSED",
+                        "number": 12278,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Sush85"
+                        },
+                        "title": "Full Tree expand of the drives on the left pane",
+                        "url": "https://github.com/files-community/Files/issues/12271",
+                        "state": "CLOSED",
+                        "number": 12271,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mafra99"
+                        },
+                        "title": "Bug: Values in preview pane can be edited",
+                        "url": "https://github.com/files-community/Files/issues/12268",
+                        "state": "CLOSED",
+                        "number": 12268,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "acdiana"
+                        },
+                        "title": "Edit layout column details",
+                        "url": "https://github.com/files-community/Files/issues/12250",
+                        "state": "CLOSED",
+                        "number": 12250,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lukiluc29"
+                        },
+                        "title": "Resolving French Translation Issues on Crowdin",
+                        "url": "https://github.com/files-community/Files/issues/12232",
+                        "state": "CLOSED",
+                        "number": 12232,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pcaaaal"
+                        },
+                        "title": "Files app Crashed",
+                        "url": "https://github.com/files-community/Files/issues/12224",
+                        "state": "CLOSED",
+                        "number": 12224,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Disable App Center on dev builds",
+                        "url": "https://github.com/files-community/Files/issues/12188",
+                        "state": "CLOSED",
+                        "number": 12188,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Code Quality: Added new build configurations",
+                                        "url": "https://github.com/files-community/Files/pull/12189",
+                                        "state": "MERGED",
+                                        "number": 12189,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "SethPederito2023"
+                        },
+                        "title": "Trainz Railroad 2004 is Crashing the Game! Looks Like I Need to Install DirectX9",
+                        "url": "https://github.com/files-community/Files/issues/12163",
+                        "state": "CLOSED",
+                        "number": 12163,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "blackbird98888"
+                        },
+                        "title": "transparency ",
+                        "url": "https://github.com/files-community/Files/issues/12115",
+                        "state": "CLOSED",
+                        "number": 12115,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "blackbird98888"
+                        },
+                        "title": "nothings",
+                        "url": "https://github.com/files-community/Files/issues/12113",
+                        "state": "CLOSED",
+                        "number": 12113,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "blackbird98888"
+                                        },
+                                        "title": "transparency ",
+                                        "url": "https://github.com/files-community/Files/issues/12115",
+                                        "state": "CLOSED",
+                                        "number": 12115,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "oleklukasiewicz"
+                        },
+                        "title": "Context menu item is not selectable if is rendered above address bar",
+                        "url": "https://github.com/files-community/Files/issues/12102",
+                        "state": "CLOSED",
+                        "number": 12102,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Quick cursor movement may cause checkboxes to remain visible",
+                        "url": "https://github.com/files-community/Files/issues/12100",
+                        "state": "CLOSED",
+                        "number": 12100,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where checkboxes might remain visible",
+                                        "url": "https://github.com/files-community/Files/pull/12104",
+                                        "state": "MERGED",
+                                        "number": 12104,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Heisenberg-tr"
+                        },
+                        "title": "Poor performance when loading home screen",
+                        "url": "https://github.com/files-community/Files/issues/12084",
+                        "state": "CLOSED",
+                        "number": 12084,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferdher"
+                        },
+                        "title": "Delete some files",
+                        "url": "https://github.com/files-community/Files/issues/12061",
+                        "state": "CLOSED",
+                        "number": 12061,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tarokawa516"
+                        },
+                        "title": "Crashed while moving a file in dropbox to another dropbox folder",
+                        "url": "https://github.com/files-community/Files/issues/12060",
+                        "state": "CLOSED",
+                        "number": 12060,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JasonTan94"
+                                        },
+                                        "title": "Bug: Files crashes sometimes when deleting/moving folders",
+                                        "url": "https://github.com/files-community/Files/issues/12042",
+                                        "state": "CLOSED",
+                                        "number": 12042,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "sirwgame"
+                        },
+                        "title": "Unable to click on the first option in the right-click menu that covers the title bar",
+                        "url": "https://github.com/files-community/Files/issues/12059",
+                        "state": "CLOSED",
+                        "number": 12059,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Disable keyboard shortcuts when renaming items",
+                        "url": "https://github.com/files-community/Files/issues/12053",
+                        "state": "CLOSED",
+                        "number": 12053,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed Ctrl+A in the rename textbox",
+                                        "url": "https://github.com/files-community/Files/pull/12050",
+                                        "state": "MERGED",
+                                        "number": 12050,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Disabled keyboard shortcuts when renaming items",
+                                        "url": "https://github.com/files-community/Files/pull/13118",
+                                        "state": "MERGED",
+                                        "number": 13118,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "N-coder82"
+                        },
+                        "title": "Custom Cloud Drives",
+                        "url": "https://github.com/files-community/Files/issues/12051",
+                        "state": "CLOSED",
+                        "number": 12051,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Bug: Grid splitter shows wrong cursor",
+                        "url": "https://github.com/files-community/Files/issues/12046",
+                        "state": "CLOSED",
+                        "number": 12046,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Fixed grip splitter cursor behavior for preview pane and secondary pane",
+                                        "url": "https://github.com/files-community/Files/pull/12047",
+                                        "state": "MERGED",
+                                        "number": 12047,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dp4github"
+                        },
+                        "title": "Ongoing Task",
+                        "url": "https://github.com/files-community/Files/issues/12023",
+                        "state": "CLOSED",
+                        "number": 12023,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Bootzzzz"
+                        },
+                        "title": "File explorer",
+                        "url": "https://github.com/files-community/Files/issues/12018",
+                        "state": "CLOSED",
+                        "number": 12018,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Starting dual-pane mode raises a NotAFolder error in other than English",
+                        "url": "https://github.com/files-community/Files/issues/12016",
+                        "state": "CLOSED",
+                        "number": 12016,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "RichCommands: Add Item & Edit Path",
+                                        "url": "https://github.com/files-community/Files/pull/12011",
+                                        "state": "MERGED",
+                                        "number": 12011,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "RichCommands: Open & Close Pane",
+                                        "url": "https://github.com/files-community/Files/pull/12002",
+                                        "state": "MERGED",
+                                        "number": 12002,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "feixuei"
+                        },
+                        "title": "右键菜单",
+                        "url": "https://github.com/files-community/Files/issues/12006",
+                        "state": "CLOSED",
+                        "number": 12006,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "sscco55"
+                        },
+                        "title": "High CPU usage after opening the software",
+                        "url": "https://github.com/files-community/Files/issues/12000",
+                        "state": "CLOSED",
+                        "number": 12000,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tavombr"
+                        },
+                        "title": "Bug: Can't drag multiple files from the tags area",
+                        "url": "https://github.com/files-community/Files/issues/11958",
+                        "state": "CLOSED",
+                        "number": 11958,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fix: Fixed can't drag multiple files from the tags area",
+                                        "url": "https://github.com/files-community/Files/pull/12219",
+                                        "state": "MERGED",
+                                        "number": 12219,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Add \"Review Files\" button to toolbar",
+                        "url": "https://github.com/files-community/Files/issues/11931",
+                        "state": "CLOSED",
+                        "number": 11931,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nemson-source"
+                        },
+                        "title": "slow down",
+                        "url": "https://github.com/files-community/Files/issues/11927",
+                        "state": "CLOSED",
+                        "number": 11927,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "BezCommentariev"
+                        },
+                        "title": "file copy display",
+                        "url": "https://github.com/files-community/Files/issues/11923",
+                        "state": "CLOSED",
+                        "number": 11923,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "piernik"
+                        },
+                        "title": "Feature: spacebar to select file",
+                        "url": "https://github.com/files-community/Files/issues/11913",
+                        "state": "CLOSED",
+                        "number": 11913,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Bug: Scroll position is wrong after deletion if grouped",
+                        "url": "https://github.com/files-community/Files/issues/11910",
+                        "state": "OPEN",
+                        "number": 11910,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

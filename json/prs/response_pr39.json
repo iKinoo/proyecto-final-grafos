@@ -1,0 +1,1555 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOSnqRiA=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Feature: Restart after applying update",
+                        "url": "https://github.com/files-community/Files/pull/11191",
+                        "state": "MERGED",
+                        "number": 11191,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added shortcut to open folders in terminal",
+                        "url": "https://github.com/files-community/Files/pull/11192",
+                        "state": "MERGED",
+                        "number": 11192,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Added 'Open in Terminal' shortcut",
+                                        "url": "https://github.com/files-community/Website/pull/378",
+                                        "state": "MERGED",
+                                        "number": 378,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Added shortcut to open Windows Terminal as administrator",
+                                        "url": "https://github.com/files-community/Files/pull/11281",
+                                        "state": "MERGED",
+                                        "number": 11281,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "radu-cernatescu"
+                        },
+                        "title": "Fix: Refactor smb credentials dialog logic",
+                        "url": "https://github.com/files-community/Files/pull/11193",
+                        "state": "MERGED",
+                        "number": 11193,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "radu-cernatescu"
+                                        },
+                                        "title": "Feature: Prompt for credentials when connecting smb",
+                                        "url": "https://github.com/files-community/Files/pull/11144",
+                                        "state": "MERGED",
+                                        "number": 11144,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fix: Fixed network folder error with phones",
+                                        "url": "https://github.com/files-community/Files/pull/11414",
+                                        "state": "MERGED",
+                                        "number": 11414,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "mafra99"
+                                        },
+                                        "title": "Fix: Fixed issue with browsing WSL drives",
+                                        "url": "https://github.com/files-community/Files/pull/11793",
+                                        "state": "MERGED",
+                                        "number": 11793,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Xaml cleanup",
+                        "url": "https://github.com/files-community/Files/pull/11196",
+                        "state": "MERGED",
+                        "number": 11196,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Additional fix to show a confirmation dialog when undoing",
+                        "url": "https://github.com/files-community/Files/pull/11197",
+                        "state": "CLOSED",
+                        "number": 11197,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fixed: DetailsLayout Margin/Padding is not set correctly",
+                        "url": "https://github.com/files-community/Files/pull/11198",
+                        "state": "MERGED",
+                        "number": 11198,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed the dialog may not be shown when undoing to delete items",
+                        "url": "https://github.com/files-community/Files/pull/11201",
+                        "state": "MERGED",
+                        "number": 11201,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Feature: Add shell context menu for widgets",
+                        "url": "https://github.com/files-community/Files/pull/11204",
+                        "state": "MERGED",
+                        "number": 11204,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Feature: Disable show more options menu item until shell items are loaded",
+                                        "url": "https://github.com/files-community/Files/pull/11243",
+                                        "state": "MERGED",
+                                        "number": 11243,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Fix: Fixed sidebar context menu items not showing",
+                                        "url": "https://github.com/files-community/Files/pull/11261",
+                                        "state": "MERGED",
+                                        "number": 11261,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Fix: Fixed context menu hang in recent files and other widgets",
+                                        "url": "https://github.com/files-community/Files/pull/11301",
+                                        "state": "MERGED",
+                                        "number": 11301,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Removed background color from tags in the details layout",
+                        "url": "https://github.com/files-community/Files/pull/11207",
+                        "state": "MERGED",
+                        "number": 11207,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.DotNet.UpgradeAssistant.Extensions.Default.Analyzers from 0.4.355802 to 0.4.410601",
+                        "url": "https://github.com/files-community/Files/pull/11209",
+                        "state": "MERGED",
+                        "number": 11209,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added option to confirm permanent deletion only",
+                        "url": "https://github.com/files-community/Files/pull/11212",
+                        "state": "MERGED",
+                        "number": 11212,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "vcsjones"
+                        },
+                        "title": "Perf: Small performance improvement for CalculateChecksumForPath",
+                        "url": "https://github.com/files-community/Files/pull/11214",
+                        "state": "MERGED",
+                        "number": 11214,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Display multiple tags in the details layout",
+                        "url": "https://github.com/files-community/Files/pull/11216",
+                        "state": "MERGED",
+                        "number": 11216,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Display multiple tags in the tags column",
+                                        "url": "https://github.com/files-community/Files/issues/9584",
+                                        "state": "CLOSED",
+                                        "number": 9584,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "mafra99"
+                                        },
+                                        "title": "Fix: Fixed \"Size All Columns to Fit\" not working properly",
+                                        "url": "https://github.com/files-community/Files/pull/11437",
+                                        "state": "MERGED",
+                                        "number": 11437,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for opening ISO files",
+                        "url": "https://github.com/files-community/Files/pull/11217",
+                        "state": "MERGED",
+                        "number": 11217,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added settings for default order directions",
+                        "url": "https://github.com/files-community/Files/pull/11220",
+                        "state": "MERGED",
+                        "number": 11220,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where archive files were incorrectly grouped by size",
+                        "url": "https://github.com/files-community/Files/pull/11222",
+                        "state": "MERGED",
+                        "number": 11222,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Tweaked logic for prompt to review",
+                        "url": "https://github.com/files-community/Files/pull/11223",
+                        "state": "MERGED",
+                        "number": 11223,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Start a search when clicking tags in the details layout",
+                        "url": "https://github.com/files-community/Files/pull/11225",
+                        "state": "MERGED",
+                        "number": 11225,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11227",
+                        "state": "MERGED",
+                        "number": 11227,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Release: v2.4.33",
+                        "url": "https://github.com/files-community/Files/pull/11228",
+                        "state": "MERGED",
+                        "number": 11228,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where option to hide details pane wasn't working",
+                        "url": "https://github.com/files-community/Files/pull/11230",
+                        "state": "MERGED",
+                        "number": 11230,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Repo: Updated readme file",
+                        "url": "https://github.com/files-community/Files/pull/11231",
+                        "state": "MERGED",
+                        "number": 11231,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed \"NotAFolder\" error when changing the language",
+                        "url": "https://github.com/files-community/Files/pull/11232",
+                        "state": "MERGED",
+                        "number": 11232,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed selecting wrong items when creating or renaming an item",
+                        "url": "https://github.com/files-community/Files/pull/11237",
+                        "state": "MERGED",
+                        "number": 11237,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Add support for removing tag in the details layout",
+                        "url": "https://github.com/files-community/Files/pull/11238",
+                        "state": "MERGED",
+                        "number": 11238,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Inject AppCenter secret through Azure Pipelines",
+                        "url": "https://github.com/files-community/Files/pull/11239",
+                        "state": "MERGED",
+                        "number": 11239,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Tweaked border brush on path and search box",
+                        "url": "https://github.com/files-community/Files/pull/11240",
+                        "state": "MERGED",
+                        "number": 11240,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Feature: Disable show more options menu item until shell items are loaded",
+                        "url": "https://github.com/files-community/Files/pull/11243",
+                        "state": "MERGED",
+                        "number": 11243,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issues with recent context menu changes",
+                                        "url": "https://github.com/files-community/Files/pull/11270",
+                                        "state": "MERGED",
+                                        "number": 11270,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where BaseContextFlyout was not closed after selecting an item",
+                        "url": "https://github.com/files-community/Files/pull/11245",
+                        "state": "MERGED",
+                        "number": 11245,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where the right click menu didn't load properly in folders that have archive extensions",
+                        "url": "https://github.com/files-community/Files/pull/11248",
+                        "state": "MERGED",
+                        "number": 11248,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Add a UI to edit, delete and create tags",
+                        "url": "https://github.com/files-community/Files/pull/11249",
+                        "state": "MERGED",
+                        "number": 11249,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Fix: Fixed double separator showing up when opening context menu for files",
+                        "url": "https://github.com/files-community/Files/pull/11253",
+                        "state": "MERGED",
+                        "number": 11253,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11255",
+                        "state": "CLOSED",
+                        "number": 11255,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11256",
+                        "state": "MERGED",
+                        "number": 11256,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Fix: Fixed sidebar context menu items not showing",
+                        "url": "https://github.com/files-community/Files/pull/11261",
+                        "state": "MERGED",
+                        "number": 11261,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed icon in preview build",
+                        "url": "https://github.com/files-community/Files/pull/11262",
+                        "state": "MERGED",
+                        "number": 11262,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11267",
+                        "state": "CLOSED",
+                        "number": 11267,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11268",
+                        "state": "MERGED",
+                        "number": 11268,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issues with recent context menu changes",
+                        "url": "https://github.com/files-community/Files/pull/11270",
+                        "state": "MERGED",
+                        "number": 11270,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Fix: Fixed context menu hang in recent files and other widgets",
+                                        "url": "https://github.com/files-community/Files/pull/11301",
+                                        "state": "MERGED",
+                                        "number": 11301,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Feature: Move open with to main menu when right clicking recent files",
+                                        "url": "https://github.com/files-community/Files/pull/11304",
+                                        "state": "MERGED",
+                                        "number": 11304,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Improve navigations in Column View",
+                        "url": "https://github.com/files-community/Files/pull/11274",
+                        "state": "CLOSED",
+                        "number": 11274,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Open full path in column layout when opening items from the sidebar ",
+                                        "url": "https://github.com/files-community/Files/pull/9769",
+                                        "state": "CLOSED",
+                                        "number": 9769,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "rajendrasp"
+                                        },
+                                        "title": "Option to open complete path of favorite folder in \"Columns\" view",
+                                        "url": "https://github.com/files-community/Files/issues/7589",
+                                        "state": "CLOSED",
+                                        "number": 7589,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed CI AppCenter secret",
+                        "url": "https://github.com/files-community/Files/pull/11276",
+                        "state": "MERGED",
+                        "number": 11276,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "CI Pipeline: Clear Cloudflare cache",
+                        "url": "https://github.com/files-community/Files/pull/11280",
+                        "state": "MERGED",
+                        "number": 11280,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added shortcut to open Windows Terminal as administrator",
+                        "url": "https://github.com/files-community/Files/pull/11281",
+                        "state": "MERGED",
+                        "number": 11281,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Fix: Fixed issue with open terminal as admin not working",
+                                        "url": "https://github.com/files-community/Files/pull/11444",
+                                        "state": "MERGED",
+                                        "number": 11444,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for hiding open in new tab/window options",
+                        "url": "https://github.com/files-community/Files/pull/11285",
+                        "state": "MERGED",
+                        "number": 11285,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Apply app theme to settings dialog",
+                        "url": "https://github.com/files-community/Files/pull/11286",
+                        "state": "MERGED",
+                        "number": 11286,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Moved context menu settings to preferences page",
+                        "url": "https://github.com/files-community/Files/pull/11287",
+                        "state": "MERGED",
+                        "number": 11287,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11288",
+                        "state": "MERGED",
+                        "number": 11288,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Cancel tag edit when pressing esc & Tags duplicate names",
+                        "url": "https://github.com/files-community/Files/pull/11297",
+                        "state": "MERGED",
+                        "number": 11297,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Added support for reordering tags",
+                                        "url": "https://github.com/files-community/Files/pull/11306",
+                                        "state": "MERGED",
+                                        "number": 11306,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Codebase: Remove unnecessary using directives",
+                        "url": "https://github.com/files-community/Files/pull/11300",
+                        "state": "MERGED",
+                        "number": 11300,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Fix: Fixed context menu hang in recent files and other widgets",
+                        "url": "https://github.com/files-community/Files/pull/11301",
+                        "state": "MERGED",
+                        "number": 11301,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Removed sidebar toggles from settings dialog",
+                        "url": "https://github.com/files-community/Files/pull/11302",
+                        "state": "MERGED",
+                        "number": 11302,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Feature: Move open with to main menu when right clicking recent files",
+                        "url": "https://github.com/files-community/Files/pull/11304",
+                        "state": "MERGED",
+                        "number": 11304,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed showOpenWithMenu not working",
+                                        "url": "https://github.com/files-community/Files/pull/11325",
+                                        "state": "MERGED",
+                                        "number": 11325,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added support for reordering tags",
+                        "url": "https://github.com/files-community/Files/pull/11306",
+                        "state": "MERGED",
+                        "number": 11306,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Data.Sqlite.Core from 7.0.2 to 7.0.3",
+                        "url": "https://github.com/files-community/Files/pull/11308",
+                        "state": "MERGED",
+                        "number": 11308,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Remove deleted tags from items",
+                        "url": "https://github.com/files-community/Files/pull/11309",
+                        "state": "MERGED",
+                        "number": 11309,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed closing app when the item flyout is open to hang",
+                        "url": "https://github.com/files-community/Files/pull/11310",
+                        "state": "MERGED",
+                        "number": 11310,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Updated color icons",
+                        "url": "https://github.com/files-community/Files/pull/11313",
+                        "state": "MERGED",
+                        "number": 11313,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed settings background in dark mode",
+                        "url": "https://github.com/files-community/Files/pull/11316",
+                        "state": "MERGED",
+                        "number": 11316,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Preview build: 2.4.35",
+                        "url": "https://github.com/files-community/Files/pull/11319",
+                        "state": "MERGED",
+                        "number": 11319,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added Tags section in settings",
+                        "url": "https://github.com/files-community/Files/pull/11320",
+                        "state": "MERGED",
+                        "number": 11320,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "MalteTasler"
+                                        },
+                                        "title": "Crash when trying to create a new tag in new tags UI",
+                                        "url": "https://github.com/files-community/Files/issues/11321",
+                                        "state": "CLOSED",
+                                        "number": 11321,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Feature: Add invalid tag name warning",
+                        "url": "https://github.com/files-community/Files/pull/11324",
+                        "state": "MERGED",
+                        "number": 11324,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed showOpenWithMenu not working",
+                        "url": "https://github.com/files-community/Files/pull/11325",
+                        "state": "MERGED",
+                        "number": 11325,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Feature: Move open with to main menu when right clicking recent files",
+                                        "url": "https://github.com/files-community/Files/pull/11304",
+                                        "state": "MERGED",
+                                        "number": 11304,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "RichCommand: Base and commands ShowFileExtensions/ShowHiddenItems",
+                        "url": "https://github.com/files-community/Files/pull/11327",
+                        "state": "MERGED",
+                        "number": 11327,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "marcelwgn"
+                        },
+                        "title": "Fix: Fixed issue with tab icon not loading properly",
+                        "url": "https://github.com/files-community/Files/pull/11328",
+                        "state": "MERGED",
+                        "number": 11328,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Feature: Show the \"send to\" option in the main menu",
+                        "url": "https://github.com/files-community/Files/pull/11329",
+                        "state": "MERGED",
+                        "number": 11329,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Release: 2.4.40",
+                        "url": "https://github.com/files-community/Files/pull/11334",
+                        "state": "MERGED",
+                        "number": 11334,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where online-only files deleted before confirmation",
+                        "url": "https://github.com/files-community/Files/pull/11335",
+                        "state": "MERGED",
+                        "number": 11335,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump FluentFTP from 43.0.1 to 45.0.3",
+                        "url": "https://github.com/files-community/Files/pull/11336",
+                        "state": "CLOSED",
+                        "number": 11336,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/11341",
+                        "state": "MERGED",
+                        "number": 11341,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Improve Column View",
+                        "url": "https://github.com/files-community/Files/pull/11344",
+                        "state": "MERGED",
+                        "number": 11344,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: A small fix to Improve Column View",
+                                        "url": "https://github.com/files-community/Files/pull/11351",
+                                        "state": "MERGED",
+                                        "number": 11351,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Enforce tabs for Xaml in EditorConfig and Xaml Styler",
+                        "url": "https://github.com/files-community/Files/pull/11346",
+                        "state": "MERGED",
+                        "number": 11346,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed crash that would occur after changing background color",
+                        "url": "https://github.com/files-community/Files/pull/11347",
+                        "state": "MERGED",
+                        "number": 11347,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where compatibility settings weren't working",
+                        "url": "https://github.com/files-community/Files/pull/11348",
+                        "state": "MERGED",
+                        "number": 11348,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Fixed issue where it didn't work to change the library default directory",
+                        "url": "https://github.com/files-community/Files/pull/11349",
+                        "state": "MERGED",
+                        "number": 11349,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: A small fix to Improve Column View",
+                        "url": "https://github.com/files-community/Files/pull/11351",
+                        "state": "MERGED",
+                        "number": 11351,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Codebase: Join both context menus in BaseLayout",
+                        "url": "https://github.com/files-community/Files/pull/11357",
+                        "state": "MERGED",
+                        "number": 11357,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Feature: Moved \"format drive\" to main context menu",
+                                        "url": "https://github.com/files-community/Files/pull/11364",
+                                        "state": "MERGED",
+                                        "number": 11364,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Add flyout to confirm tag deletion",
+                        "url": "https://github.com/files-community/Files/pull/11358",
+                        "state": "MERGED",
+                        "number": 11358,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Disable Cast to Device",
+                        "url": "https://github.com/files-community/Files/pull/11362",
+                        "state": "CLOSED",
+                        "number": 11362,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Catch COMException when creating submenus to avoid errors",
+                        "url": "https://github.com/files-community/Files/pull/11363",
+                        "state": "MERGED",
+                        "number": 11363,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Feature: Disable Cast to Device",
+                                        "url": "https://github.com/files-community/Files/pull/11362",
+                                        "state": "CLOSED",
+                                        "number": 11362,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Catch COMException wherever it occurs in shell extension loading",
+                                        "url": "https://github.com/files-community/Files/pull/11411",
+                                        "state": "MERGED",
+                                        "number": 11411,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hecksmosis"
+                        },
+                        "title": "Feature: Moved \"format drive\" to main context menu",
+                        "url": "https://github.com/files-community/Files/pull/11364",
+                        "state": "MERGED",
+                        "number": 11364,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "mafra99"
+                                        },
+                                        "title": "Fix: Fixed issue where right clicking an item wouldn't show the context menu ",
+                                        "url": "https://github.com/files-community/Files/pull/11401",
+                                        "state": "MERGED",
+                                        "number": 11401,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Feature: Display \"Play all\" button on toolbar when selecting multiple media files.",
+                        "url": "https://github.com/files-community/Files/pull/11365",
+                        "state": "MERGED",
+                        "number": 11365,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hecksmosis"
+                                        },
+                                        "title": "Feature: Moved \"format drive\" to main context menu",
+                                        "url": "https://github.com/files-community/Files/pull/11364",
+                                        "state": "MERGED",
+                                        "number": 11364,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "RichCommand: HotKeys + Open/FullScreen",
+                        "url": "https://github.com/files-community/Files/pull/11367",
+                        "state": "MERGED",
+                        "number": 11367,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Feature: Show rotate options in main context menu",
+                        "url": "https://github.com/files-community/Files/pull/11374",
+                        "state": "MERGED",
+                        "number": 11374,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Opacity Icon",
+                        "url": "https://github.com/files-community/Files/pull/11376",
+                        "state": "MERGED",
+                        "number": 11376,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump FluentFTP from 43.0.1 to 45.1.0",
+                        "url": "https://github.com/files-community/Files/pull/11377",
+                        "state": "CLOSED",
+                        "number": 11377,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Feature: Add Xaml Styler GitHub Action",
+                        "url": "https://github.com/files-community/Files/pull/11379",
+                        "state": "MERGED",
+                        "number": 11379,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Feature: Added menu option to restore all items from recycle bin",
+                        "url": "https://github.com/files-community/Files/pull/11382",
+                        "state": "CLOSED",
+                        "number": 11382,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Hardcode width for right click menu",
+                        "url": "https://github.com/files-community/Files/pull/11383",
+                        "state": "MERGED",
+                        "number": 11383,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed minimum menu width for recent files widget",
+                        "url": "https://github.com/files-community/Files/pull/11386",
+                        "state": "MERGED",
+                        "number": 11386,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where the sidebar scrollbar wasn't clickable",
+                        "url": "https://github.com/files-community/Files/pull/11387",
+                        "state": "MERGED",
+                        "number": 11387,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where the preview pane had the wrong cursor when resizing",
+                        "url": "https://github.com/files-community/Files/pull/11388",
+                        "state": "MERGED",
+                        "number": 11388,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Added \"Apply this action to all conflicting items\" to Resouces.resw",
+                        "url": "https://github.com/files-community/Files/pull/11390",
+                        "state": "MERGED",
+                        "number": 11390,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fixed: Right clicking empty space doesn't show context menu",
+                        "url": "https://github.com/files-community/Files/pull/11392",
+                        "state": "MERGED",
+                        "number": 11392,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Fix: Fixed typo in English resources",
+                        "url": "https://github.com/files-community/Files/pull/11393",
+                        "state": "MERGED",
+                        "number": 11393,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Removed extra AppBarSeparator from Edit Tags menu",
+                        "url": "https://github.com/files-community/Files/pull/11398",
+                        "state": "CLOSED",
+                        "number": 11398,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Remember previously selected option in conflicts dialog",
+                        "url": "https://github.com/files-community/Files/pull/11399",
+                        "state": "MERGED",
+                        "number": 11399,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Use x:Load in conflicts dialog again",
+                                        "url": "https://github.com/files-community/Files/pull/11557",
+                                        "state": "MERGED",
+                                        "number": 11557,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mafra99"
+                        },
+                        "title": "Fix: Fixed issue where right clicking an item wouldn't show the context menu ",
+                        "url": "https://github.com/files-community/Files/pull/11401",
+                        "state": "MERGED",
+                        "number": 11401,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Feature: Added media file resolution to the details pane",
+                        "url": "https://github.com/files-community/Files/pull/11402",
+                        "state": "MERGED",
+                        "number": 11402,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Opacity icon in context menu",
+                        "url": "https://github.com/files-community/Files/pull/11404",
+                        "state": "MERGED",
+                        "number": 11404,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.NET.Test.Sdk from 17.4.1 to 17.5.0",
+                        "url": "https://github.com/files-community/Files/pull/11405",
+                        "state": "MERGED",
+                        "number": 11405,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

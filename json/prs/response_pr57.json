@@ -1,0 +1,134 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOcJud3g=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in BaseDeleteAction.DeleteItemsAsync",
+                        "url": "https://github.com/files-community/Files/pull/15467",
+                        "state": "MERGED",
+                        "number": 15467,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Updated the design for Dual Pane mode",
+                        "url": "https://github.com/files-community/Files/pull/15469",
+                        "state": "OPEN",
+                        "number": 15469,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Fixed an issue where import/export settings didn't work",
+                        "url": "https://github.com/files-community/Files/pull/15471",
+                        "state": "MERGED",
+                        "number": 15471,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ashrafmansuri"
+                        },
+                        "title": "Fix: When a ZIP file is opened via file association, the Extract Button is not displayed on the toolbar #15457",
+                        "url": "https://github.com/files-community/Files/pull/15472",
+                        "state": "OPEN",
+                        "number": 15472,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Reorganize App.Services namespace",
+                        "url": "https://github.com/files-community/Files/pull/15473",
+                        "state": "OPEN",
+                        "number": 15473,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "itsWindows11"
+                                        },
+                                        "title": "Added initial SFTP implementation using SSH.NET",
+                                        "url": "https://github.com/files-community/Files/pull/15477",
+                                        "state": "OPEN",
+                                        "number": 15477,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where search result stopped showing when switching tabs",
+                        "url": "https://github.com/files-community/Files/pull/15474",
+                        "state": "MERGED",
+                        "number": 15474,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added support for displaying total duration when selecting multiple video files",
+                        "url": "https://github.com/files-community/Files/pull/15476",
+                        "state": "MERGED",
+                        "number": 15476,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "itsWindows11"
+                        },
+                        "title": "Added initial SFTP implementation using SSH.NET",
+                        "url": "https://github.com/files-community/Files/pull/15477",
+                        "state": "OPEN",
+                        "number": 15477,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Ya/dual pane design",
+                        "url": "https://github.com/files-community/Files/pull/15478",
+                        "state": "CLOSED",
+                        "number": 15478,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

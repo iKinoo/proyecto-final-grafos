@@ -1,0 +1,1685 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOOVC7Zg=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added parameters to the release pipeline",
+                        "url": "https://github.com/files-community/Files/pull/9078",
+                        "state": "MERGED",
+                        "number": 9078,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fixed an issue where the confirm delete dialog didn't display when dragging an item to recycle bin",
+                        "url": "https://github.com/files-community/Files/pull/9081",
+                        "state": "MERGED",
+                        "number": 9081,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Nexxol"
+                                        },
+                                        "title": "Recycle bin doesn't ask for confirmation when dragging item to sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/8649",
+                                        "state": "CLOSED",
+                                        "number": 8649,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Refactor EnumerateDrives",
+                        "url": "https://github.com/files-community/Files/pull/9082",
+                        "state": "MERGED",
+                        "number": 9082,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix path for setting files as default",
+                        "url": "https://github.com/files-community/Files/pull/9085",
+                        "state": "MERGED",
+                        "number": 9085,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix EmptyRecycleBinButton state",
+                        "url": "https://github.com/files-community/Files/pull/9087",
+                        "state": "MERGED",
+                        "number": 9087,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Add support for browsing shell folders",
+                        "url": "https://github.com/files-community/Files/pull/9089",
+                        "state": "MERGED",
+                        "number": 9089,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fixes shortcuts not appearing in recycle bin",
+                                        "url": "https://github.com/files-community/Files/pull/9156",
+                                        "state": "MERGED",
+                                        "number": 9156,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jiejasonliu"
+                        },
+                        "title": "feat(details-view): add option to size all columns to fit",
+                        "url": "https://github.com/files-community/Files/pull/9090",
+                        "state": "MERGED",
+                        "number": 9090,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.15 to 3.4.1",
+                        "url": "https://github.com/files-community/Files/pull/9091",
+                        "state": "CLOSED",
+                        "number": 9091,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.4.0 to 3.4.1",
+                        "url": "https://github.com/files-community/Files/pull/9092",
+                        "state": "MERGED",
+                        "number": 9092,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "manfromarce"
+                        },
+                        "title": "Implement folder setting to sort directories and files together and add option to toolbar sort flyout",
+                        "url": "https://github.com/files-community/Files/pull/9098",
+                        "state": "MERGED",
+                        "number": 9098,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Darhagonable"
+                                        },
+                                        "title": "Add option to sort flyout to sort files and folders together",
+                                        "url": "https://github.com/files-community/Files/issues/7120",
+                                        "state": "CLOSED",
+                                        "number": 7120,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Move default SortDirectoriesAlongsideFiles to LayoutSettingsService",
+                                        "url": "https://github.com/files-community/Files/pull/9179",
+                                        "state": "MERGED",
+                                        "number": 9179,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Stretch drives widget to fit width",
+                        "url": "https://github.com/files-community/Files/pull/9108",
+                        "state": "CLOSED",
+                        "number": 9108,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "nightwing2994"
+                                        },
+                                        "title": "The devices menu is not as wide as the folders menu on the homepage. [INSIDER 2.0.16]",
+                                        "url": "https://github.com/files-community/Files/issues/6398",
+                                        "state": "CLOSED",
+                                        "number": 6398,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "esibruti"
+                        },
+                        "title": "PT-PT Update",
+                        "url": "https://github.com/files-community/Files/pull/9111",
+                        "state": "MERGED",
+                        "number": 9111,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jiejasonliu"
+                        },
+                        "title": "fix(sidebar): add items to favorites in a consistent order",
+                        "url": "https://github.com/files-community/Files/pull/9113",
+                        "state": "MERGED",
+                        "number": 9113,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "adnan1710"
+                                        },
+                                        "title": "Item disappearing from the favorite section",
+                                        "url": "https://github.com/files-community/Files/issues/8941",
+                                        "state": "CLOSED",
+                                        "number": 8941,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Add lock when accessing filesAndFolders list",
+                        "url": "https://github.com/files-community/Files/pull/9114",
+                        "state": "CLOSED",
+                        "number": 9114,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Allow to set file tags from command line",
+                        "url": "https://github.com/files-community/Files/pull/9115",
+                        "state": "MERGED",
+                        "number": 9115,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Zavian"
+                                        },
+                                        "title": "Tagging a file programmatically",
+                                        "url": "https://github.com/files-community/Files/issues/9033",
+                                        "state": "CLOSED",
+                                        "number": 9033,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix crash when copy/move operation fails",
+                        "url": "https://github.com/files-community/Files/pull/9116",
+                        "state": "MERGED",
+                        "number": 9116,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix folder size not shown for some items",
+                        "url": "https://github.com/files-community/Files/pull/9117",
+                        "state": "MERGED",
+                        "number": 9117,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Add MaxWidth to PreviewPane",
+                        "url": "https://github.com/files-community/Files/pull/9119",
+                        "state": "CLOSED",
+                        "number": 9119,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Simplifies PaneControl code by removing unnecessary dynamic xaml.",
+                        "url": "https://github.com/files-community/Files/pull/9120",
+                        "state": "MERGED",
+                        "number": 9120,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Add missing quick access",
+                        "url": "https://github.com/files-community/Files/pull/9121",
+                        "state": "MERGED",
+                        "number": 9121,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix preview size",
+                        "url": "https://github.com/files-community/Files/pull/9126",
+                        "state": "MERGED",
+                        "number": 9126,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fixed an issue where the preview pane grid splitter sometimes used the wrong cursor ",
+                        "url": "https://github.com/files-community/Files/pull/9127",
+                        "state": "MERGED",
+                        "number": 9127,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jiejasonliu"
+                        },
+                        "title": "fix: file list randomly scrolling to top",
+                        "url": "https://github.com/files-community/Files/pull/9130",
+                        "state": "MERGED",
+                        "number": 9130,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "dlee098"
+                                        },
+                                        "title": "After deleting or renaming files, file list scrolls to the top",
+                                        "url": "https://github.com/files-community/Files/issues/8159",
+                                        "state": "CLOSED",
+                                        "number": 8159,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Show Adaptive Layout as a separate layout in toolbar",
+                        "url": "https://github.com/files-community/Files/pull/9132",
+                        "state": "MERGED",
+                        "number": 9132,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.Data.Sqlite.Core from 6.0.4 to 6.0.5",
+                        "url": "https://github.com/files-community/Files/pull/9142",
+                        "state": "MERGED",
+                        "number": 9142,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Automatically focus new pane",
+                        "url": "https://github.com/files-community/Files/pull/9144",
+                        "state": "MERGED",
+                        "number": 9144,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Korkman"
+                                        },
+                                        "title": "Switching to dual pane view updates sidebar location but doesn't receive focus",
+                                        "url": "https://github.com/files-community/Files/issues/7896",
+                                        "state": "CLOSED",
+                                        "number": 7896,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Updated FR-fr",
+                        "url": "https://github.com/files-community/Files/pull/9146",
+                        "state": "MERGED",
+                        "number": 9146,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Rotate multiple images",
+                        "url": "https://github.com/files-community/Files/pull/9150",
+                        "state": "MERGED",
+                        "number": 9150,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jiejasonliu"
+                        },
+                        "title": "fix(recent-files): make recent files not reverse itself when loaded",
+                        "url": "https://github.com/files-community/Files/pull/9153",
+                        "state": "MERGED",
+                        "number": 9153,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Darkempire78"
+                                        },
+                                        "title": "Recent files are incorrectly sorted when Files opens",
+                                        "url": "https://github.com/files-community/Files/issues/5250",
+                                        "state": "CLOSED",
+                                        "number": 5250,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "jiejasonliu"
+                                        },
+                                        "title": "Feat(recent-items): sync recent items with file explorer",
+                                        "url": "https://github.com/files-community/Files/pull/9291",
+                                        "state": "MERGED",
+                                        "number": 9291,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.NET.Test.Sdk from 17.1.0 to 17.2.0",
+                        "url": "https://github.com/files-community/Files/pull/9154",
+                        "state": "MERGED",
+                        "number": 9154,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Removed check for update on app startup",
+                        "url": "https://github.com/files-community/Files/pull/9155",
+                        "state": "MERGED",
+                        "number": 9155,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes shortcuts not appearing in recycle bin",
+                        "url": "https://github.com/files-community/Files/pull/9156",
+                        "state": "MERGED",
+                        "number": 9156,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed title bar drag area",
+                        "url": "https://github.com/files-community/Files/pull/9157",
+                        "state": "MERGED",
+                        "number": 9157,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Mannshoch"
+                                        },
+                                        "title": "Not able to move the window if the drager point is out of the right window edge.",
+                                        "url": "https://github.com/files-community/Files/issues/8504",
+                                        "state": "CLOSED",
+                                        "number": 8504,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Avoid crash when creating a library",
+                        "url": "https://github.com/files-community/Files/pull/9158",
+                        "state": "MERGED",
+                        "number": 9158,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Show failed banner if any items failed in a file operation",
+                        "url": "https://github.com/files-community/Files/pull/9162",
+                        "state": "MERGED",
+                        "number": 9162,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "[Post 2.3] Add support for folder shortcuts in shell folders",
+                        "url": "https://github.com/files-community/Files/pull/9163",
+                        "state": "MERGED",
+                        "number": 9163,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "jiejasonliu"
+                                        },
+                                        "title": "Feat(recent-items): sync recent items with file explorer",
+                                        "url": "https://github.com/files-community/Files/pull/9291",
+                                        "state": "MERGED",
+                                        "number": 9291,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Fix main branch",
+                                        "url": "https://github.com/files-community/Files/pull/9303",
+                                        "state": "MERGED",
+                                        "number": 9303,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "[Post 2.3] Show Google drive under Cloud section",
+                        "url": "https://github.com/files-community/Files/pull/9165",
+                        "state": "MERGED",
+                        "number": 9165,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": null,
+                                        "title": "Google drive for desktop not showing under cloud drives",
+                                        "url": "https://github.com/files-community/Files/issues/6321",
+                                        "state": "CLOSED",
+                                        "number": 6321,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Move the home button to the address bar",
+                        "url": "https://github.com/files-community/Files/pull/9166",
+                        "state": "CLOSED",
+                        "number": 9166,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Hide triple-dot button from empty space context menu",
+                        "url": "https://github.com/files-community/Files/pull/9171",
+                        "state": "MERGED",
+                        "number": 9171,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix crash due to multiple dialogs opening",
+                        "url": "https://github.com/files-community/Files/pull/9173",
+                        "state": "MERGED",
+                        "number": 9173,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Move the Home item outside the favorites section",
+                        "url": "https://github.com/files-community/Files/pull/9176",
+                        "state": "MERGED",
+                        "number": 9176,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Move the home item out of the favorites section",
+                                        "url": "https://github.com/files-community/Files/issues/9147",
+                                        "state": "CLOSED",
+                                        "number": 9147,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Move the Home item outside the favorites section\"",
+                                        "url": "https://github.com/files-community/Files/pull/9206",
+                                        "state": "CLOSED",
+                                        "number": 9206,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Move default SortDirectoriesAlongsideFiles to LayoutSettingsService",
+                        "url": "https://github.com/files-community/Files/pull/9179",
+                        "state": "MERGED",
+                        "number": 9179,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "[IGNORE]",
+                        "url": "https://github.com/files-community/Files/pull/9180",
+                        "state": "CLOSED",
+                        "number": 9180,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Feature: Add ink gestures for manipulating items",
+                        "url": "https://github.com/files-community/Files/pull/9181",
+                        "state": "CLOSED",
+                        "number": 9181,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "shiazza"
+                        },
+                        "title": "Update Bahasa Indonesia",
+                        "url": "https://github.com/files-community/Files/pull/9182",
+                        "state": "MERGED",
+                        "number": 9182,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.4.1 to 3.4.2",
+                        "url": "https://github.com/files-community/Files/pull/9183",
+                        "state": "MERGED",
+                        "number": 9183,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.15 to 3.4.2",
+                        "url": "https://github.com/files-community/Files/pull/9184",
+                        "state": "CLOSED",
+                        "number": 9184,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "esibruti"
+                        },
+                        "title": "pt-PT update",
+                        "url": "https://github.com/files-community/Files/pull/9186",
+                        "state": "MERGED",
+                        "number": 9186,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "BanCrash"
+                        },
+                        "title": "Add support for Synology Drive Client",
+                        "url": "https://github.com/files-community/Files/pull/9188",
+                        "state": "MERGED",
+                        "number": 9188,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "russh26"
+                                        },
+                                        "title": "Synology Drive Client",
+                                        "url": "https://github.com/files-community/Files/issues/8084",
+                                        "state": "CLOSED",
+                                        "number": 8084,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Rakambda"
+                                        },
+                                        "title": "Synology Drive folder not detected",
+                                        "url": "https://github.com/files-community/Files/issues/9729",
+                                        "state": "CLOSED",
+                                        "number": 9729,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Improves the context menu of the sections",
+                        "url": "https://github.com/files-community/Files/pull/9189",
+                        "state": "CLOSED",
+                        "number": 9189,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Hoist TaskCompletionSource outside the loop",
+                        "url": "https://github.com/files-community/Files/pull/9194",
+                        "state": "MERGED",
+                        "number": 9194,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added list of contributors for v2.3",
+                        "url": "https://github.com/files-community/Files/pull/9201",
+                        "state": "MERGED",
+                        "number": 9201,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Move the Home item outside the favorites section\"",
+                        "url": "https://github.com/files-community/Files/pull/9206",
+                        "state": "CLOSED",
+                        "number": 9206,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "The order of favorites is no longer saved.",
+                                        "url": "https://github.com/files-community/Files/issues/9205",
+                                        "state": "CLOSED",
+                                        "number": 9205,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "[Post v2.3] Improves pinned RecycleBin",
+                        "url": "https://github.com/files-community/Files/pull/9207",
+                        "state": "MERGED",
+                        "number": 9207,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "zmr242538"
+                                        },
+                                        "title": "Add support for reordering recycle bin item",
+                                        "url": "https://github.com/files-community/Files/issues/8227",
+                                        "state": "CLOSED",
+                                        "number": 8227,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Update FR",
+                        "url": "https://github.com/files-community/Files/pull/9209",
+                        "state": "MERGED",
+                        "number": 9209,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Created sideload build with custom directive",
+                        "url": "https://github.com/files-community/Files/pull/9211",
+                        "state": "MERGED",
+                        "number": 9211,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Sideload update service",
+                        "url": "https://github.com/files-community/Files/pull/9212",
+                        "state": "MERGED",
+                        "number": 9212,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated sidebar icons",
+                        "url": "https://github.com/files-community/Files/pull/9214",
+                        "state": "MERGED",
+                        "number": 9214,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Lamparter"
+                        },
+                        "title": "[Post 2.3] Add Nightshade V2",
+                        "url": "https://github.com/files-community/Files/pull/9216",
+                        "state": "MERGED",
+                        "number": 9216,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Be1zebub"
+                                        },
+                                        "title": "Feature: Comfy theme",
+                                        "url": "https://github.com/files-community/Files/pull/10804",
+                                        "state": "CLOSED",
+                                        "number": 10804,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "[Post 2.3] struct VolumeInfo",
+                        "url": "https://github.com/files-community/Files/pull/9226",
+                        "state": "MERGED",
+                        "number": 9226,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix up button",
+                        "url": "https://github.com/files-community/Files/pull/9228",
+                        "state": "MERGED",
+                        "number": 9228,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Forward slash path input fix",
+                        "url": "https://github.com/files-community/Files/pull/9229",
+                        "state": "MERGED",
+                        "number": 9229,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yboumaiza7"
+                                        },
+                                        "title": "path accepts only \\ and not /",
+                                        "url": "https://github.com/files-community/Files/issues/9175",
+                                        "state": "CLOSED",
+                                        "number": 9175,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Improve cloud drives detection speed",
+                        "url": "https://github.com/files-community/Files/pull/9230",
+                        "state": "MERGED",
+                        "number": 9230,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Add support for alternate streams",
+                        "url": "https://github.com/files-community/Files/pull/9234",
+                        "state": "MERGED",
+                        "number": 9234,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fixed an issue preventing to drag&drop a link from a browser addressbar to Files",
+                                        "url": "https://github.com/files-community/Files/pull/9388",
+                                        "state": "MERGED",
+                                        "number": 9388,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "zbalkan"
+                                        },
+                                        "title": "Add support for View Alternate Data Streams",
+                                        "url": "https://github.com/files-community/Files/issues/177",
+                                        "state": "CLOSED",
+                                        "number": 177,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Enable refresh button on homepage",
+                        "url": "https://github.com/files-community/Files/pull/9235",
+                        "state": "MERGED",
+                        "number": 9235,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "generalguy41"
+                                        },
+                                        "title": "Drives widget storage details don't update without reopen",
+                                        "url": "https://github.com/files-community/Files/issues/2242",
+                                        "state": "CLOSED",
+                                        "number": 2242,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes an issue preventing icon for MTP device from appearing on Drives Widget",
+                        "url": "https://github.com/files-community/Files/pull/9236",
+                        "state": "MERGED",
+                        "number": 9236,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "V2.2.52",
+                        "url": "https://github.com/files-community/Files/pull/9238",
+                        "state": "MERGED",
+                        "number": 9238,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Fix for sideload version check",
+                        "url": "https://github.com/files-community/Files/pull/9239",
+                        "state": "MERGED",
+                        "number": 9239,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Added logging to sideload update service.",
+                        "url": "https://github.com/files-community/Files/pull/9244",
+                        "state": "MERGED",
+                        "number": 9244,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Sideload build configuration",
+                        "url": "https://github.com/files-community/Files/pull/9245",
+                        "state": "MERGED",
+                        "number": 9245,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump SQLitePCLRaw.bundle_green from 2.0.7 to 2.1.0",
+                        "url": "https://github.com/files-community/Files/pull/9246",
+                        "state": "MERGED",
+                        "number": 9246,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Update logging",
+                        "url": "https://github.com/files-community/Files/pull/9247",
+                        "state": "MERGED",
+                        "number": 9247,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "esibruti"
+                        },
+                        "title": "Set downloads folder to group by date",
+                        "url": "https://github.com/files-community/Files/pull/9248",
+                        "state": "MERGED",
+                        "number": 9248,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "aayushyap89"
+                                        },
+                                        "title": "Set downloads folder to group by date",
+                                        "url": "https://github.com/files-community/Files/issues/6586",
+                                        "state": "CLOSED",
+                                        "number": 6586,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Default.rd.xml Update",
+                        "url": "https://github.com/files-community/Files/pull/9249",
+                        "state": "MERGED",
+                        "number": 9249,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "verdaderoken"
+                                        },
+                                        "title": "Tab turns \"Home\" after dragging or moving to a new window",
+                                        "url": "https://github.com/files-community/Files/issues/9242",
+                                        "state": "CLOSED",
+                                        "number": 9242,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "[Test][Ignore]",
+                        "url": "https://github.com/files-community/Files/pull/9252",
+                        "state": "CLOSED",
+                        "number": 9252,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Sideload UpdateService Download fix",
+                        "url": "https://github.com/files-community/Files/pull/9254",
+                        "state": "MERGED",
+                        "number": 9254,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Fixed URI download path.",
+                        "url": "https://github.com/files-community/Files/pull/9255",
+                        "state": "MERGED",
+                        "number": 9255,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "[Test][Ignore]",
+                        "url": "https://github.com/files-community/Files/pull/9264",
+                        "state": "CLOSED",
+                        "number": 9264,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Do not load quick access icon",
+                        "url": "https://github.com/files-community/Files/pull/9265",
+                        "state": "MERGED",
+                        "number": 9265,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix show open as admin on CMD files",
+                        "url": "https://github.com/files-community/Files/pull/9268",
+                        "state": "MERGED",
+                        "number": 9268,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "slayermaster"
+                                        },
+                                        "title": "Add support for running cmd files as administrator",
+                                        "url": "https://github.com/files-community/Files/issues/6333",
+                                        "state": "CLOSED",
+                                        "number": 6333,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Use OPEN_EXISTING when opening a file for read",
+                        "url": "https://github.com/files-community/Files/pull/9273",
+                        "state": "MERGED",
+                        "number": 9273,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "octopushugger"
+                                        },
+                                        "title": "Files creating empty zip files unprompted",
+                                        "url": "https://github.com/files-community/Files/issues/9271",
+                                        "state": "CLOSED",
+                                        "number": 9271,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Download update in background",
+                        "url": "https://github.com/files-community/Files/pull/9276",
+                        "state": "MERGED",
+                        "number": 9276,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Refactor service ISizeProvider to Backend",
+                        "url": "https://github.com/files-community/Files/pull/9288",
+                        "state": "MERGED",
+                        "number": 9288,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jiejasonliu"
+                        },
+                        "title": "Feat(recent-items): sync recent items with file explorer",
+                        "url": "https://github.com/files-community/Files/pull/9291",
+                        "state": "MERGED",
+                        "number": 9291,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "BanCrash"
+                                        },
+                                        "title": "Recent items shouldn't register elements when you have it disabled",
+                                        "url": "https://github.com/files-community/Files/issues/5882",
+                                        "state": "CLOSED",
+                                        "number": 5882,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Axe.Windows from 1.1.2 to 1.1.4",
+                        "url": "https://github.com/files-community/Files/pull/9293",
+                        "state": "CLOSED",
+                        "number": 9293,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix refresh not working when doing some files operations in network drives",
+                        "url": "https://github.com/files-community/Files/pull/9297",
+                        "state": "MERGED",
+                        "number": 9297,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "AisinGioroKiIoi"
+                                        },
+                                        "title": "[2.3] Network drives don't auto refresh after changes",
+                                        "url": "https://github.com/files-community/Files/issues/9294",
+                                        "state": "CLOSED",
+                                        "number": 9294,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "After pasting, focus all pasted files/folders instead of just one",
+                        "url": "https://github.com/files-community/Files/pull/9299",
+                        "state": "MERGED",
+                        "number": 9299,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "miguelisidoro"
+                                        },
+                                        "title": "Focus on new items after pasting",
+                                        "url": "https://github.com/files-community/Files/issues/8333",
+                                        "state": "CLOSED",
+                                        "number": 8333,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"After pasting, focus all pasted files/folders instead of just one\"",
+                                        "url": "https://github.com/files-community/Files/pull/9304",
+                                        "state": "MERGED",
+                                        "number": 9304,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Fix main branch",
+                        "url": "https://github.com/files-community/Files/pull/9303",
+                        "state": "MERGED",
+                        "number": 9303,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"After pasting, focus all pasted files/folders instead of just one\"",
+                        "url": "https://github.com/files-community/Files/pull/9304",
+                        "state": "MERGED",
+                        "number": 9304,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "Show selected items size details when selecting by dragging the mouse",
+                        "url": "https://github.com/files-community/Files/pull/9305",
+                        "state": "MERGED",
+                        "number": 9305,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hu3136"
+                        },
+                        "title": "Create 13\u732b\u5510\u4e09\u5927\u4f6c",
+                        "url": "https://github.com/files-community/Files/pull/9314",
+                        "state": "CLOSED",
+                        "number": 9314,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "Fixes duplicated themes when opening new tab using win + e",
+                        "url": "https://github.com/files-community/Files/pull/9317",
+                        "state": "MERGED",
+                        "number": 9317,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "BusteanHAN"
+                                        },
+                                        "title": "Opening new tabs duplicates themes",
+                                        "url": "https://github.com/files-community/Files/issues/7851",
+                                        "state": "CLOSED",
+                                        "number": 7851,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.UI.Xaml from 2.8.0-prerelease.220413001 to 2.8.0-prerelease.220601001",
+                        "url": "https://github.com/files-community/Files/pull/9320",
+                        "state": "MERGED",
+                        "number": 9320,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "Disabled dragging in recycle bin",
+                        "url": "https://github.com/files-community/Files/pull/9323",
+                        "state": "MERGED",
+                        "number": 9323,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "File/folder in the recycle bin can be added to other folders in it",
+                                        "url": "https://github.com/files-community/Files/issues/7640",
+                                        "state": "CLOSED",
+                                        "number": 7640,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix string resources for jump list",
+                        "url": "https://github.com/files-community/Files/pull/9326",
+                        "state": "MERGED",
+                        "number": 9326,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "iron2000"
+                                        },
+                                        "title": "Wrong folder title shown in Recents of jumplist",
+                                        "url": "https://github.com/files-community/Files/issues/9316",
+                                        "state": "CLOSED",
+                                        "number": 9316,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Removed \"Uninstalling Files will not undo these changes\" in some languages",
+                        "url": "https://github.com/files-community/Files/pull/9327",
+                        "state": "MERGED",
+                        "number": 9327,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jiejasonliu"
+                        },
+                        "title": "fix: BulkConcurrentObservableCollection::Remove returns false if item not found",
+                        "url": "https://github.com/files-community/Files/pull/9345",
+                        "state": "MERGED",
+                        "number": 9345,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 37.0.3",
+                        "url": "https://github.com/files-community/Files/pull/9355",
+                        "state": "CLOSED",
+                        "number": 9355,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump CommunityToolkit.Mvvm from 8.0.0-preview3 to 8.0.0-preview4",
+                        "url": "https://github.com/files-community/Files/pull/9368",
+                        "state": "MERGED",
+                        "number": 9368,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "andrii-bodnar"
+                        },
+                        "title": "Setup Crowdin",
+                        "url": "https://github.com/files-community/Files/pull/9371",
+                        "state": "CLOSED",
+                        "number": 9371,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

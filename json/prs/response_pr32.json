@@ -1,0 +1,1443 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOPSVtdw=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Change launch application from properties",
+                        "url": "https://github.com/files-community/Files/pull/9372",
+                        "state": "CLOSED",
+                        "number": 9372,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "Allow to pin executables to start menu",
+                        "url": "https://github.com/files-community/Files/pull/9374",
+                        "state": "MERGED",
+                        "number": 9374,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Cheddlar"
+                                        },
+                                        "title": "Pin To Start",
+                                        "url": "https://github.com/files-community/Files/issues/9031",
+                                        "state": "CLOSED",
+                                        "number": 9031,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "AhmadHddad"
+                                        },
+                                        "title": "Add Pin To Start in the context menu",
+                                        "url": "https://github.com/files-community/Files/issues/9569",
+                                        "state": "CLOSED",
+                                        "number": 9569,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Refactor PreviewViewModel",
+                        "url": "https://github.com/files-community/Files/pull/9379",
+                        "state": "MERGED",
+                        "number": 9379,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "Allow to pin drives to favorites",
+                        "url": "https://github.com/files-community/Files/pull/9380",
+                        "state": "MERGED",
+                        "number": 9380,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ZaneDragonBorn"
+                                        },
+                                        "title": "Add support for adding drives to favorites section",
+                                        "url": "https://github.com/files-community/Files/issues/7321",
+                                        "state": "CLOSED",
+                                        "number": 7321,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed an issue preventing to drag&drop a link from a browser addressbar to Files",
+                        "url": "https://github.com/files-community/Files/pull/9388",
+                        "state": "MERGED",
+                        "number": 9388,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "rgtb"
+                                        },
+                                        "title": "Can't drag & drop web link to Files",
+                                        "url": "https://github.com/files-community/Files/issues/9385",
+                                        "state": "CLOSED",
+                                        "number": 9385,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IgorKordiukiewicz"
+                        },
+                        "title": "Properties window is now shown near mouse cursor position",
+                        "url": "https://github.com/files-community/Files/pull/9391",
+                        "state": "MERGED",
+                        "number": 9391,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "verdaderoken"
+                                        },
+                                        "title": "Show properties window near mouse cursor position",
+                                        "url": "https://github.com/files-community/Files/issues/9285",
+                                        "state": "CLOSED",
+                                        "number": 9285,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Removed code to handle GenerateUniqueName bug",
+                        "url": "https://github.com/files-community/Files/pull/9397",
+                        "state": "MERGED",
+                        "number": 9397,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "verdaderoken"
+                                        },
+                                        "title": "File not showing up after renaming from conflict dialog (via drag & drop)",
+                                        "url": "https://github.com/files-community/Files/issues/9277",
+                                        "state": "CLOSED",
+                                        "number": 9277,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.NETCore.UniversalWindowsPlatform from 6.2.13 to 6.2.14",
+                        "url": "https://github.com/files-community/Files/pull/9401",
+                        "state": "MERGED",
+                        "number": 9401,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Update Crowdin configuration file",
+                        "url": "https://github.com/files-community/Files/pull/9406",
+                        "state": "MERGED",
+                        "number": 9406,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9407",
+                        "state": "CLOSED",
+                        "number": 9407,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9408",
+                        "state": "MERGED",
+                        "number": 9408,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added Crowdin badge to readme",
+                        "url": "https://github.com/files-community/Files/pull/9409",
+                        "state": "MERGED",
+                        "number": 9409,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9410",
+                        "state": "CLOSED",
+                        "number": 9410,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added proper mapping for translations",
+                        "url": "https://github.com/files-community/Files/pull/9411",
+                        "state": "MERGED",
+                        "number": 9411,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "andrii-bodnar"
+                        },
+                        "title": "Fix Crowdin languages_mapping",
+                        "url": "https://github.com/files-community/Files/pull/9412",
+                        "state": "MERGED",
+                        "number": 9412,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9413",
+                        "state": "CLOSED",
+                        "number": 9413,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9414",
+                        "state": "CLOSED",
+                        "number": 9414,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9415",
+                        "state": "CLOSED",
+                        "number": 9415,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9416",
+                        "state": "CLOSED",
+                        "number": 9416,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9417",
+                        "state": "MERGED",
+                        "number": 9417,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.Data.Sqlite.Core from 6.0.5 to 6.0.6",
+                        "url": "https://github.com/files-community/Files/pull/9418",
+                        "state": "MERGED",
+                        "number": 9418,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.15 to 3.4.3",
+                        "url": "https://github.com/files-community/Files/pull/9419",
+                        "state": "CLOSED",
+                        "number": 9419,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.4.2 to 3.4.3",
+                        "url": "https://github.com/files-community/Files/pull/9420",
+                        "state": "MERGED",
+                        "number": 9420,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9421",
+                        "state": "MERGED",
+                        "number": 9421,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Axe.Windows from 1.1.2 to 1.1.5",
+                        "url": "https://github.com/files-community/Files/pull/9425",
+                        "state": "CLOSED",
+                        "number": 9425,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Refactor Cloud",
+                        "url": "https://github.com/files-community/Files/pull/9427",
+                        "state": "MERGED",
+                        "number": 9427,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9430",
+                        "state": "MERGED",
+                        "number": 9430,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix issues with drag&drop from special locations",
+                        "url": "https://github.com/files-community/Files/pull/9435",
+                        "state": "MERGED",
+                        "number": 9435,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9436",
+                        "state": "MERGED",
+                        "number": 9436,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Use database to store layout preferences",
+                        "url": "https://github.com/files-community/Files/pull/9437",
+                        "state": "MERGED",
+                        "number": 9437,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "papaPauCla"
+                        },
+                        "title": "Updating \"Home\" to \"My Home\" to add a sense of belonging",
+                        "url": "https://github.com/files-community/Files/pull/9439",
+                        "state": "CLOSED",
+                        "number": 9439,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "zzjrzz"
+                        },
+                        "title": "Start allowing multiple file-tags",
+                        "url": "https://github.com/files-community/Files/pull/9442",
+                        "state": "MERGED",
+                        "number": 9442,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9450",
+                        "state": "MERGED",
+                        "number": 9450,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Service IFullTrustAsker",
+                        "url": "https://github.com/files-community/Files/pull/9454",
+                        "state": "CLOSED",
+                        "number": 9454,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix issues with Sideload solution config",
+                        "url": "https://github.com/files-community/Files/pull/9469",
+                        "state": "MERGED",
+                        "number": 9469,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Prompt users to review Files",
+                        "url": "https://github.com/files-community/Files/pull/9475",
+                        "state": "MERGED",
+                        "number": 9475,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 37.0.4",
+                        "url": "https://github.com/files-community/Files/pull/9476",
+                        "state": "CLOSED",
+                        "number": 9476,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Optimized RD file",
+                        "url": "https://github.com/files-community/Files/pull/9477",
+                        "state": "MERGED",
+                        "number": 9477,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9482",
+                        "state": "MERGED",
+                        "number": 9482,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Refactor storage native",
+                        "url": "https://github.com/files-community/Files/pull/9484",
+                        "state": "CLOSED",
+                        "number": 9484,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Create project Files.Filesystem",
+                        "url": "https://github.com/files-community/Files/pull/9486",
+                        "state": "CLOSED",
+                        "number": 9486,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Introduce abstract storage layer",
+                                        "url": "https://github.com/files-community/Files/pull/9544",
+                                        "state": "MERGED",
+                                        "number": 9544,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 37.0.5",
+                        "url": "https://github.com/files-community/Files/pull/9489",
+                        "state": "CLOSED",
+                        "number": 9489,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Appium.WebDriver from 4.3.1 to 4.3.2",
+                        "url": "https://github.com/files-community/Files/pull/9493",
+                        "state": "MERGED",
+                        "number": 9493,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "farag2"
+                        },
+                        "title": "Russian localization Update",
+                        "url": "https://github.com/files-community/Files/pull/9498",
+                        "state": "CLOSED",
+                        "number": 9498,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.4.3 to 3.4.4",
+                        "url": "https://github.com/files-community/Files/pull/9501",
+                        "state": "MERGED",
+                        "number": 9501,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.15 to 3.4.4",
+                        "url": "https://github.com/files-community/Files/pull/9502",
+                        "state": "CLOSED",
+                        "number": 9502,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "x-Ai"
+                        },
+                        "title": "Update  zh-Hans",
+                        "url": "https://github.com/files-community/Files/pull/9537",
+                        "state": "CLOSED",
+                        "number": 9537,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9540",
+                        "state": "MERGED",
+                        "number": 9540,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Introduce abstract storage layer",
+                        "url": "https://github.com/files-community/Files/pull/9544",
+                        "state": "MERGED",
+                        "number": 9544,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "RokeJulianLockhart"
+                                        },
+                                        "title": "Add support for displaying URIs instead of the usual path",
+                                        "url": "https://github.com/files-community/Files/issues/9725",
+                                        "state": "OPEN",
+                                        "number": 9725,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 37.0.6",
+                        "url": "https://github.com/files-community/Files/pull/9547",
+                        "state": "CLOSED",
+                        "number": 9547,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Adds chevron to folder in column view",
+                        "url": "https://github.com/files-community/Files/pull/9549",
+                        "state": "MERGED",
+                        "number": 9549,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Enable shared connection for layout prefs DB",
+                        "url": "https://github.com/files-community/Files/pull/9550",
+                        "state": "MERGED",
+                        "number": 9550,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated WinUI",
+                        "url": "https://github.com/files-community/Files/pull/9552",
+                        "state": "CLOSED",
+                        "number": 9552,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.Data.Sqlite.Core from 6.0.6 to 6.0.7",
+                        "url": "https://github.com/files-community/Files/pull/9553",
+                        "state": "MERGED",
+                        "number": 9553,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 37.1.0",
+                        "url": "https://github.com/files-community/Files/pull/9554",
+                        "state": "CLOSED",
+                        "number": 9554,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.UI.Xaml from 2.8.0-prerelease.220601001 to 2.8.0-prerelease.220712001",
+                        "url": "https://github.com/files-community/Files/pull/9555",
+                        "state": "MERGED",
+                        "number": 9555,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9567",
+                        "state": "MERGED",
+                        "number": 9567,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Add exception handling to TerminateProcess",
+                        "url": "https://github.com/files-community/Files/pull/9573",
+                        "state": "MERGED",
+                        "number": 9573,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Tback1"
+                                        },
+                                        "title": "\u8bbe\u4e3a\u9ed8\u8ba4\u8d44\u6e90\u7ba1\u7406\u5668\u540e\u56de\u6536\u7ad9\u65e0\u6cd5\u52a0\u8f7d",
+                                        "url": "https://github.com/files-community/Files/issues/9572",
+                                        "state": "CLOSED",
+                                        "number": 9572,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix fulltrust process sometimes exiting on start",
+                                        "url": "https://github.com/files-community/Files/pull/9580",
+                                        "state": "MERGED",
+                                        "number": 9580,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.15 to 3.4.5",
+                        "url": "https://github.com/files-community/Files/pull/9575",
+                        "state": "CLOSED",
+                        "number": 9575,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 37.1.1",
+                        "url": "https://github.com/files-community/Files/pull/9576",
+                        "state": "CLOSED",
+                        "number": 9576,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.4.4 to 3.4.5",
+                        "url": "https://github.com/files-community/Files/pull/9577",
+                        "state": "MERGED",
+                        "number": 9577,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9579",
+                        "state": "MERGED",
+                        "number": 9579,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix fulltrust process sometimes exiting on start",
+                        "url": "https://github.com/files-community/Files/pull/9580",
+                        "state": "MERGED",
+                        "number": 9580,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "giannisgx89"
+                                        },
+                                        "title": "Files doesnt load anything restarting explorer.exe fixes it for a short while",
+                                        "url": "https://github.com/files-community/Files/issues/9308",
+                                        "state": "CLOSED",
+                                        "number": 9308,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "FirokOtaku"
+                                        },
+                                        "title": "Cannot disable \"Default File Manager\" setting",
+                                        "url": "https://github.com/files-community/Files/issues/9631",
+                                        "state": "CLOSED",
+                                        "number": 9631,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.UI.Xaml from 2.8.0-prerelease.220712001 to 2.8.0",
+                        "url": "https://github.com/files-community/Files/pull/9581",
+                        "state": "MERGED",
+                        "number": 9581,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Tweaked tag design",
+                        "url": "https://github.com/files-community/Files/pull/9583",
+                        "state": "MERGED",
+                        "number": 9583,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Added text wrapping to custom icon page",
+                        "url": "https://github.com/files-community/Files/pull/9590",
+                        "state": "MERGED",
+                        "number": 9590,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed properties window in sideload preview",
+                        "url": "https://github.com/files-community/Files/pull/9601",
+                        "state": "MERGED",
+                        "number": 9601,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 38.0.0",
+                        "url": "https://github.com/files-community/Files/pull/9602",
+                        "state": "CLOSED",
+                        "number": 9602,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.AppCenter.Analytics from 4.5.1 to 4.5.3",
+                        "url": "https://github.com/files-community/Files/pull/9606",
+                        "state": "MERGED",
+                        "number": 9606,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.AppCenter.Crashes from 4.5.1 to 4.5.3",
+                        "url": "https://github.com/files-community/Files/pull/9607",
+                        "state": "MERGED",
+                        "number": 9607,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9611",
+                        "state": "MERGED",
+                        "number": 9611,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Axe.Windows from 1.1.2 to 1.1.6",
+                        "url": "https://github.com/files-community/Files/pull/9612",
+                        "state": "CLOSED",
+                        "number": 9612,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 39.0.0",
+                        "url": "https://github.com/files-community/Files/pull/9615",
+                        "state": "CLOSED",
+                        "number": 9615,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "khunny7"
+                        },
+                        "title": "raw file removal added",
+                        "url": "https://github.com/files-community/Files/pull/9629",
+                        "state": "CLOSED",
+                        "number": 9629,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "puppetsw"
+                        },
+                        "title": "Set as background flyout",
+                        "url": "https://github.com/files-community/Files/pull/9630",
+                        "state": "CLOSED",
+                        "number": 9630,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Add support for more archive types using 7zip",
+                        "url": "https://github.com/files-community/Files/pull/9633",
+                        "state": "MERGED",
+                        "number": 9633,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "trparky"
+                                        },
+                                        "title": "Drag-and-drop support for adding file to zip archives",
+                                        "url": "https://github.com/files-community/Files/issues/5632",
+                                        "state": "CLOSED",
+                                        "number": 5632,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Add 7zip integration",
+                                        "url": "https://github.com/files-community/Files/issues/8232",
+                                        "state": "CLOSED",
+                                        "number": 8232,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 39.0.1",
+                        "url": "https://github.com/files-community/Files/pull/9636",
+                        "state": "CLOSED",
+                        "number": 9636,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Optimized rd.xml",
+                        "url": "https://github.com/files-community/Files/pull/9640",
+                        "state": "MERGED",
+                        "number": 9640,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Added CTRL+H shortcut to toggle hidden folder visibility. (#6867)",
+                        "url": "https://github.com/files-community/Files/pull/9648",
+                        "state": "MERGED",
+                        "number": 9648,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrazpedro"
+                                        },
+                                        "title": "Add a keyboard shortcut to show hidden files",
+                                        "url": "https://github.com/files-community/Files/issues/6867",
+                                        "state": "CLOSED",
+                                        "number": 6867,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix folders sometimes using wrong grouping option",
+                        "url": "https://github.com/files-community/Files/pull/9653",
+                        "state": "MERGED",
+                        "number": 9653,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "v2.3.5",
+                        "url": "https://github.com/files-community/Files/pull/9656",
+                        "state": "CLOSED",
+                        "number": 9656,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump CommunityToolkit.Mvvm from 8.0.0-preview4 to 8.0.0",
+                        "url": "https://github.com/files-community/Files/pull/9657",
+                        "state": "MERGED",
+                        "number": 9657,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Release: v2.3.5",
+                        "url": "https://github.com/files-community/Files/pull/9660",
+                        "state": "MERGED",
+                        "number": 9660,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "itsWindows11"
+                        },
+                        "title": "Add indicator spacing in properties page & make security icon use up to date font",
+                        "url": "https://github.com/files-community/Files/pull/9661",
+                        "state": "MERGED",
+                        "number": 9661,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Appcenter fixes for 2.3.5",
+                        "url": "https://github.com/files-community/Files/pull/9667",
+                        "state": "MERGED",
+                        "number": 9667,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "v2.3.6 release",
+                        "url": "https://github.com/files-community/Files/pull/9668",
+                        "state": "MERGED",
+                        "number": 9668,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix issue causing user settings to be repeatedly reloaded from file in some cases",
+                        "url": "https://github.com/files-community/Files/pull/9669",
+                        "state": "MERGED",
+                        "number": 9669,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.4.5 to 3.4.6",
+                        "url": "https://github.com/files-community/Files/pull/9674",
+                        "state": "MERGED",
+                        "number": 9674,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.15 to 3.4.6",
+                        "url": "https://github.com/files-community/Files/pull/9675",
+                        "state": "CLOSED",
+                        "number": 9675,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 39.1.0",
+                        "url": "https://github.com/files-community/Files/pull/9676",
+                        "state": "CLOSED",
+                        "number": 9676,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump FluentFTP from 36.1.0 to 39.2.1",
+                        "url": "https://github.com/files-community/Files/pull/9688",
+                        "state": "CLOSED",
+                        "number": 9688,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.Data.Sqlite.Core from 6.0.7 to 6.0.8",
+                        "url": "https://github.com/files-community/Files/pull/9689",
+                        "state": "MERGED",
+                        "number": 9689,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.NET.Test.Sdk from 17.2.0 to 17.3.0",
+                        "url": "https://github.com/files-community/Files/pull/9699",
+                        "state": "MERGED",
+                        "number": 9699,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Folder path is now displayed when hovering a tab. (#6808)",
+                        "url": "https://github.com/files-community/Files/pull/9700",
+                        "state": "MERGED",
+                        "number": 9700,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "SiRo24"
+                                        },
+                                        "title": "Display folder path when hovering over tab",
+                                        "url": "https://github.com/files-community/Files/issues/6808",
+                                        "state": "CLOSED",
+                                        "number": 6808,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Enabled tags by default and removed option to turn them off",
+                        "url": "https://github.com/files-community/Files/pull/9710",
+                        "state": "MERGED",
+                        "number": 9710,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Turn tags on by default and remove setting to turn it off",
+                                        "url": "https://github.com/files-community/Files/issues/9586",
+                                        "state": "CLOSED",
+                                        "number": 9586,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "5275 set multiple images as desktop background",
+                        "url": "https://github.com/files-community/Files/pull/9712",
+                        "state": "MERGED",
+                        "number": 9712,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "swolenutz1951"
+                                        },
+                                        "title": "\"Set as\" Doesn't appear when selecting >1 image.",
+                                        "url": "https://github.com/files-community/Files/issues/5275",
+                                        "state": "CLOSED",
+                                        "number": 5275,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix google drive detection",
+                        "url": "https://github.com/files-community/Files/pull/9716",
+                        "state": "MERGED",
+                        "number": 9716,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Appcenter fixes",
+                        "url": "https://github.com/files-community/Files/pull/9718",
+                        "state": "CLOSED",
+                        "number": 9718,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/9721",
+                        "state": "MERGED",
+                        "number": 9721,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix archive extraction",
+                        "url": "https://github.com/files-community/Files/pull/9726",
+                        "state": "MERGED",
+                        "number": 9726,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1886 @@
+{
+    "data": {
+        "repository": {
+            "issues": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpIBzjjxvMY="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "Void48"
+                        },
+                        "title": "Flickering on the disk space usage bars",
+                        "url": "https://github.com/files-community/Files/issues/5943",
+                        "state": "CLOSED",
+                        "number": 5943,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "CodeCubeNeo"
+                        },
+                        "title": "Add shortcut for switching between tabs",
+                        "url": "https://github.com/files-community/Files/issues/5936",
+                        "state": "CLOSED",
+                        "number": 5936,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Add support for searching the system",
+                        "url": "https://github.com/files-community/Files/issues/5931",
+                        "state": "CLOSED",
+                        "number": 5931,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Enable search on home to search all drives",
+                                        "url": "https://github.com/files-community/Files/pull/5969",
+                                        "state": "MERGED",
+                                        "number": 5969,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Crash when deleting from search result",
+                        "url": "https://github.com/files-community/Files/issues/5927",
+                        "state": "CLOSED",
+                        "number": 5927,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Add exception handling to LoadIconFromStorageItemAsync",
+                                        "url": "https://github.com/files-community/Files/pull/5929",
+                                        "state": "MERGED",
+                                        "number": 5929,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Crash when deleting from custom library downloads folder",
+                                        "url": "https://github.com/files-community/Files/issues/5948",
+                                        "state": "CLOSED",
+                                        "number": 5948,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "During a Rename operation, using Ctrl+Shift+Left/Right to select text regions instead cancels the operation.",
+                        "url": "https://github.com/files-community/Files/issues/5924",
+                        "state": "CLOSED",
+                        "number": 5924,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "FMalerba"
+                        },
+                        "title": "Files windows should refresh when enabling view of hidden files",
+                        "url": "https://github.com/files-community/Files/issues/5921",
+                        "state": "CLOSED",
+                        "number": 5921,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ahmadabuabdou"
+                        },
+                        "title": "extraccting arhives",
+                        "url": "https://github.com/files-community/Files/issues/5920",
+                        "state": "CLOSED",
+                        "number": 5920,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Improving zip support",
+                        "url": "https://github.com/files-community/Files/issues/5915",
+                        "state": "CLOSED",
+                        "number": 5915,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Drag and dropping a tab without moving it from it's original position creates a new window instance",
+                        "url": "https://github.com/files-community/Files/issues/5913",
+                        "state": "CLOSED",
+                        "number": 5913,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Bug: Multiselect state is not maintained when a drag and drop event occurs",
+                        "url": "https://github.com/files-community/Files/issues/5911",
+                        "state": "CLOSED",
+                        "number": 5911,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Highlight items that are currently occupied by an operation in the main view",
+                        "url": "https://github.com/files-community/Files/issues/5909",
+                        "state": "CLOSED",
+                        "number": 5909,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Alaknar"
+                                        },
+                                        "title": "Operation in progress indicator on the file",
+                                        "url": "https://github.com/files-community/Files/issues/6526",
+                                        "state": "CLOSED",
+                                        "number": 6526,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "guhanath"
+                                        },
+                                        "title": "Feature: Display ongoing operation status in main view ",
+                                        "url": "https://github.com/files-community/Files/issues/12699",
+                                        "state": "OPEN",
+                                        "number": 12699,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JuanChiogna"
+                        },
+                        "title": "Dual panes don't change focus when selecting files or opening folders",
+                        "url": "https://github.com/files-community/Files/issues/5906",
+                        "state": "CLOSED",
+                        "number": 5906,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Bugfixes",
+                                        "url": "https://github.com/files-community/Files/pull/5961",
+                                        "state": "MERGED",
+                                        "number": 5961,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "stanleyowen"
+                        },
+                        "title": "Clicking Direction Button while Renaming File in Tiles View will Cause the Cursor Move to Another Files",
+                        "url": "https://github.com/files-community/Files/issues/5902",
+                        "state": "CLOSED",
+                        "number": 5902,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "stanleyowen"
+                        },
+                        "title": "Delay in Closing Open Themes Dialog/Tooltip ",
+                        "url": "https://github.com/files-community/Files/issues/5901",
+                        "state": "CLOSED",
+                        "number": 5901,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "esibruti"
+                                        },
+                                        "title": "Fixed Delay to Closing Open Themes Dialog/Tooltip",
+                                        "url": "https://github.com/files-community/Files/pull/6096",
+                                        "state": "MERGED",
+                                        "number": 6096,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Darhagonable"
+                        },
+                        "title": "Delete shortcut takes a couple seconds to trigger the delete action",
+                        "url": "https://github.com/files-community/Files/issues/5898",
+                        "state": "CLOSED",
+                        "number": 5898,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Confirming a Rename Action by clicking outside the editing box randomly fails",
+                        "url": "https://github.com/files-community/Files/issues/5895",
+                        "state": "CLOSED",
+                        "number": 5895,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Commit rename when clicking outside textbox",
+                                        "url": "https://github.com/files-community/Files/pull/5896",
+                                        "state": "MERGED",
+                                        "number": 5896,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pc-v2"
+                        },
+                        "title": "Files in Windows 10 21H1 Has Black Item Text When Selected in Dark Mode",
+                        "url": "https://github.com/files-community/Files/issues/5890",
+                        "state": "CLOSED",
+                        "number": 5890,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "m1karii"
+                        },
+                        "title": "Somebody please reopen issues #5724 and #5728. Then close this one. Thanks.",
+                        "url": "https://github.com/files-community/Files/issues/5887",
+                        "state": "CLOSED",
+                        "number": 5887,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Preview Pane only shows the item selected in the first column of ColumnView",
+                        "url": "https://github.com/files-community/Files/issues/5886",
+                        "state": "CLOSED",
+                        "number": 5886,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Preview pane design update and fixes",
+                                        "url": "https://github.com/files-community/Files/pull/5889",
+                                        "state": "MERGED",
+                                        "number": 5889,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "crashmit"
+                        },
+                        "title": "Contextmenu way to small for given window height and indication to scroll too subtle",
+                        "url": "https://github.com/files-community/Files/issues/5884",
+                        "state": "CLOSED",
+                        "number": 5884,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Right click menu weirdly small",
+                                        "url": "https://github.com/files-community/Files/issues/5809",
+                                        "state": "CLOSED",
+                                        "number": 5809,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Bug: Context menu requires you to scroll down to see shell context menu items",
+                                        "url": "https://github.com/files-community/Files/issues/6025",
+                                        "state": "CLOSED",
+                                        "number": 6025,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Changing the file path of one tab in Column View will replace the contents of any other tab using Column View",
+                        "url": "https://github.com/files-community/Files/issues/5879",
+                        "state": "CLOSED",
+                        "number": 5879,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Preview pane design update and fixes",
+                                        "url": "https://github.com/files-community/Files/pull/5889",
+                                        "state": "MERGED",
+                                        "number": 5889,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Takanu"
+                                        },
+                                        "title": "Column View renders extra columns unrelated to the viewed hierarchy when multiple tabs use Column View",
+                                        "url": "https://github.com/files-community/Files/issues/5947",
+                                        "state": "CLOSED",
+                                        "number": 5947,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Bugfixes",
+                                        "url": "https://github.com/files-community/Files/pull/5961",
+                                        "state": "MERGED",
+                                        "number": 5961,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Takanu"
+                        },
+                        "title": "Files won't open empty folders in Column View",
+                        "url": "https://github.com/files-community/Files/issues/5878",
+                        "state": "CLOSED",
+                        "number": 5878,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Svk1190"
+                                        },
+                                        "title": "Zip browsing not supported in column view",
+                                        "url": "https://github.com/files-community/Files/issues/5908",
+                                        "state": "CLOSED",
+                                        "number": 5908,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Open zip archives and empty folders in ColumnView",
+                                        "url": "https://github.com/files-community/Files/pull/5914",
+                                        "state": "MERGED",
+                                        "number": 5914,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Archeol"
+                        },
+                        "title": "Incorrect Time Display in File Details",
+                        "url": "https://github.com/files-community/Files/issues/5877",
+                        "state": "CLOSED",
+                        "number": 5877,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "rosswebediaglasgow"
+                        },
+                        "title": "Allow folders to be added to Favorites",
+                        "url": "https://github.com/files-community/Files/issues/5871",
+                        "state": "CLOSED",
+                        "number": 5871,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Network drives show in the regular drives section",
+                        "url": "https://github.com/files-community/Files/issues/5870",
+                        "state": "CLOSED",
+                        "number": 5870,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Change the folder loading animation (make more subtle)",
+                        "url": "https://github.com/files-community/Files/issues/5859",
+                        "state": "CLOSED",
+                        "number": 5859,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JoshKasap"
+                        },
+                        "title": "Show more text in small - large icon view ",
+                        "url": "https://github.com/files-community/Files/issues/5855",
+                        "state": "CLOSED",
+                        "number": 5855,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JoshKasap"
+                        },
+                        "title": "Sort Folders and Files Separately ",
+                        "url": "https://github.com/files-community/Files/issues/5854",
+                        "state": "CLOSED",
+                        "number": 5854,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Darhagonable"
+                        },
+                        "title": "Directories start from the middle",
+                        "url": "https://github.com/files-community/Files/issues/5837",
+                        "state": "CLOSED",
+                        "number": 5837,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "xmha97"
+                        },
+                        "title": "Set Default Layout",
+                        "url": "https://github.com/files-community/Files/issues/5832",
+                        "state": "CLOSED",
+                        "number": 5832,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ttalonso"
+                        },
+                        "title": "F3 for search",
+                        "url": "https://github.com/files-community/Files/issues/5831",
+                        "state": "CLOSED",
+                        "number": 5831,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Search enhancements",
+                                        "url": "https://github.com/files-community/Files/pull/5842",
+                                        "state": "MERGED",
+                                        "number": 5842,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "XjoaxelX"
+                        },
+                        "title": "Video Drivers crashing when using Files",
+                        "url": "https://github.com/files-community/Files/issues/5826",
+                        "state": "CLOSED",
+                        "number": 5826,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Renaming cancelled when using arrow keys at end of text",
+                        "url": "https://github.com/files-community/Files/issues/5824",
+                        "state": "CLOSED",
+                        "number": 5824,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "stanleyowen"
+                                        },
+                                        "title": "Clicking Direction Button while Renaming File in Tiles View will Cause the Cursor Move to Another Files",
+                                        "url": "https://github.com/files-community/Files/issues/5902",
+                                        "state": "CLOSED",
+                                        "number": 5902,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Takanu"
+                                        },
+                                        "title": "During a Rename operation, using Ctrl+Shift+Left/Right to select text regions instead cancels the operation.",
+                                        "url": "https://github.com/files-community/Files/issues/5924",
+                                        "state": "CLOSED",
+                                        "number": 5924,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "venkatarangan"
+                                        },
+                                        "title": "File Rename - Keyboard shortcut Ctrl-Shift moving focus out",
+                                        "url": "https://github.com/files-community/Files/issues/6481",
+                                        "state": "CLOSED",
+                                        "number": 6481,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "rlnt"
+                                        },
+                                        "title": "Word selection cancels renaming",
+                                        "url": "https://github.com/files-community/Files/issues/6778",
+                                        "state": "CLOSED",
+                                        "number": 6778,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "carlosvsilva"
+                                        },
+                                        "title": "Renaming a file using the arrow keys to navigate words in its name, will start selecting other files",
+                                        "url": "https://github.com/files-community/Files/issues/9691",
+                                        "state": "CLOSED",
+                                        "number": 9691,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Enable refresh button on search results",
+                        "url": "https://github.com/files-community/Files/issues/5821",
+                        "state": "CLOSED",
+                        "number": 5821,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Search enhancements",
+                                        "url": "https://github.com/files-community/Files/pull/5842",
+                                        "state": "MERGED",
+                                        "number": 5842,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HarshKr290802"
+                        },
+                        "title": "Moving and Copying Files",
+                        "url": "https://github.com/files-community/Files/issues/5820",
+                        "state": "CLOSED",
+                        "number": 5820,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Give some indication a search is in progress",
+                        "url": "https://github.com/files-community/Files/issues/5813",
+                        "state": "CLOSED",
+                        "number": 5813,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Search enhancements",
+                                        "url": "https://github.com/files-community/Files/pull/5842",
+                                        "state": "MERGED",
+                                        "number": 5842,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "EsGod"
+                        },
+                        "title": "App crash when trying to delete an program in use",
+                        "url": "https://github.com/files-community/Files/issues/5812",
+                        "state": "CLOSED",
+                        "number": 5812,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "2ndBillGates"
+                        },
+                        "title": "[Problem] [Rename] - Rename trigger everywhere [Win11] [V1.9]",
+                        "url": "https://github.com/files-community/Files/issues/5808",
+                        "state": "CLOSED",
+                        "number": 5808,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Rename behavior improvements",
+                                        "url": "https://github.com/files-community/Files/pull/5816",
+                                        "state": "MERGED",
+                                        "number": 5816,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "oooooooooooooooo"
+                        },
+                        "title": "Can't use middle click or ctrl+click to open a new tab",
+                        "url": "https://github.com/files-community/Files/issues/5805",
+                        "state": "CLOSED",
+                        "number": 5805,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gus33000"
+                        },
+                        "title": "Incorrect layout is applied when the app starts with a small app window",
+                        "url": "https://github.com/files-community/Files/issues/5801",
+                        "state": "CLOSED",
+                        "number": 5801,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Fix issue where wrong layout would be used when launched in small window",
+                                        "url": "https://github.com/files-community/Files/pull/5814",
+                                        "state": "MERGED",
+                                        "number": 5814,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Custom theme previews change with theme",
+                        "url": "https://github.com/files-community/Files/issues/5798",
+                        "state": "CLOSED",
+                        "number": 5798,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "filename fluctuations",
+                        "url": "https://github.com/files-community/Files/issues/5791",
+                        "state": "CLOSED",
+                        "number": 5791,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Filename conflict: Option for renaming in dialogue",
+                        "url": "https://github.com/files-community/Files/issues/5790",
+                        "state": "CLOSED",
+                        "number": 5790,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Feature: \"Eat\" click when refocusing on window",
+                        "url": "https://github.com/files-community/Files/issues/5787",
+                        "state": "CLOSED",
+                        "number": 5787,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "jefflord"
+                                        },
+                                        "title": "Feature: Option disable double (second) click rename.",
+                                        "url": "https://github.com/files-community/Files/issues/14752",
+                                        "state": "CLOSED",
+                                        "number": 14752,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "No delay for the renaming dialogue",
+                        "url": "https://github.com/files-community/Files/issues/5786",
+                        "state": "CLOSED",
+                        "number": 5786,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tellmewhy12"
+                                        },
+                                        "title": "Feature: \"Eat\" click when refocusing on window",
+                                        "url": "https://github.com/files-community/Files/issues/5787",
+                                        "state": "CLOSED",
+                                        "number": 5787,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "Google Drive for desktop as Cloud drive",
+                        "url": "https://github.com/files-community/Files/issues/5785",
+                        "state": "CLOSED",
+                        "number": 5785,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "stanleyowen"
+                        },
+                        "title": "Unresponsive Settings Menu on Restore Down",
+                        "url": "https://github.com/files-community/Files/issues/5784",
+                        "state": "CLOSED",
+                        "number": 5784,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Improved responsiveness of the settings dialog",
+                                        "url": "https://github.com/files-community/Files/pull/5775",
+                                        "state": "MERGED",
+                                        "number": 5775,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Tropix126"
+                        },
+                        "title": "Use AnimatedIcon on the settings button.",
+                        "url": "https://github.com/files-community/Files/issues/5783",
+                        "state": "CLOSED",
+                        "number": 5783,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Cubody"
+                        },
+                        "title": "Browse elements with Files UWP",
+                        "url": "https://github.com/files-community/Files/issues/5779",
+                        "state": "CLOSED",
+                        "number": 5779,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Something when wrong dialog",
+                        "url": "https://github.com/files-community/Files/issues/5770",
+                        "state": "CLOSED",
+                        "number": 5770,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "Add toolbar button to empty recycle bin",
+                        "url": "https://github.com/files-community/Files/issues/5762",
+                        "state": "CLOSED",
+                        "number": 5762,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "files crash/closes when open program location via task manager",
+                        "url": "https://github.com/files-community/Files/issues/5761",
+                        "state": "CLOSED",
+                        "number": 5761,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "justb7"
+                        },
+                        "title": "Google Drive shows in 'Drives' section instead of 'Cloud Drives'",
+                        "url": "https://github.com/files-community/Files/issues/5760",
+                        "state": "CLOSED",
+                        "number": 5760,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Scrollbar showing despite no Overflow",
+                        "url": "https://github.com/files-community/Files/issues/5758",
+                        "state": "CLOSED",
+                        "number": 5758,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AssasinMaster"
+                        },
+                        "title": "Translation issue",
+                        "url": "https://github.com/files-community/Files/issues/5755",
+                        "state": "CLOSED",
+                        "number": 5755,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "On startup current folder not selected",
+                        "url": "https://github.com/files-community/Files/issues/5753",
+                        "state": "CLOSED",
+                        "number": 5753,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "When starting Files the divider of the sidebar gets selected",
+                        "url": "https://github.com/files-community/Files/issues/5752",
+                        "state": "CLOSED",
+                        "number": 5752,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Interface: Selected folder not coloured in accent color",
+                        "url": "https://github.com/files-community/Files/issues/5749",
+                        "state": "CLOSED",
+                        "number": 5749,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "imransadik"
+                        },
+                        "title": "Sort Needed",
+                        "url": "https://github.com/files-community/Files/issues/5747",
+                        "state": "CLOSED",
+                        "number": 5747,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Files stays on the loading screen after recent Insider",
+                        "url": "https://github.com/files-community/Files/issues/5746",
+                        "state": "CLOSED",
+                        "number": 5746,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AssasinMaster"
+                        },
+                        "title": "Right Click on specific Folders freezes Files ",
+                        "url": "https://github.com/files-community/Files/issues/5745",
+                        "state": "CLOSED",
+                        "number": 5745,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "surelynottrue"
+                        },
+                        "title": "Extremely slow right click",
+                        "url": "https://github.com/files-community/Files/issues/5744",
+                        "state": "CLOSED",
+                        "number": 5744,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Google drive for desktop documents don't show in the new menu",
+                        "url": "https://github.com/files-community/Files/issues/5743",
+                        "state": "CLOSED",
+                        "number": 5743,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Add support for creating google docs files from the \"new\" menu",
+                                        "url": "https://github.com/files-community/Files/pull/8784",
+                                        "state": "MERGED",
+                                        "number": 8784,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "xwnb"
+                        },
+                        "title": "When extract file dialog shows up, the context menu should disappear.",
+                        "url": "https://github.com/files-community/Files/issues/5739",
+                        "state": "CLOSED",
+                        "number": 5739,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "YourOrdinaryCat"
+                        },
+                        "title": "Disc Number is not displayed in properties of Music file",
+                        "url": "https://github.com/files-community/Files/issues/5730",
+                        "state": "CLOSED",
+                        "number": 5730,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Update font style ",
+                                        "url": "https://github.com/files-community/Files/pull/5734",
+                                        "state": "MERGED",
+                                        "number": 5734,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Tropix126"
+                        },
+                        "title": "[UX] Autofocus TextBoxes in action dialogs where they are the primary content.",
+                        "url": "https://github.com/files-community/Files/issues/5729",
+                        "state": "CLOSED",
+                        "number": 5729,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Dialog improvements",
+                                        "url": "https://github.com/files-community/Files/pull/5782",
+                                        "state": "MERGED",
+                                        "number": 5782,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "m1karii"
+                        },
+                        "title": "Option to disable rename on double click",
+                        "url": "https://github.com/files-community/Files/issues/5725",
+                        "state": "CLOSED",
+                        "number": 5725,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Darhagonable"
+                        },
+                        "title": "Folder content missing from folder icons",
+                        "url": "https://github.com/files-community/Files/issues/5723",
+                        "state": "CLOSED",
+                        "number": 5723,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Fix file thumbnail cropping and rounded thumbnail corners",
+                                        "url": "https://github.com/files-community/Files/pull/5717",
+                                        "state": "MERGED",
+                                        "number": 5717,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "m1karii"
+                        },
+                        "title": "Multiple ideas / enhancements cuz im lazy to create multiple issues. Read.",
+                        "url": "https://github.com/files-community/Files/issues/5722",
+                        "state": "CLOSED",
+                        "number": 5722,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Crash when accessing quest storage",
+                        "url": "https://github.com/files-community/Files/issues/5720",
+                        "state": "CLOSED",
+                        "number": 5720,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Workaround for cut context menu",
+                                        "url": "https://github.com/files-community/Files/pull/5712",
+                                        "state": "MERGED",
+                                        "number": 5712,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "stanleyowen"
+                        },
+                        "title": "Context Box not Being Closed Immediately after Click `Open With` Options",
+                        "url": "https://github.com/files-community/Files/issues/5718",
+                        "state": "CLOSED",
+                        "number": 5718,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "qwer130140190"
+                        },
+                        "title": "Bulk deletion of files is slow",
+                        "url": "https://github.com/files-community/Files/issues/5710",
+                        "state": "CLOSED",
+                        "number": 5710,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "2ndBillGates"
+                        },
+                        "title": "[UI-Looking / Colour]_Files Tab bar colour should look like this.",
+                        "url": "https://github.com/files-community/Files/issues/5709",
+                        "state": "CLOSED",
+                        "number": 5709,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "xwnb"
+                        },
+                        "title": "Press Ctrl and drag files can not clone the files in same folder.",
+                        "url": "https://github.com/files-community/Files/issues/5702",
+                        "state": "CLOSED",
+                        "number": 5702,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "anishbb7"
+                        },
+                        "title": "Pressing a letter to select an item doesn't scroll to it",
+                        "url": "https://github.com/files-community/Files/issues/5700",
+                        "state": "CLOSED",
+                        "number": 5700,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "xwnb"
+                        },
+                        "title": "When delete file name including file extention, the warning dialog about file extention changed pops up",
+                        "url": "https://github.com/files-community/Files/issues/5697",
+                        "state": "CLOSED",
+                        "number": 5697,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Bug fixes",
+                                        "url": "https://github.com/files-community/Files/pull/5719",
+                                        "state": "MERGED",
+                                        "number": 5719,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Patlen123"
+                        },
+                        "title": "Renaming a drive appends the drive letter",
+                        "url": "https://github.com/files-community/Files/issues/5696",
+                        "state": "CLOSED",
+                        "number": 5696,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Renaming drives doesn't work",
+                                        "url": "https://github.com/files-community/Files/issues/4707",
+                                        "state": "CLOSED",
+                                        "number": 4707,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Bug fixes",
+                                        "url": "https://github.com/files-community/Files/pull/5719",
+                                        "state": "MERGED",
+                                        "number": 5719,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "superuser-11"
+                        },
+                        "title": "cloud drive ",
+                        "url": "https://github.com/files-community/Files/issues/5693",
+                        "state": "CLOSED",
+                        "number": 5693,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Google file stream/Google drive for desktop doesnt show in cloud section",
+                        "url": "https://github.com/files-community/Files/issues/5690",
+                        "state": "CLOSED",
+                        "number": 5690,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "EndangeredNayla"
+                                        },
+                                        "title": "Google Drive Desktop App (not Backup and Sync) does not show in Cloud Storage",
+                                        "url": "https://github.com/files-community/Files/issues/4557",
+                                        "state": "CLOSED",
+                                        "number": 4557,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "justb7"
+                                        },
+                                        "title": "Google Drive shows in 'Drives' section instead of 'Cloud Drives'",
+                                        "url": "https://github.com/files-community/Files/issues/5760",
+                                        "state": "CLOSED",
+                                        "number": 5760,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": null,
+                                        "title": "Google Drive for desktop as Cloud drive",
+                                        "url": "https://github.com/files-community/Files/issues/5785",
+                                        "state": "CLOSED",
+                                        "number": 5785,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "DakshG07"
+                        },
+                        "title": "Renaming Box on Grid View is Broken",
+                        "url": "https://github.com/files-community/Files/issues/5684",
+                        "state": "CLOSED",
+                        "number": 5684,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "xwnb"
+                                        },
+                                        "title": "Fixed Renaming Box on Grid View is Broken",
+                                        "url": "https://github.com/files-community/Files/pull/5699",
+                                        "state": "MERGED",
+                                        "number": 5699,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "DakshG07"
+                        },
+                        "title": "Grid View should have Rounded Corners",
+                        "url": "https://github.com/files-community/Files/issues/5682",
+                        "state": "CLOSED",
+                        "number": 5682,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Fix file thumbnail cropping and rounded thumbnail corners",
+                                        "url": "https://github.com/files-community/Files/pull/5717",
+                                        "state": "MERGED",
+                                        "number": 5717,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "andreaslutsch"
+                        },
+                        "title": "Can't open folder with keyboard when only one folder is in view",
+                        "url": "https://github.com/files-community/Files/issues/5681",
+                        "state": "CLOSED",
+                        "number": 5681,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix issues with keyboard focus in Details view",
+                                        "url": "https://github.com/files-community/Files/pull/7390",
+                                        "state": "MERGED",
+                                        "number": 7390,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Improve keyboard navigation in column view",
+                                        "url": "https://github.com/files-community/Files/pull/7425",
+                                        "state": "MERGED",
+                                        "number": 7425,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "stanleyowen"
+                        },
+                        "title": "Rename the First Document Name in Grid View (Medium) Cause Another Files to shift",
+                        "url": "https://github.com/files-community/Files/issues/5667",
+                        "state": "CLOSED",
+                        "number": 5667,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Bug fixes",
+                                        "url": "https://github.com/files-community/Files/pull/5674",
+                                        "state": "MERGED",
+                                        "number": 5674,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "xwnb"
+                                        },
+                                        "title": "Fix: Rename the First Document Name in Grid View (Medium) Cause Anoth…",
+                                        "url": "https://github.com/files-community/Files/pull/5687",
+                                        "state": "CLOSED",
+                                        "number": 5687,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ClementYip1713"
+                        },
+                        "title": "Only able to drag Windows around if I click the upper right corner near the minimize button ",
+                        "url": "https://github.com/files-community/Files/issues/5665",
+                        "state": "CLOSED",
+                        "number": 5665,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "Layout Mode and Group By",
+                        "url": "https://github.com/files-community/Files/issues/5661",
+                        "state": "CLOSED",
+                        "number": 5661,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Muhammed-Al-Abdul-Gader"
+                        },
+                        "title": "Ability to change icons on files and folders",
+                        "url": "https://github.com/files-community/Files/issues/5657",
+                        "state": "CLOSED",
+                        "number": 5657,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Muhammed-Al-Abdul-Gader"
+                        },
+                        "title": "Slide favorites",
+                        "url": "https://github.com/files-community/Files/issues/5656",
+                        "state": "CLOSED",
+                        "number": 5656,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "stanleyowen"
+                        },
+                        "title": "Context Menu Still Exist After Zipping Files",
+                        "url": "https://github.com/files-community/Files/issues/5654",
+                        "state": "CLOSED",
+                        "number": 5654,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "Grouping Options",
+                        "url": "https://github.com/files-community/Files/issues/5653",
+                        "state": "CLOSED",
+                        "number": 5653,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Zemlen"
+                        },
+                        "title": "Drag and drop mailfunction",
+                        "url": "https://github.com/files-community/Files/issues/5646",
+                        "state": "CLOSED",
+                        "number": 5646,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix dragdrop image to CorelDraw",
+                                        "url": "https://github.com/files-community/Files/pull/5650",
+                                        "state": "MERGED",
+                                        "number": 5650,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "Creating link files using alt+drag isn't working (it only shows \"Link\" hovering over Desktop)",
+                        "url": "https://github.com/files-community/Files/issues/5644",
+                        "state": "CLOSED",
+                        "number": 5644,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tellmewhy12"
+                        },
+                        "title": "When renaming link files the .lnk extension gets removed",
+                        "url": "https://github.com/files-community/Files/issues/5643",
+                        "state": "CLOSED",
+                        "number": 5643,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "skri11-2k"
+                        },
+                        "title": "Request for 'Open with' feature",
+                        "url": "https://github.com/files-community/Files/issues/5640",
+                        "state": "CLOSED",
+                        "number": 5640,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Darhagonable"
+                        },
+                        "title": "Thumbnails of images are cropped into squares",
+                        "url": "https://github.com/files-community/Files/issues/5631",
+                        "state": "CLOSED",
+                        "number": 5631,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Fix file thumbnail cropping and rounded thumbnail corners",
+                                        "url": "https://github.com/files-community/Files/pull/5717",
+                                        "state": "MERGED",
+                                        "number": 5717,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HitaloM"
+                        },
+                        "title": "Files on Xbox",
+                        "url": "https://github.com/files-community/Files/issues/5630",
+                        "state": "CLOSED",
+                        "number": 5630,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Show what files is in use and the location on popup",
+                        "url": "https://github.com/files-community/Files/issues/5628",
+                        "state": "CLOSED",
+                        "number": 5628,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Show which app is preventing a file from being deleted",
+                                        "url": "https://github.com/files-community/Files/issues/1681",
+                                        "state": "CLOSED",
+                                        "number": 1681,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "\"Open logs\" in settings should close the settings window",
+                        "url": "https://github.com/files-community/Files/issues/5625",
+                        "state": "CLOSED",
+                        "number": 5625,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "shirooo39"
+                        },
+                        "title": "Some elements (like the About button) in the Settings window got hidden away when Files is not maximized",
+                        "url": "https://github.com/files-community/Files/issues/5616",
+                        "state": "CLOSED",
+                        "number": 5616,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Have useful links auto expanded in settings about",
+                        "url": "https://github.com/files-community/Files/issues/5614",
+                        "state": "CLOSED",
+                        "number": 5614,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Tropix126"
+                        },
+                        "title": "Keyboard shortcut to open current/selected directory in terminal.",
+                        "url": "https://github.com/files-community/Files/issues/5607",
+                        "state": "CLOSED",
+                        "number": 5607,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Ademord"
+                                        },
+                                        "title": "Feature: Add terminal Integration",
+                                        "url": "https://github.com/files-community/Files/issues/6235",
+                                        "state": "OPEN",
+                                        "number": 6235,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "sultanmckings"
+                                        },
+                                        "title": "Adding \"Open in terminal...\" shortcut. ",
+                                        "url": "https://github.com/files-community/Files/issues/6472",
+                                        "state": "CLOSED",
+                                        "number": 6472,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "M09Ic"
+                                        },
+                                        "title": "[feature request] Add open command line shortcut",
+                                        "url": "https://github.com/files-community/Files/issues/7683",
+                                        "state": "CLOSED",
+                                        "number": 7683,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "puppetsw"
+                                        },
+                                        "title": "Added shortcut to open terminal in current directory",
+                                        "url": "https://github.com/files-community/Files/pull/7940",
+                                        "state": "CLOSED",
+                                        "number": 7940,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "puppetsw"
+                                        },
+                                        "title": "Added a shortcut to open folders in Terminal",
+                                        "url": "https://github.com/files-community/Files/pull/8268",
+                                        "state": "MERGED",
+                                        "number": 8268,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

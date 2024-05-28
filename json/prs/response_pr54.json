@@ -1,0 +1,1329 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOaQ0SEw=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/14663",
+                        "state": "MERGED",
+                        "number": 14663,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed high contrast support in menu flyouts",
+                        "url": "https://github.com/files-community/Files/pull/14664",
+                        "state": "MERGED",
+                        "number": 14664,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where refocusing Details View would sometimes scroll",
+                        "url": "https://github.com/files-community/Files/pull/14666",
+                        "state": "MERGED",
+                        "number": 14666,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for pinning executable shortcuts to start",
+                        "url": "https://github.com/files-community/Files/pull/14667",
+                        "state": "MERGED",
+                        "number": 14667,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added a prompt when failing to rename items requiring additional permissions",
+                        "url": "https://github.com/files-community/Files/pull/14669",
+                        "state": "MERGED",
+                        "number": 14669,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Release: v3.2",
+                        "url": "https://github.com/files-community/Files/pull/14672",
+                        "state": "MERGED",
+                        "number": 14672,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added a notification when the app goes to the background for the first time",
+                        "url": "https://github.com/files-community/Files/pull/14673",
+                        "state": "MERGED",
+                        "number": 14673,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where switching directory while renaming item wouldn't cancel rename",
+                        "url": "https://github.com/files-community/Files/pull/14676",
+                        "state": "MERGED",
+                        "number": 14676,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Refactor IncreaseLayoutSize",
+                        "url": "https://github.com/files-community/Files/pull/14677",
+                        "state": "MERGED",
+                        "number": 14677,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed COMException in HandleLocationItemDroppedAsync",
+                        "url": "https://github.com/files-community/Files/pull/14680",
+                        "state": "MERGED",
+                        "number": 14680,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in InvertSelectionAction",
+                        "url": "https://github.com/files-community/Files/pull/14681",
+                        "state": "MERGED",
+                        "number": 14681,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added storage sense option to all flyouts",
+                        "url": "https://github.com/files-community/Files/pull/14682",
+                        "state": "CLOSED",
+                        "number": 14682,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Allows to change library icon",
+                        "url": "https://github.com/files-community/Files/pull/14684",
+                        "state": "CLOSED",
+                        "number": 14684,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Improved performance of Git operations",
+                        "url": "https://github.com/files-community/Files/pull/14688",
+                        "state": "MERGED",
+                        "number": 14688,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed ArgumentException in ContextMenu",
+                        "url": "https://github.com/files-community/Files/pull/14689",
+                        "state": "MERGED",
+                        "number": 14689,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Update dependencies",
+                        "url": "https://github.com/files-community/Files/pull/14693",
+                        "state": "MERGED",
+                        "number": 14693,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where the path bar on the home page was not translated",
+                        "url": "https://github.com/files-community/Files/pull/14694",
+                        "state": "MERGED",
+                        "number": 14694,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where the status wasn't updated when emptying Recycle Bin",
+                        "url": "https://github.com/files-community/Files/pull/14696",
+                        "state": "CLOSED",
+                        "number": 14696,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed InvalidOperationException when removing page from BackStack",
+                        "url": "https://github.com/files-community/Files/pull/14698",
+                        "state": "MERGED",
+                        "number": 14698,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in Item_Opening",
+                        "url": "https://github.com/files-community/Files/pull/14699",
+                        "state": "MERGED",
+                        "number": 14699,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where exe icons were sometimes small",
+                        "url": "https://github.com/files-community/Files/pull/14700",
+                        "state": "MERGED",
+                        "number": 14700,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Transition Sidebar and Tabs away from LoadIconFromPathAsync",
+                        "url": "https://github.com/files-community/Files/pull/14701",
+                        "state": "MERGED",
+                        "number": 14701,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Code Quality: Request 16x16 image for sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/14772",
+                                        "state": "CLOSED",
+                                        "number": 14772,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "GitHub: Update README.md",
+                        "url": "https://github.com/files-community/Files/pull/14708",
+                        "state": "CLOSED",
+                        "number": 14708,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "GitHub: Update CI",
+                        "url": "https://github.com/files-community/Files/pull/14709",
+                        "state": "MERGED",
+                        "number": 14709,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Differentiate between icon size & icon height",
+                        "url": "https://github.com/files-community/Files/pull/14713",
+                        "state": "MERGED",
+                        "number": 14713,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in DirectoryInfoUpdated",
+                        "url": "https://github.com/files-community/Files/pull/14715",
+                        "state": "CLOSED",
+                        "number": 14715,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Adjust Details View density",
+                        "url": "https://github.com/files-community/Files/pull/14717",
+                        "state": "CLOSED",
+                        "number": 14717,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added slider to control item size (phase 1)",
+                        "url": "https://github.com/files-community/Files/pull/14719",
+                        "state": "MERGED",
+                        "number": 14719,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in DirectoryInfoUpdated",
+                        "url": "https://github.com/files-community/Files/pull/14720",
+                        "state": "MERGED",
+                        "number": 14720,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Introduced view models to widgets",
+                        "url": "https://github.com/files-community/Files/pull/14723",
+                        "state": "CLOSED",
+                        "number": 14723,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where icon overlays were cached",
+                        "url": "https://github.com/files-community/Files/pull/14727",
+                        "state": "MERGED",
+                        "number": 14727,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Updated Windows App SDK to 1.4.5",
+                        "url": "https://github.com/files-community/Files/pull/14728",
+                        "state": "MERGED",
+                        "number": 14728,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Release: v3.2.1",
+                        "url": "https://github.com/files-community/Files/pull/14741",
+                        "state": "MERGED",
+                        "number": 14741,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed crash that would occur when navigating folders continuously in a short period of time",
+                        "url": "https://github.com/files-community/Files/pull/14744",
+                        "state": "MERGED",
+                        "number": 14744,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed crash that would occur when clicking an item in the Tags widget",
+                        "url": "https://github.com/files-community/Files/pull/14745",
+                        "state": "MERGED",
+                        "number": 14745,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed InvalidOperationException in ColumnsLayoutPage",
+                        "url": "https://github.com/files-community/Files/pull/14746",
+                        "state": "MERGED",
+                        "number": 14746,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "GitHub: Update CI's checkout step version to v4",
+                        "url": "https://github.com/files-community/Files/pull/14749",
+                        "state": "MERGED",
+                        "number": 14749,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed ArgumentException when wrong color was specified",
+                        "url": "https://github.com/files-community/Files/pull/14751",
+                        "state": "MERGED",
+                        "number": 14751,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed COMException loop due to failure to generate notification",
+                        "url": "https://github.com/files-community/Files/pull/14754",
+                        "state": "MERGED",
+                        "number": 14754,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/14756",
+                        "state": "MERGED",
+                        "number": 14756,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Release: v3.2.2",
+                        "url": "https://github.com/files-community/Files/pull/14757",
+                        "state": "MERGED",
+                        "number": 14757,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KawaiianPizza"
+                        },
+                        "title": "Feature: Adaptive layout uses Tiles if thumbnails are enabled for media folders",
+                        "url": "https://github.com/files-community/Files/pull/14759",
+                        "state": "CLOSED",
+                        "number": 14759,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Introduce shared properties",
+                        "url": "https://github.com/files-community/Files/pull/14766",
+                        "state": "CLOSED",
+                        "number": 14766,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed SocketException in GitHelpers.RequireGitAuthenticationAsync",
+                        "url": "https://github.com/files-community/Files/pull/14769",
+                        "state": "MERGED",
+                        "number": 14769,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Use correct DPI settings when requesting icons",
+                        "url": "https://github.com/files-community/Files/pull/14779",
+                        "state": "MERGED",
+                        "number": 14779,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "foxnoodles"
+                                        },
+                                        "title": "Bug: Some file/drive icons are displayed as a small icon",
+                                        "url": "https://github.com/files-community/Files/issues/14499",
+                                        "state": "CLOSED",
+                                        "number": 14499,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in ShareItemsAsync",
+                        "url": "https://github.com/files-community/Files/pull/14782",
+                        "state": "MERGED",
+                        "number": 14782,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in CloseTab",
+                        "url": "https://github.com/files-community/Files/pull/14783",
+                        "state": "MERGED",
+                        "number": 14783,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in Item_Opening",
+                        "url": "https://github.com/files-community/Files/pull/14784",
+                        "state": "MERGED",
+                        "number": 14784,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in DuplicateSelectedTabAction.ExecuteAsync",
+                        "url": "https://github.com/files-community/Files/pull/14789",
+                        "state": "MERGED",
+                        "number": 14789,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Icon improvements",
+                        "url": "https://github.com/files-community/Files/pull/14792",
+                        "state": "MERGED",
+                        "number": 14792,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Restore tabs when Files process is closed incorrectly",
+                        "url": "https://github.com/files-community/Files/pull/14795",
+                        "state": "MERGED",
+                        "number": 14795,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where existing tabs were duplicated when opening a folder from the outside of Files",
+                                        "url": "https://github.com/files-community/Files/pull/15146",
+                                        "state": "MERGED",
+                                        "number": 15146,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Sideload: Disable update prompt",
+                        "url": "https://github.com/files-community/Files/pull/14799",
+                        "state": "MERGED",
+                        "number": 14799,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where item selection didn't work properly the List View layout",
+                        "url": "https://github.com/files-community/Files/pull/14800",
+                        "state": "MERGED",
+                        "number": 14800,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "GitHub: Added Discord link to New Issue",
+                        "url": "https://github.com/files-community/Files/pull/14802",
+                        "state": "MERGED",
+                        "number": 14802,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Feature: Added Discord link to About page",
+                                        "url": "https://github.com/files-community/Files/pull/14821",
+                                        "state": "MERGED",
+                                        "number": 14821,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Add re-installation prompt",
+                        "url": "https://github.com/files-community/Files/pull/14803",
+                        "state": "CLOSED",
+                        "number": 14803,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Add re-installation prompt",
+                        "url": "https://github.com/files-community/Files/pull/14804",
+                        "state": "MERGED",
+                        "number": 14804,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Improve icon code for recent items",
+                        "url": "https://github.com/files-community/Files/pull/14805",
+                        "state": "MERGED",
+                        "number": 14805,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Replaced icon height & size constants with enums",
+                        "url": "https://github.com/files-community/Files/pull/14809",
+                        "state": "MERGED",
+                        "number": 14809,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Renamed user control class names",
+                        "url": "https://github.com/files-community/Files/pull/14810",
+                        "state": "MERGED",
+                        "number": 14810,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Renamed sidebar item classes",
+                        "url": "https://github.com/files-community/Files/pull/14812",
+                        "state": "CLOSED",
+                        "number": 14812,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added Discord link to About page",
+                        "url": "https://github.com/files-community/Files/pull/14821",
+                        "state": "MERGED",
+                        "number": 14821,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Fix column layout sizing",
+                        "url": "https://github.com/files-community/Files/pull/14822",
+                        "state": "MERGED",
+                        "number": 14822,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where copy and paste out of archive file didn't work",
+                        "url": "https://github.com/files-community/Files/pull/14829",
+                        "state": "MERGED",
+                        "number": 14829,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where hashes weren't able to calculate",
+                        "url": "https://github.com/files-community/Files/pull/14832",
+                        "state": "MERGED",
+                        "number": 14832,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Add icon sizes to the layout flyout",
+                        "url": "https://github.com/files-community/Files/pull/14834",
+                        "state": "MERGED",
+                        "number": 14834,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Renamed Sidebar controls & contracts",
+                        "url": "https://github.com/files-community/Files/pull/14838",
+                        "state": "CLOSED",
+                        "number": 14838,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where the setting control margin was misaligned",
+                        "url": "https://github.com/files-community/Files/pull/14839",
+                        "state": "MERGED",
+                        "number": 14839,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "GitHub: Update FUNDING.yml",
+                        "url": "https://github.com/files-community/Files/pull/14842",
+                        "state": "MERGED",
+                        "number": 14842,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Update layout size selection state",
+                        "url": "https://github.com/files-community/Files/pull/14845",
+                        "state": "MERGED",
+                        "number": 14845,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Updated layout icons in the toolbar",
+                        "url": "https://github.com/files-community/Files/pull/14846",
+                        "state": "MERGED",
+                        "number": 14846,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Replaced string \"Layout mode\" with \"Layout\" for simplicity",
+                        "url": "https://github.com/files-community/Files/pull/14847",
+                        "state": "MERGED",
+                        "number": 14847,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/14848",
+                        "state": "MERGED",
+                        "number": 14848,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where some files failed to load properties",
+                        "url": "https://github.com/files-community/Files/pull/14850",
+                        "state": "MERGED",
+                        "number": 14850,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added tooltips to Layout Picker",
+                        "url": "https://github.com/files-community/Files/pull/14852",
+                        "state": "MERGED",
+                        "number": 14852,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/14853",
+                        "state": "MERGED",
+                        "number": 14853,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed issue where tabs weren't restored when resuming from the background",
+                        "url": "https://github.com/files-community/Files/pull/14857",
+                        "state": "MERGED",
+                        "number": 14857,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Fix: Save tab list on path change",
+                                        "url": "https://github.com/files-community/Files/pull/14874",
+                                        "state": "MERGED",
+                                        "number": 14874,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Renamed ItemViewModel with ShellViewModel",
+                        "url": "https://github.com/files-community/Files/pull/14861",
+                        "state": "CLOSED",
+                        "number": 14861,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Renamed \"Favorites\" section to \"Pinned\"",
+                        "url": "https://github.com/files-community/Files/pull/14862",
+                        "state": "MERGED",
+                        "number": 14862,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added a header to the home page",
+                        "url": "https://github.com/files-community/Files/pull/14864",
+                        "state": "MERGED",
+                        "number": 14864,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Improve how cached thumbnails are loaded for cloud locations",
+                        "url": "https://github.com/files-community/Files/pull/14866",
+                        "state": "CLOSED",
+                        "number": 14866,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where pin/unpin string is not shown",
+                        "url": "https://github.com/files-community/Files/pull/14869",
+                        "state": "MERGED",
+                        "number": 14869,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Remove thumbnail cache to simplify logic and improve performance",
+                        "url": "https://github.com/files-community/Files/pull/14871",
+                        "state": "MERGED",
+                        "number": 14871,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Save tab list on path change",
+                        "url": "https://github.com/files-community/Files/pull/14874",
+                        "state": "MERGED",
+                        "number": 14874,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Updated dependencies",
+                        "url": "https://github.com/files-community/Files/pull/14876",
+                        "state": "MERGED",
+                        "number": 14876,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where Open with and Send to submenus didn't appear properly in Widgets",
+                        "url": "https://github.com/files-community/Files/pull/14879",
+                        "state": "MERGED",
+                        "number": 14879,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added a property to retrieve root path of a quick access card",
+                        "url": "https://github.com/files-community/Files/pull/14881",
+                        "state": "CLOSED",
+                        "number": 14881,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed localization issue in the Layout Picker",
+                        "url": "https://github.com/files-community/Files/pull/14883",
+                        "state": "MERGED",
+                        "number": 14883,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Renamed DirectoryPropertiesViewModel to StatusBarViewModel",
+                        "url": "https://github.com/files-community/Files/pull/14884",
+                        "state": "MERGED",
+                        "number": 14884,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Formatted primary UserControls",
+                        "url": "https://github.com/files-community/Files/pull/14885",
+                        "state": "CLOSED",
+                        "number": 14885,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lunathanael"
+                        },
+                        "title": "Fix: Fixed an issue with drag and dropping items onto .ahk files (#14430)",
+                        "url": "https://github.com/files-community/Files/pull/14894",
+                        "state": "CLOSED",
+                        "number": 14894,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lunathanael"
+                        },
+                        "title": "Fix: Fixed an issue with drag and dropping items onto .ahk files",
+                        "url": "https://github.com/files-community/Files/pull/14895",
+                        "state": "MERGED",
+                        "number": 14895,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Qaulity: Introduce Shimmer",
+                        "url": "https://github.com/files-community/Files/pull/14897",
+                        "state": "CLOSED",
+                        "number": 14897,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Feature: Added shimmer animation when loading icons",
+                                        "url": "https://github.com/files-community/Files/pull/14905",
+                                        "state": "MERGED",
+                                        "number": 14905,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nmangue"
+                        },
+                        "title": "Fix: Prompt for credentials when a network share access is denied",
+                        "url": "https://github.com/files-community/Files/pull/14904",
+                        "state": "MERGED",
+                        "number": 14904,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added shimmer animation when loading icons",
+                        "url": "https://github.com/files-community/Files/pull/14905",
+                        "state": "MERGED",
+                        "number": 14905,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "0x5bfa"
+                                        },
+                                        "title": "Code Qaulity: Introduce Shimmer",
+                                        "url": "https://github.com/files-community/Files/pull/14897",
+                                        "state": "CLOSED",
+                                        "number": 14897,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Remove embedded Package.appinstaller",
+                        "url": "https://github.com/files-community/Files/pull/14908",
+                        "state": "MERGED",
+                        "number": 14908,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: LiteDB server and Files.Core removal",
+                        "url": "https://github.com/files-community/Files/pull/14911",
+                        "state": "MERGED",
+                        "number": 14911,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gumbarros"
+                                        },
+                                        "title": "Code Quality: Fixed crash caused by useless predicate",
+                                        "url": "https://github.com/files-community/Files/pull/15126",
+                                        "state": "MERGED",
+                                        "number": 15126,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Bug: Permanently delete doesn't work all the time",
+                                        "url": "https://github.com/files-community/Files/issues/15133",
+                                        "state": "CLOSED",
+                                        "number": 15133,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Created new \"Layout\" settings page",
+                        "url": "https://github.com/files-community/Files/pull/14912",
+                        "state": "MERGED",
+                        "number": 14912,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Removed web shortcut icon placeholder",
+                        "url": "https://github.com/files-community/Files/pull/14913",
+                        "state": "MERGED",
+                        "number": 14913,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Keep scroll offset when changing item size",
+                        "url": "https://github.com/files-community/Files/pull/14914",
+                        "state": "MERGED",
+                        "number": 14914,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed issue where window wasn't always brought to foreground",
+                        "url": "https://github.com/files-community/Files/pull/14917",
+                        "state": "MERGED",
+                        "number": 14917,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

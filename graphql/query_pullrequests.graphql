@@ -1,0 +1,47 @@
+{
+  repository(owner: "files-community", name: "Files") {
+		PullRequests(first:100, orderBy:{field:COMMENTS, direction:DESC}){
+      pageInfo{
+        endCursor
+      }
+      nodes{
+        author{
+          login
+        }
+        title
+        url
+        state
+        number
+        timelineItems(first:100, itemTypes:CROSS_REFERENCED_EVENT){
+          nodes{
+            ... on CrossReferencedEvent{
+              source{
+                ... on Issue{
+                  author{
+                    login
+                  }
+                  title
+                  url
+                  state
+                  number
+                  __typename
+                }
+                ... on PullRequest{
+                  author{
+                    login
+                  }
+                  title
+                  url
+                  state
+                  number
+                  __typename
+                }
+              }
+            }
+          }
+        }
+        
+      }
+    }
+  }
+}

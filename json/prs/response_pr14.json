@@ -1,0 +1,1868 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOIxeFkA=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Auto focus text box for Bundles widget",
+                        "url": "https://github.com/files-community/Files/pull/3634",
+                        "state": "MERGED",
+                        "number": 3634,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "R3voA3"
+                                        },
+                                        "title": "Renaming Bundles: Auto focus edit box",
+                                        "url": "https://github.com/files-community/Files/issues/3536",
+                                        "state": "CLOSED",
+                                        "number": 3536,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Made some enhancements to the Bundles widget",
+                        "url": "https://github.com/files-community/Files/pull/3637",
+                        "state": "MERGED",
+                        "number": 3637,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Absolucy"
+                                        },
+                                        "title": "wip: Add IChecksum, a generic interface over hashes/checksums",
+                                        "url": "https://github.com/files-community/Files/pull/3452",
+                                        "state": "CLOSED",
+                                        "number": 3452,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Bundles!!",
+                                        "url": "https://github.com/files-community/Files/pull/2881",
+                                        "state": "MERGED",
+                                        "number": 2881,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "rusti4"
+                                        },
+                                        "title": "Autofocus on text field",
+                                        "url": "https://github.com/files-community/Files/issues/3724",
+                                        "state": "CLOSED",
+                                        "number": 3724,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ReyMagos"
+                                        },
+                                        "title": "Warning about existed bundle name",
+                                        "url": "https://github.com/files-community/Files/issues/3449",
+                                        "state": "CLOSED",
+                                        "number": 3449,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "KristofKekesi"
+                                        },
+                                        "title": "[Feature request] Add shortcut support to Bundles",
+                                        "url": "https://github.com/files-community/Files/issues/3270",
+                                        "state": "CLOSED",
+                                        "number": 3270,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ChristilawD"
+                                        },
+                                        "title": "Place cursor in dialog box when creating folder",
+                                        "url": "https://github.com/files-community/Files/issues/3908",
+                                        "state": "CLOSED",
+                                        "number": 3908,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Add items to Bundles via context menu",
+                                        "url": "https://github.com/files-community/Files/issues/4031",
+                                        "state": "CLOSED",
+                                        "number": 4031,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Made PathBox ignore double backslashes",
+                        "url": "https://github.com/files-community/Files/pull/3638",
+                        "state": "MERGED",
+                        "number": 3638,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Preview pane improvements 2",
+                        "url": "https://github.com/files-community/Files/pull/3639",
+                        "state": "MERGED",
+                        "number": 3639,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Preview pane should say no item selected when there's no selected item",
+                                        "url": "https://github.com/files-community/Files/issues/3446",
+                                        "state": "CLOSED",
+                                        "number": 3446,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "KristofKekesi"
+                                        },
+                                        "title": "Preview pane for folders",
+                                        "url": "https://github.com/files-community/Files/issues/3400",
+                                        "state": "CLOSED",
+                                        "number": 3400,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Fixed bug where details wouldn't be loaded from extensions in the preview pane",
+                                        "url": "https://github.com/files-community/Files/pull/3775",
+                                        "state": "MERGED",
+                                        "number": 3775,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "Added folder previews to the preview pane",
+                                        "url": "https://github.com/files-community/Files/pull/3773",
+                                        "state": "MERGED",
+                                        "number": 3773,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "drbryce"
+                                        },
+                                        "title": "file extensions not shown in search results",
+                                        "url": "https://github.com/files-community/Files/issues/3847",
+                                        "state": "CLOSED",
+                                        "number": 3847,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation Update [es-ES]",
+                        "url": "https://github.com/files-community/Files/pull/3641",
+                        "state": "MERGED",
+                        "number": 3641,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "F1 shortcut now opens the Files Wiki",
+                        "url": "https://github.com/files-community/Files/pull/3647",
+                        "state": "MERGED",
+                        "number": 3647,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "R3voA3"
+                                        },
+                                        "title": "Pressing F1 should bring up the Files Wiki",
+                                        "url": "https://github.com/files-community/Files/issues/3645",
+                                        "state": "CLOSED",
+                                        "number": 3645,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes for version 1.3",
+                        "url": "https://github.com/files-community/Files/pull/3648",
+                        "state": "MERGED",
+                        "number": 3648,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "oleitao"
+                        },
+                        "title": "Added collapsible sections to the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/3661",
+                        "state": "MERGED",
+                        "number": 3661,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix navigating back to home",
+                                        "url": "https://github.com/files-community/Files/pull/3729",
+                                        "state": "MERGED",
+                                        "number": 3729,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes for version 1.3 (2)",
+                        "url": "https://github.com/files-community/Files/pull/3669",
+                        "state": "MERGED",
+                        "number": 3669,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "AisinGioroKiIoi"
+                                        },
+                                        "title": "Issue renaming files when \"open items with one click\" is enabled",
+                                        "url": "https://github.com/files-community/Files/issues/3660",
+                                        "state": "CLOSED",
+                                        "number": 3660,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "asuetin"
+                                        },
+                                        "title": "Some UI elements take a long time to load when opening a new Files window",
+                                        "url": "https://github.com/files-community/Files/issues/3664",
+                                        "state": "CLOSED",
+                                        "number": 3664,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "boscorelly"
+                                        },
+                                        "title": "Recycle bin flushing bug",
+                                        "url": "https://github.com/files-community/Files/issues/3679",
+                                        "state": "CLOSED",
+                                        "number": 3679,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Update Japanese translation",
+                        "url": "https://github.com/files-community/Files/pull/3670",
+                        "state": "MERGED",
+                        "number": 3670,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KristofKekesi"
+                        },
+                        "title": "Update Files.hu-HU.xlf",
+                        "url": "https://github.com/files-community/Files/pull/3672",
+                        "state": "MERGED",
+                        "number": 3672,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "boscorelly"
+                        },
+                        "title": "fr-fr",
+                        "url": "https://github.com/files-community/Files/pull/3675",
+                        "state": "CLOSED",
+                        "number": 3675,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Fix Japanese Translation",
+                        "url": "https://github.com/files-community/Files/pull/3676",
+                        "state": "MERGED",
+                        "number": 3676,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes per version 1.3 (3)",
+                        "url": "https://github.com/files-community/Files/pull/3684",
+                        "state": "MERGED",
+                        "number": 3684,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "linds-codes"
+                                        },
+                                        "title": "Right clicking crashes the app",
+                                        "url": "https://github.com/files-community/Files/issues/3680",
+                                        "state": "CLOSED",
+                                        "number": 3680,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Update bug issue template",
+                        "url": "https://github.com/files-community/Files/pull/3685",
+                        "state": "MERGED",
+                        "number": 3685,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Removed extra settings",
+                        "url": "https://github.com/files-community/Files/pull/3686",
+                        "state": "MERGED",
+                        "number": 3686,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Update URLs",
+                        "url": "https://github.com/files-community/Files/pull/3688",
+                        "state": "MERGED",
+                        "number": 3688,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nvi9"
+                        },
+                        "title": "Add current pages to the startup pages list",
+                        "url": "https://github.com/files-community/Files/pull/3699",
+                        "state": "CLOSED",
+                        "number": 3699,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "NavBar improvements step 1",
+                        "url": "https://github.com/files-community/Files/pull/3705",
+                        "state": "MERGED",
+                        "number": 3705,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Update Vision for Files",
+                        "url": "https://github.com/files-community/Files/pull/3710",
+                        "state": "MERGED",
+                        "number": 3710,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nvi9"
+                        },
+                        "title": "Added the ability to add the Home directory as a startup page",
+                        "url": "https://github.com/files-community/Files/pull/3715",
+                        "state": "MERGED",
+                        "number": 3715,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "crashmit"
+                                        },
+                                        "title": "Select current open pages as launch pages on startup.",
+                                        "url": "https://github.com/files-community/Files/issues/3696",
+                                        "state": "CLOSED",
+                                        "number": 3696,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix crash when navigating to a path > 256 chars long",
+                        "url": "https://github.com/files-community/Files/pull/3716",
+                        "state": "MERGED",
+                        "number": 3716,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ResearcherSearching"
+                                        },
+                                        "title": "Files crashed when I tried to open a long path (>256)",
+                                        "url": "https://github.com/files-community/Files/issues/3712",
+                                        "state": "CLOSED",
+                                        "number": 3712,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Added adaptive layout modes",
+                                        "url": "https://github.com/files-community/Files/pull/3526",
+                                        "state": "MERGED",
+                                        "number": 3526,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Crash when opening a folder beyond 255 path character limit.",
+                                        "url": "https://github.com/files-community/Files/issues/4343",
+                                        "state": "CLOSED",
+                                        "number": 4343,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Mvvm from 7.0.0-preview4 to 7.0.0-preview5",
+                        "url": "https://github.com/files-community/Files/pull/3719",
+                        "state": "CLOSED",
+                        "number": 3719,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix navigating back to home",
+                        "url": "https://github.com/files-community/Files/pull/3729",
+                        "state": "MERGED",
+                        "number": 3729,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix some issues with keyboard shortcuts",
+                        "url": "https://github.com/files-community/Files/pull/3732",
+                        "state": "MERGED",
+                        "number": 3732,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Chris2011"
+                                        },
+                                        "title": "ALT + Enter opens Properties window and selects next file/folder",
+                                        "url": "https://github.com/files-community/Files/issues/2463",
+                                        "state": "CLOSED",
+                                        "number": 2463,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Add In-Page HorizontalTabView with first iteration of new design",
+                        "url": "https://github.com/files-community/Files/pull/3733",
+                        "state": "MERGED",
+                        "number": 3733,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump NLog.Schema from 4.7.7 to 4.7.8",
+                        "url": "https://github.com/files-community/Files/pull/3735",
+                        "state": "MERGED",
+                        "number": 3735,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump NLog from 4.7.7 to 4.7.8",
+                        "url": "https://github.com/files-community/Files/pull/3736",
+                        "state": "MERGED",
+                        "number": 3736,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Move TabStrib to PaneHolderPage and decouple Sidebar from IShellPage",
+                        "url": "https://github.com/files-community/Files/pull/3737",
+                        "state": "MERGED",
+                        "number": 3737,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "winston-de"
+                                        },
+                                        "title": "[Enhancement] Improve performance for opening, closing, and switching tabs",
+                                        "url": "https://github.com/files-community/Files/issues/3805",
+                                        "state": "CLOSED",
+                                        "number": 3805,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "NavBar updates step 2",
+                        "url": "https://github.com/files-community/Files/pull/3743",
+                        "state": "MERGED",
+                        "number": 3743,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nvi9"
+                        },
+                        "title": "Enable on startup pages reordering with drag",
+                        "url": "https://github.com/files-community/Files/pull/3744",
+                        "state": "MERGED",
+                        "number": 3744,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ldsands"
+                                        },
+                                        "title": "Rearrange \"Open a specific page or pages\"",
+                                        "url": "https://github.com/files-community/Files/issues/2383",
+                                        "state": "CLOSED",
+                                        "number": 2383,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Show icons for url files",
+                        "url": "https://github.com/files-community/Files/pull/3746",
+                        "state": "MERGED",
+                        "number": 3746,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "nullptr-deref"
+                                        },
+                                        "title": "Gaming services' links aren't rendered properly",
+                                        "url": "https://github.com/files-community/Files/issues/3695",
+                                        "state": "CLOSED",
+                                        "number": 3695,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Style tweaks to nav bar",
+                        "url": "https://github.com/files-community/Files/pull/3748",
+                        "state": "MERGED",
+                        "number": 3748,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix crash when changing folder after going to settings",
+                        "url": "https://github.com/files-community/Files/pull/3751",
+                        "state": "MERGED",
+                        "number": 3751,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cotur"
+                        },
+                        "title": "Update Turkish Localization",
+                        "url": "https://github.com/files-community/Files/pull/3752",
+                        "state": "MERGED",
+                        "number": 3752,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cotur"
+                                        },
+                                        "title": "Update Turkish Translation of \"Drivers\"",
+                                        "url": "https://github.com/files-community/Files/pull/3137",
+                                        "state": "CLOSED",
+                                        "number": 3137,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "R3voA3"
+                        },
+                        "title": "Update Files.de-DE.xlf",
+                        "url": "https://github.com/files-community/Files/pull/3758",
+                        "state": "MERGED",
+                        "number": 3758,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Update translation: UA, RU",
+                        "url": "https://github.com/files-community/Files/pull/3759",
+                        "state": "MERGED",
+                        "number": 3759,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix thumbnails sometimes not loaded",
+                        "url": "https://github.com/files-community/Files/pull/3760",
+                        "state": "MERGED",
+                        "number": 3760,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "CRH380AM0204"
+                                        },
+                                        "title": "File thumbnails are not loaded",
+                                        "url": "https://github.com/files-community/Files/issues/3757",
+                                        "state": "CLOSED",
+                                        "number": 3757,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "oleitao"
+                        },
+                        "title": "Added library section to the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/3761",
+                        "state": "MERGED",
+                        "number": 3761,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "nvi9"
+                                        },
+                                        "title": "Favorites and Libraries section headers are selectable",
+                                        "url": "https://github.com/files-community/Files/issues/3885",
+                                        "state": "CLOSED",
+                                        "number": 3885,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "LuanRoger"
+                        },
+                        "title": "Update translation: PT-BR",
+                        "url": "https://github.com/files-community/Files/pull/3763",
+                        "state": "MERGED",
+                        "number": 3763,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "TyJOrtiz"
+                        },
+                        "title": "updating my fork",
+                        "url": "https://github.com/files-community/Files/pull/3764",
+                        "state": "CLOSED",
+                        "number": 3764,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "PMExtra"
+                        },
+                        "title": "Focus text input when dialog opened.",
+                        "url": "https://github.com/files-community/Files/pull/3765",
+                        "state": "MERGED",
+                        "number": 3765,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Moved search box to address bar",
+                        "url": "https://github.com/files-community/Files/pull/3766",
+                        "state": "MERGED",
+                        "number": 3766,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Fix preview pane content alignment",
+                        "url": "https://github.com/files-community/Files/pull/3768",
+                        "state": "MERGED",
+                        "number": 3768,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "TyJOrtiz"
+                        },
+                        "title": "Merging my fork (Column View) with current master (files-community)",
+                        "url": "https://github.com/files-community/Files/pull/3769",
+                        "state": "CLOSED",
+                        "number": 3769,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix Ctrl+N opening two windows",
+                        "url": "https://github.com/files-community/Files/pull/3770",
+                        "state": "MERGED",
+                        "number": 3770,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": null,
+                                        "title": "Ctrl + N Shortcut misbehaviour",
+                                        "url": "https://github.com/files-community/Files/issues/3767",
+                                        "state": "CLOSED",
+                                        "number": 3767,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Keep last pathbox item visible and add padding",
+                        "url": "https://github.com/files-community/Files/pull/3771",
+                        "state": "MERGED",
+                        "number": 3771,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Added folder previews to the preview pane",
+                        "url": "https://github.com/files-community/Files/pull/3773",
+                        "state": "MERGED",
+                        "number": 3773,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "KristofKekesi"
+                                        },
+                                        "title": "Preview pane for folders",
+                                        "url": "https://github.com/files-community/Files/issues/3400",
+                                        "state": "CLOSED",
+                                        "number": 3400,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "R3voA3"
+                                        },
+                                        "title": "Item Count property is not translated in the preview pane",
+                                        "url": "https://github.com/files-community/Files/issues/3963",
+                                        "state": "CLOSED",
+                                        "number": 3963,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "rdbende"
+                        },
+                        "title": "Update translation: hu-HU",
+                        "url": "https://github.com/files-community/Files/pull/3774",
+                        "state": "MERGED",
+                        "number": 3774,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Fixed bug where details wouldn't be loaded from extensions in the preview pane",
+                        "url": "https://github.com/files-community/Files/pull/3775",
+                        "state": "MERGED",
+                        "number": 3775,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "PMExtra"
+                        },
+                        "title": "Fixed an issue where the date would sometimes display the wrong time zone",
+                        "url": "https://github.com/files-community/Files/pull/3776",
+                        "state": "MERGED",
+                        "number": 3776,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Ein-Tim"
+                                        },
+                                        "title": "Date (resp. time) of modification is (still) wrong",
+                                        "url": "https://github.com/files-community/Files/issues/2917",
+                                        "state": "CLOSED",
+                                        "number": 2917,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KristofKekesi"
+                        },
+                        "title": "\ud83d\udcd3 Updated HUN",
+                        "url": "https://github.com/files-community/Files/pull/3777",
+                        "state": "MERGED",
+                        "number": 3777,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "UI Tweaks",
+                        "url": "https://github.com/files-community/Files/pull/3778",
+                        "state": "MERGED",
+                        "number": 3778,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Changed selected tab color to make it easier to see",
+                        "url": "https://github.com/files-community/Files/pull/3779",
+                        "state": "MERGED",
+                        "number": 3779,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "UI Tweaks",
+                        "url": "https://github.com/files-community/Files/pull/3781",
+                        "state": "MERGED",
+                        "number": 3781,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added a WSL section to the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/3782",
+                        "state": "MERGED",
+                        "number": 3782,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "mattwojo"
+                                        },
+                                        "title": "Incorporate the Windows Subsystem for Linux",
+                                        "url": "https://github.com/files-community/Files/issues/295",
+                                        "state": "CLOSED",
+                                        "number": 295,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.3.4 to 3.3.5",
+                        "url": "https://github.com/files-community/Files/pull/3783",
+                        "state": "MERGED",
+                        "number": 3783,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Bump Vanara.PInvoke.Mpr from 3.3.4 to 3.3.5",
+                        "url": "https://github.com/files-community/Files/pull/3784",
+                        "state": "MERGED",
+                        "number": 3784,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Update Japanese Translation to more clear one",
+                        "url": "https://github.com/files-community/Files/pull/3786",
+                        "state": "MERGED",
+                        "number": 3786,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated strings",
+                        "url": "https://github.com/files-community/Files/pull/3789",
+                        "state": "MERGED",
+                        "number": 3789,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated brushes in the settings pages",
+                        "url": "https://github.com/files-community/Files/pull/3793",
+                        "state": "MERGED",
+                        "number": 3793,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Fix drag region and horizontal control margin",
+                        "url": "https://github.com/files-community/Files/pull/3795",
+                        "state": "MERGED",
+                        "number": 3795,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed tab margin",
+                        "url": "https://github.com/files-community/Files/pull/3797",
+                        "state": "MERGED",
+                        "number": 3797,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "prakharb5"
+                                        },
+                                        "title": "The Title Bar is messed up",
+                                        "url": "https://github.com/files-community/Files/issues/1936",
+                                        "state": "CLOSED",
+                                        "number": 1936,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "SOI7"
+                                        },
+                                        "title": "Gap between title bar and address bar doubles when tabs are enabled",
+                                        "url": "https://github.com/files-community/Files/issues/3303",
+                                        "state": "CLOSED",
+                                        "number": 3303,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed some bugs with the mutlitasking settings",
+                        "url": "https://github.com/files-community/Files/pull/3798",
+                        "state": "MERGED",
+                        "number": 3798,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "prakharb5"
+                                        },
+                                        "title": "Bug when trying to change Multitasking settings",
+                                        "url": "https://github.com/files-community/Files/issues/3802",
+                                        "state": "CLOSED",
+                                        "number": 3802,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed tab background color in dark mode",
+                        "url": "https://github.com/files-community/Files/pull/3799",
+                        "state": "MERGED",
+                        "number": 3799,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Inverted shadow on the status bar",
+                        "url": "https://github.com/files-community/Files/pull/3800",
+                        "state": "MERGED",
+                        "number": 3800,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Made some style tweaks to the widgets",
+                        "url": "https://github.com/files-community/Files/pull/3804",
+                        "state": "MERGED",
+                        "number": 3804,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Reduced font size of the chevron on the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/3806",
+                        "state": "MERGED",
+                        "number": 3806,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed the font weight on unselected tabs",
+                        "url": "https://github.com/files-community/Files/pull/3807",
+                        "state": "MERGED",
+                        "number": 3807,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Drives widget tweak",
+                        "url": "https://github.com/files-community/Files/pull/3810",
+                        "state": "CLOSED",
+                        "number": 3810,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nvi9"
+                        },
+                        "title": "Update Hungarian translation",
+                        "url": "https://github.com/files-community/Files/pull/3819",
+                        "state": "MERGED",
+                        "number": 3819,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Ein-Tim"
+                        },
+                        "title": "Correct wrong translation for QuickLook in German (Closes #3839)",
+                        "url": "https://github.com/files-community/Files/pull/3843",
+                        "state": "MERGED",
+                        "number": 3843,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Ein-Tim"
+                                        },
+                                        "title": "Wrong German translation of QuickLook in the context menu ",
+                                        "url": "https://github.com/files-community/Files/issues/3839",
+                                        "state": "CLOSED",
+                                        "number": 3839,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixes for 1.3.5",
+                        "url": "https://github.com/files-community/Files/pull/3849",
+                        "state": "MERGED",
+                        "number": 3849,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "prakharb5"
+                                        },
+                                        "title": "Bug when trying to change Multitasking settings",
+                                        "url": "https://github.com/files-community/Files/issues/3802",
+                                        "state": "CLOSED",
+                                        "number": 3802,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Change windowing/tab behavior when launching Files though different methods",
+                        "url": "https://github.com/files-community/Files/pull/3854",
+                        "state": "MERGED",
+                        "number": 3854,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Update Japanese Translation",
+                        "url": "https://github.com/files-community/Files/pull/3857",
+                        "state": "MERGED",
+                        "number": 3857,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "prithdsouza777"
+                        },
+                        "title": "New UI ?",
+                        "url": "https://github.com/files-community/Files/pull/3860",
+                        "state": "CLOSED",
+                        "number": 3860,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Remove ContentFrame member from IShellPage",
+                        "url": "https://github.com/files-community/Files/pull/3861",
+                        "state": "MERGED",
+                        "number": 3861,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Improvements to codebase",
+                                        "url": "https://github.com/files-community/Files/pull/3902",
+                                        "state": "CLOSED",
+                                        "number": 3902,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Tweak acrylic, brushes, and test new home page button style",
+                        "url": "https://github.com/files-community/Files/pull/3862",
+                        "state": "MERGED",
+                        "number": 3862,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed drop shadow on sidebar",
+                        "url": "https://github.com/files-community/Files/pull/3863",
+                        "state": "MERGED",
+                        "number": 3863,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "asuetin"
+                                        },
+                                        "title": "Make drop shadow between the sidebar and the main content area more prominent",
+                                        "url": "https://github.com/files-community/Files/issues/3850",
+                                        "state": "CLOSED",
+                                        "number": 3850,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Changes to In-App Iconography",
+                        "url": "https://github.com/files-community/Files/pull/3864",
+                        "state": "MERGED",
+                        "number": 3864,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Vanillabacke"
+                                        },
+                                        "title": "rendering of typography and icons blurry",
+                                        "url": "https://github.com/files-community/Files/issues/3143",
+                                        "state": "CLOSED",
+                                        "number": 3143,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "slavoyar8601"
+                                        },
+                                        "title": "Fluent icons are blurry",
+                                        "url": "https://github.com/files-community/Files/issues/3539",
+                                        "state": "CLOSED",
+                                        "number": 3539,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Richard-HM"
+                                        },
+                                        "title": "Icon changes - 2",
+                                        "url": "https://github.com/files-community/Files/pull/3893",
+                                        "state": "MERGED",
+                                        "number": 3893,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pklion"
+                        },
+                        "title": "Remove unused assets",
+                        "url": "https://github.com/files-community/Files/pull/3867",
+                        "state": "MERGED",
+                        "number": 3867,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Removed background from status bar control",
+                        "url": "https://github.com/files-community/Files/pull/3871",
+                        "state": "MERGED",
+                        "number": 3871,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "asuetin"
+                                        },
+                                        "title": "Enhancement: Remove background color on the status bar",
+                                        "url": "https://github.com/files-community/Files/issues/3851",
+                                        "state": "CLOSED",
+                                        "number": 3851,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Update some icons",
+                        "url": "https://github.com/files-community/Files/pull/3872",
+                        "state": "MERGED",
+                        "number": 3872,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation update [es-ES]",
+                        "url": "https://github.com/files-community/Files/pull/3873",
+                        "state": "MERGED",
+                        "number": 3873,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Added ability to launch Files with relative paths from command line",
+                        "url": "https://github.com/files-community/Files/pull/3877",
+                        "state": "MERGED",
+                        "number": 3877,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "neolooong"
+                                        },
+                                        "title": "Add Support for Relative Paths to Command Line Arguments",
+                                        "url": "https://github.com/files-community/Files/issues/1751",
+                                        "state": "CLOSED",
+                                        "number": 1751,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Library items now display in the correct language",
+                        "url": "https://github.com/files-community/Files/pull/3881",
+                        "state": "MERGED",
+                        "number": 3881,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "nvi9"
+                                        },
+                                        "title": "Favorites and Libraries section headers are selectable",
+                                        "url": "https://github.com/files-community/Files/issues/3885",
+                                        "state": "CLOSED",
+                                        "number": 3885,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Hide unpin from libraries",
+                                        "url": "https://github.com/files-community/Files/pull/3943",
+                                        "state": "MERGED",
+                                        "number": 3943,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Remove StatusBarControl member from IShellPage",
+                        "url": "https://github.com/files-community/Files/pull/3888",
+                        "state": "MERGED",
+                        "number": 3888,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Added support for custom themes",
+                        "url": "https://github.com/files-community/Files/pull/3890",
+                        "state": "MERGED",
+                        "number": 3890,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ItsOalo"
+                                        },
+                                        "title": "Feature Request: Custom Themes",
+                                        "url": "https://github.com/files-community/Files/issues/3809",
+                                        "state": "CLOSED",
+                                        "number": 3809,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "oleitao"
+                        },
+                        "title": "Automatically update the library section after toggling the setting",
+                        "url": "https://github.com/files-community/Files/pull/3892",
+                        "state": "MERGED",
+                        "number": 3892,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Icon changes - 2",
+                        "url": "https://github.com/files-community/Files/pull/3893",
+                        "state": "MERGED",
+                        "number": 3893,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Design Tweaks to Bundles",
+                        "url": "https://github.com/files-community/Files/pull/3894",
+                        "state": "MERGED",
+                        "number": 3894,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nvi9"
+                        },
+                        "title": "Added support for collapsing the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/3895",
+                        "state": "MERGED",
+                        "number": 3895,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Removed font family file",
+                        "url": "https://github.com/files-community/Files/pull/3896",
+                        "state": "MERGED",
+                        "number": 3896,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Cleaned up code",
+                        "url": "https://github.com/files-community/Files/pull/3897",
+                        "state": "MERGED",
+                        "number": 3897,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Added the option to drag items between bundles",
+                        "url": "https://github.com/files-community/Files/pull/3901",
+                        "state": "MERGED",
+                        "number": 3901,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Design Tweaks to Bundles",
+                                        "url": "https://github.com/files-community/Files/pull/3894",
+                                        "state": "MERGED",
+                                        "number": 3894,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Improvements to codebase",
+                        "url": "https://github.com/files-community/Files/pull/3902",
+                        "state": "CLOSED",
+                        "number": 3902,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Restore saving pinned folders",
+                        "url": "https://github.com/files-community/Files/pull/3910",
+                        "state": "MERGED",
+                        "number": 3910,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated bundles widget design",
+                        "url": "https://github.com/files-community/Files/pull/3911",
+                        "state": "MERGED",
+                        "number": 3911,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Use WinUI shadow border with selected TabViewItems",
+                        "url": "https://github.com/files-community/Files/pull/3913",
+                        "state": "MERGED",
+                        "number": 3913,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "winston-de"
+                        },
+                        "title": "Make preview pane persistent",
+                        "url": "https://github.com/files-community/Files/pull/3914",
+                        "state": "MERGED",
+                        "number": 3914,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "benschlegel"
+                                        },
+                                        "title": "Remember preview pane state when restarting Files",
+                                        "url": "https://github.com/files-community/Files/issues/3391",
+                                        "state": "CLOSED",
+                                        "number": 3391,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,1810 @@
+{
+    "data": {
+        "repository": {
+            "issues": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpIDzkO2AGs="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "ELowry"
+                        },
+                        "title": "Feature: Open folder in new tab with ctrl + enter",
+                        "url": "https://github.com/files-community/Files/issues/9499",
+                        "state": "CLOSED",
+                        "number": 9499,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tariibaba"
+                                        },
+                                        "title": "Add ability to open folder in new tab with Ctrl + double-click and Ctrl + Enter",
+                                        "url": "https://github.com/files-community/Files/issues/9719",
+                                        "state": "CLOSED",
+                                        "number": 9719,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "QuaintMako"
+                                        },
+                                        "title": "Feature: Open selected folders in new tab using Ctrl+Enter",
+                                        "url": "https://github.com/files-community/Files/pull/10306",
+                                        "state": "MERGED",
+                                        "number": 10306,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "peteraritchie"
+                        },
+                        "title": "Merge Files.Uwp\\Helpers\\NativeIoDeviceControlHelper.cs and Files.Uwp\\Helpers\\NativeFileOperationsHelper.cs",
+                        "url": "https://github.com/files-community/Files/issues/9479",
+                        "state": "CLOSED",
+                        "number": 9479,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Ikaberry202"
+                                        },
+                                        "title": "@cinqmilleans can you try to keep everyone better informed about what you're working on so that we can prevent duplicate work?",
+                                        "url": "https://github.com/files-community/Files/issues/9483",
+                                        "state": "CLOSED",
+                                        "number": 9483,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Refactor storage native",
+                                        "url": "https://github.com/files-community/Files/pull/9484",
+                                        "state": "CLOSED",
+                                        "number": 9484,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Smart toolbar prediction",
+                        "url": "https://github.com/files-community/Files/issues/9465",
+                        "state": "CLOSED",
+                        "number": 9465,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AkazaRenn"
+                        },
+                        "title": "Starting with Library on First Tab Crashes the App",
+                        "url": "https://github.com/files-community/Files/issues/9459",
+                        "state": "CLOSED",
+                        "number": 9459,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Padpoy"
+                        },
+                        "title": "listary compatibility",
+                        "url": "https://github.com/files-community/Files/issues/9455",
+                        "state": "CLOSED",
+                        "number": 9455,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "BlackburnUTG"
+                        },
+                        "title": "Files didn't works as default file explorer. Standart windows exploer - always launches",
+                        "url": "https://github.com/files-community/Files/issues/9448",
+                        "state": "CLOSED",
+                        "number": 9448,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Bug: Icons for libraries aren't displayed when opening the libraries folder",
+                        "url": "https://github.com/files-community/Files/issues/9446",
+                        "state": "CLOSED",
+                        "number": 9446,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed issue where icons and names of library items were not displayed",
+                                        "url": "https://github.com/files-community/Files/pull/12480",
+                                        "state": "MERGED",
+                                        "number": 12480,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "carlosvsilva"
+                        },
+                        "title": "Bug: Deleting file in grouped folder moves selection to random item",
+                        "url": "https://github.com/files-community/Files/issues/9429",
+                        "state": "CLOSED",
+                        "number": 9429,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Jan-Fuellhase"
+                                        },
+                                        "title": "The wrong next file is selected after deleting a file if folder is grouped",
+                                        "url": "https://github.com/files-community/Files/issues/9624",
+                                        "state": "CLOSED",
+                                        "number": 9624,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "benji78"
+                                        },
+                                        "title": "Select next file in folder's sort order after move or delete",
+                                        "url": "https://github.com/files-community/Files/issues/11108",
+                                        "state": "CLOSED",
+                                        "number": 11108,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "fbtwitter"
+                                        },
+                                        "title": "Select position after deleting file can't remain on the current scroll position",
+                                        "url": "https://github.com/files-community/Files/issues/11307",
+                                        "state": "CLOSED",
+                                        "number": 11307,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: No items selected after deletion",
+                                        "url": "https://github.com/files-community/Files/pull/11908",
+                                        "state": "MERGED",
+                                        "number": 11908,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tcantuarias"
+                        },
+                        "title": "App crashed while creating a new tab",
+                        "url": "https://github.com/files-community/Files/issues/9424",
+                        "state": "CLOSED",
+                        "number": 9424,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "SuperXae"
+                        },
+                        "title": "Audio file program association.",
+                        "url": "https://github.com/files-community/Files/issues/9396",
+                        "state": "CLOSED",
+                        "number": 9396,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ciachciarachciach666"
+                        },
+                        "title": "Drag and drop into app window doesn't work.",
+                        "url": "https://github.com/files-community/Files/issues/9389",
+                        "state": "CLOSED",
+                        "number": 9389,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "macfeng111"
+                        },
+                        "title": "拷贝文件出现严重问题",
+                        "url": "https://github.com/files-community/Files/issues/9358",
+                        "state": "CLOSED",
+                        "number": 9358,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KeremArdicli"
+                        },
+                        "title": "Android Device connection for data transfer is buggy",
+                        "url": "https://github.com/files-community/Files/issues/9357",
+                        "state": "CLOSED",
+                        "number": 9357,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KSonPham"
+                        },
+                        "title": "Lost transparency when out of focus",
+                        "url": "https://github.com/files-community/Files/issues/9352",
+                        "state": "CLOSED",
+                        "number": 9352,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "quantumwebco"
+                        },
+                        "title": "Recent files on home shows 2 random files",
+                        "url": "https://github.com/files-community/Files/issues/9322",
+                        "state": "CLOSED",
+                        "number": 9322,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "quantumwebco"
+                        },
+                        "title": "Service Host: State Repository Service",
+                        "url": "https://github.com/files-community/Files/issues/9321",
+                        "state": "CLOSED",
+                        "number": 9321,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "iron2000"
+                        },
+                        "title": "Wrong folder title shown in Recents of jumplist",
+                        "url": "https://github.com/files-community/Files/issues/9316",
+                        "state": "CLOSED",
+                        "number": 9316,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix string resources for jump list",
+                                        "url": "https://github.com/files-community/Files/pull/9326",
+                                        "state": "MERGED",
+                                        "number": 9326,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AlbertM94"
+                        },
+                        "title": "New Folder window not registering Chinese input",
+                        "url": "https://github.com/files-community/Files/issues/9301",
+                        "state": "CLOSED",
+                        "number": 9301,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "TianLuoQin"
+                                        },
+                                        "title": "无法创建文件夹",
+                                        "url": "https://github.com/files-community/Files/issues/9367",
+                                        "state": "CLOSED",
+                                        "number": 9367,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Input validation doesn't work with IME",
+                                        "url": "https://github.com/files-community/Files/issues/9447",
+                                        "state": "CLOSED",
+                                        "number": 9447,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "chongchong2501"
+                                        },
+                                        "title": "无法新建文件夹",
+                                        "url": "https://github.com/files-community/Files/issues/10009",
+                                        "state": "CLOSED",
+                                        "number": 10009,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Arco-san"
+                        },
+                        "title": "Application crushes during copying files",
+                        "url": "https://github.com/files-community/Files/issues/9286",
+                        "state": "CLOSED",
+                        "number": 9286,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "verdaderoken"
+                        },
+                        "title": "Show properties window near mouse cursor position",
+                        "url": "https://github.com/files-community/Files/issues/9285",
+                        "state": "CLOSED",
+                        "number": 9285,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "IgorKordiukiewicz"
+                                        },
+                                        "title": "Properties window is now shown near mouse cursor position",
+                                        "url": "https://github.com/files-community/Files/pull/9391",
+                                        "state": "MERGED",
+                                        "number": 9391,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "MathiasMagnus"
+                        },
+                        "title": "Improve copy performance on large number of small files",
+                        "url": "https://github.com/files-community/Files/issues/9284",
+                        "state": "CLOSED",
+                        "number": 9284,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Menu Add to Favorites",
+                        "url": "https://github.com/files-community/Files/issues/9278",
+                        "state": "CLOSED",
+                        "number": 9278,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AisinGioroKiIoi"
+                        },
+                        "title": "测试版文件夹删除问题反馈",
+                        "url": "https://github.com/files-community/Files/issues/9269",
+                        "state": "CLOSED",
+                        "number": 9269,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AisinGioroKiIoi"
+                        },
+                        "title": "文件粘贴问题反馈",
+                        "url": "https://github.com/files-community/Files/issues/9258",
+                        "state": "CLOSED",
+                        "number": 9258,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "quantumwebco"
+                        },
+                        "title": "Bug: File watcher doesn't work for WSL",
+                        "url": "https://github.com/files-community/Files/issues/9250",
+                        "state": "OPEN",
+                        "number": 9250,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "giovannicandido"
+                                        },
+                                        "title": "Rename a file doesn't refresh the lis",
+                                        "url": "https://github.com/files-community/Files/issues/9979",
+                                        "state": "CLOSED",
+                                        "number": 9979,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "warpdesign"
+                                        },
+                                        "title": "[WSL] Auto refresh of directory",
+                                        "url": "https://github.com/files-community/Files/issues/10170",
+                                        "state": "CLOSED",
+                                        "number": 10170,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "SpyassL"
+                                        },
+                                        "title": "A file in a folder does not appear once created",
+                                        "url": "https://github.com/files-community/Files/issues/10404",
+                                        "state": "CLOSED",
+                                        "number": 10404,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "Theme customization",
+                        "url": "https://github.com/files-community/Files/issues/9203",
+                        "state": "CLOSED",
+                        "number": 9203,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Add support for pinning recycle bin to favorites",
+                        "url": "https://github.com/files-community/Files/issues/9191",
+                        "state": "CLOSED",
+                        "number": 9191,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "[Post v2.3] Improves pinned RecycleBin",
+                                        "url": "https://github.com/files-community/Files/pull/9207",
+                                        "state": "MERGED",
+                                        "number": 9207,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Opening a program with the path bar doesnt work anymore",
+                        "url": "https://github.com/files-community/Files/issues/9178",
+                        "state": "CLOSED",
+                        "number": 9178,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Move the home item out of the favorites section",
+                        "url": "https://github.com/files-community/Files/issues/9147",
+                        "state": "CLOSED",
+                        "number": 9147,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Move the home button to the address bar",
+                                        "url": "https://github.com/files-community/Files/pull/9166",
+                                        "state": "CLOSED",
+                                        "number": 9166,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "demperor-music"
+                        },
+                        "title": "Explorer.exe crashes when opening Files offline.",
+                        "url": "https://github.com/files-community/Files/issues/9140",
+                        "state": "CLOSED",
+                        "number": 9140,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Arno989"
+                        },
+                        "title": "unconsequential error after copying large file to usb",
+                        "url": "https://github.com/files-community/Files/issues/9125",
+                        "state": "CLOSED",
+                        "number": 9125,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "CrypticVader"
+                        },
+                        "title": "Trying to delete folder while child directory is open in column view prompts for admin rights and still fails",
+                        "url": "https://github.com/files-community/Files/issues/9122",
+                        "state": "CLOSED",
+                        "number": 9122,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yboumaiza7"
+                        },
+                        "title": "Feature: Display modal when shortcut icon cannot be changed",
+                        "url": "https://github.com/files-community/Files/issues/9096",
+                        "state": "CLOSED",
+                        "number": 9096,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Show contents of zip files in preview pane.",
+                        "url": "https://github.com/files-community/Files/issues/9094",
+                        "state": "CLOSED",
+                        "number": 9094,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "z01ks"
+                        },
+                        "title": "Preview pane issues",
+                        "url": "https://github.com/files-community/Files/issues/9093",
+                        "state": "CLOSED",
+                        "number": 9093,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Add MaxWidth to PreviewPane",
+                                        "url": "https://github.com/files-community/Files/pull/9119",
+                                        "state": "CLOSED",
+                                        "number": 9119,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Fix preview size",
+                                        "url": "https://github.com/files-community/Files/pull/9126",
+                                        "state": "MERGED",
+                                        "number": 9126,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cinqmilleans"
+                        },
+                        "title": "Use quick access/primary commands in context menu for folder empty space",
+                        "url": "https://github.com/files-community/Files/issues/9088",
+                        "state": "CLOSED",
+                        "number": 9088,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cinqmilleans"
+                                        },
+                                        "title": "Add missing quick access",
+                                        "url": "https://github.com/files-community/Files/pull/9121",
+                                        "state": "MERGED",
+                                        "number": 9121,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Corrupted123"
+                        },
+                        "title": "Cant open any folders in desktop after reinstalling Files preview app",
+                        "url": "https://github.com/files-community/Files/issues/9073",
+                        "state": "CLOSED",
+                        "number": 9073,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Switch between items using arrow keys in the conflicts dialog",
+                        "url": "https://github.com/files-community/Files/issues/9057",
+                        "state": "CLOSED",
+                        "number": 9057,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ferrariofilippo"
+                                        },
+                                        "title": "Feature: Added support to switch between items using arrow keys in the conflicts dialog",
+                                        "url": "https://github.com/files-community/Files/pull/13357",
+                                        "state": "MERGED",
+                                        "number": 13357,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "khosravihamidreza"
+                        },
+                        "title": "ftp server crash",
+                        "url": "https://github.com/files-community/Files/issues/9055",
+                        "state": "CLOSED",
+                        "number": 9055,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AleMello"
+                        },
+                        "title": "Preview panel bug",
+                        "url": "https://github.com/files-community/Files/issues/9051",
+                        "state": "CLOSED",
+                        "number": 9051,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "RwSgxx"
+                        },
+                        "title": "Allow complete deactivation of telemetry or any other sending of data from the user device",
+                        "url": "https://github.com/files-community/Files/issues/8982",
+                        "state": "CLOSED",
+                        "number": 8982,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nizarmurk"
+                        },
+                        "title": "Add all Ignore Button for delete files is on use",
+                        "url": "https://github.com/files-community/Files/issues/8980",
+                        "state": "CLOSED",
+                        "number": 8980,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Feature: Allow dropping tabs anywhere on the title bar",
+                        "url": "https://github.com/files-community/Files/issues/8976",
+                        "state": "OPEN",
+                        "number": 8976,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Takanu"
+                                        },
+                                        "title": "Drag and dropping a tab without moving it from it's original position creates a new window instance",
+                                        "url": "https://github.com/files-community/Files/issues/5913",
+                                        "state": "CLOSED",
+                                        "number": 5913,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "i-dont-know-username"
+                                        },
+                                        "title": "Bug: Selection check box is shown behind tags",
+                                        "url": "https://github.com/files-community/Files/issues/11842",
+                                        "state": "CLOSED",
+                                        "number": 11842,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Jaadam11"
+                        },
+                        "title": "Your Favorites Bar is Awesome but....",
+                        "url": "https://github.com/files-community/Files/issues/8961",
+                        "state": "CLOSED",
+                        "number": 8961,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Kagura-Nanaa"
+                        },
+                        "title": "pin to the start menu",
+                        "url": "https://github.com/files-community/Files/issues/8954",
+                        "state": "CLOSED",
+                        "number": 8954,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pxhg"
+                        },
+                        "title": "设置flies为默认文件资源管理器后无法改回原设置",
+                        "url": "https://github.com/files-community/Files/issues/8953",
+                        "state": "CLOSED",
+                        "number": 8953,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Styralix"
+                        },
+                        "title": "Default app",
+                        "url": "https://github.com/files-community/Files/issues/8933",
+                        "state": "CLOSED",
+                        "number": 8933,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "File in use dialog should show the file name and extention",
+                        "url": "https://github.com/files-community/Files/issues/8922",
+                        "state": "CLOSED",
+                        "number": 8922,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "\"File in use\" dialog improvements",
+                                        "url": "https://github.com/files-community/Files/pull/8925",
+                                        "state": "MERGED",
+                                        "number": 8925,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Show what files is in use and the location on popup",
+                                        "url": "https://github.com/files-community/Files/issues/5628",
+                                        "state": "CLOSED",
+                                        "number": 5628,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nwkyz"
+                        },
+                        "title": "\"Pin to Start Menu\" needed.",
+                        "url": "https://github.com/files-community/Files/issues/8910",
+                        "state": "CLOSED",
+                        "number": 8910,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "CodeCubeNeo"
+                        },
+                        "title": "App fails to install on Atlas OS",
+                        "url": "https://github.com/files-community/Files/issues/8892",
+                        "state": "CLOSED",
+                        "number": 8892,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cmactavish"
+                        },
+                        "title": "Make Default File Manager",
+                        "url": "https://github.com/files-community/Files/issues/8880",
+                        "state": "CLOSED",
+                        "number": 8880,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "austincummings"
+                        },
+                        "title": "Crash when loading SMB share from link in \"Favorites\"",
+                        "url": "https://github.com/files-community/Files/issues/8877",
+                        "state": "CLOSED",
+                        "number": 8877,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "vittring"
+                        },
+                        "title": "Windows Defender detecting as virus",
+                        "url": "https://github.com/files-community/Files/issues/8866",
+                        "state": "CLOSED",
+                        "number": 8866,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ialhabbal"
+                        },
+                        "title": "Directories and drives on left pane do not have tree expanding feature like Windows Explorer",
+                        "url": "https://github.com/files-community/Files/issues/8864",
+                        "state": "CLOSED",
+                        "number": 8864,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pullapint"
+                        },
+                        "title": "Partially hidden icon",
+                        "url": "https://github.com/files-community/Files/issues/8860",
+                        "state": "CLOSED",
+                        "number": 8860,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mswr"
+                        },
+                        "title": "Feature: Display download progress in OneDrive folders",
+                        "url": "https://github.com/files-community/Files/issues/8821",
+                        "state": "OPEN",
+                        "number": 8821,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Feature: Implement the fundamental for rich progress",
+                                        "url": "https://github.com/files-community/Files/pull/10814",
+                                        "state": "MERGED",
+                                        "number": 10814,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "svatitel"
+                                        },
+                                        "title": "Uploading files progress bar ",
+                                        "url": "https://github.com/files-community/Files/issues/14998",
+                                        "state": "CLOSED",
+                                        "number": 14998,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "NicolasKlaue"
+                        },
+                        "title": "The experimental feature allowing me to set Files as default file manager dissapeared",
+                        "url": "https://github.com/files-community/Files/issues/8786",
+                        "state": "CLOSED",
+                        "number": 8786,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Yandall"
+                        },
+                        "title": "Files hangs previewing files with .mkv extensions",
+                        "url": "https://github.com/files-community/Files/issues/8776",
+                        "state": "CLOSED",
+                        "number": 8776,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "batlantern18"
+                        },
+                        "title": "Files keeps closing while permanently deleting items",
+                        "url": "https://github.com/files-community/Files/issues/8763",
+                        "state": "CLOSED",
+                        "number": 8763,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "alessandrogian"
+                                        },
+                                        "title": "Files crashes when an image is edited using the Windows Editor",
+                                        "url": "https://github.com/files-community/Files/issues/8768",
+                                        "state": "CLOSED",
+                                        "number": 8768,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "john4641"
+                                        },
+                                        "title": "crashing",
+                                        "url": "https://github.com/files-community/Files/issues/8791",
+                                        "state": "CLOSED",
+                                        "number": 8791,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Frederic-Jacquet"
+                                        },
+                                        "title": "Files crash whens deleting multiple files",
+                                        "url": "https://github.com/files-community/Files/issues/9050",
+                                        "state": "CLOSED",
+                                        "number": 9050,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "taha2-4"
+                                        },
+                                        "title": "crash report",
+                                        "url": "https://github.com/files-community/Files/issues/9360",
+                                        "state": "CLOSED",
+                                        "number": 9360,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "baconapo"
+                                        },
+                                        "title": "Files crashed while permanently deleting many files",
+                                        "url": "https://github.com/files-community/Files/issues/9434",
+                                        "state": "CLOSED",
+                                        "number": 9434,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Magic-0"
+                                        },
+                                        "title": "Crashes during the delete process",
+                                        "url": "https://github.com/files-community/Files/issues/9664",
+                                        "state": "CLOSED",
+                                        "number": 9664,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "laravieira"
+                        },
+                        "title": "Keeps crashing!",
+                        "url": "https://github.com/files-community/Files/issues/8729",
+                        "state": "CLOSED",
+                        "number": 8729,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dgtvan"
+                        },
+                        "title": "Set a fix header for tabs",
+                        "url": "https://github.com/files-community/Files/issues/8726",
+                        "state": "CLOSED",
+                        "number": 8726,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Expand drag area on item coloums",
+                        "url": "https://github.com/files-community/Files/issues/8722",
+                        "state": "CLOSED",
+                        "number": 8722,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "itsWindows11"
+                                        },
+                                        "title": "Expand drag area spacing in details view columns",
+                                        "url": "https://github.com/files-community/Files/pull/8947",
+                                        "state": "MERGED",
+                                        "number": 8947,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ketonik"
+                                        },
+                                        "title": "Increase pixel zone around resize column dividers",
+                                        "url": "https://github.com/files-community/Files/issues/9354",
+                                        "state": "CLOSED",
+                                        "number": 9354,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Yoad1704"
+                        },
+                        "title": "Option to enable windows 10 Ribbon Interface in \"FIles\"",
+                        "url": "https://github.com/files-community/Files/issues/8708",
+                        "state": "CLOSED",
+                        "number": 8708,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "non-one"
+                        },
+                        "title": "Drag files from MobaXterm but not work",
+                        "url": "https://github.com/files-community/Files/issues/8692",
+                        "state": "CLOSED",
+                        "number": 8692,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pooyashahidi"
+                        },
+                        "title": "No properties dialog",
+                        "url": "https://github.com/files-community/Files/issues/8673",
+                        "state": "CLOSED",
+                        "number": 8673,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cdnnhicks"
+                        },
+                        "title": "Auto Refresh after copy/rename",
+                        "url": "https://github.com/files-community/Files/issues/8671",
+                        "state": "CLOSED",
+                        "number": 8671,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "SudaCat"
+                        },
+                        "title": "What's something happened on Chinese Language?",
+                        "url": "https://github.com/files-community/Files/issues/8662",
+                        "state": "CLOSED",
+                        "number": 8662,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": null,
+                        "title": "rotating image causes app to crash",
+                        "url": "https://github.com/files-community/Files/issues/8658",
+                        "state": "CLOSED",
+                        "number": 8658,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "devovercome"
+                                        },
+                                        "title": "Added a debounce for image rotation command.",
+                                        "url": "https://github.com/files-community/Files/pull/8682",
+                                        "state": "MERGED",
+                                        "number": 8682,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "masta"
+                        },
+                        "title": "Show full folder context menu when right-clicking on empty folder area",
+                        "url": "https://github.com/files-community/Files/issues/8633",
+                        "state": "CLOSED",
+                        "number": 8633,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "danimesq"
+                                        },
+                                        "title": "Support to Windows Explorer extensions such as Tortoise Git",
+                                        "url": "https://github.com/files-community/Files/issues/5315",
+                                        "state": "CLOSED",
+                                        "number": 5315,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "melon-boy"
+                                        },
+                                        "title": "Add SVN integration (icons status and TortoiseSVN to contextual menu)",
+                                        "url": "https://github.com/files-community/Files/issues/3206",
+                                        "state": "CLOSED",
+                                        "number": 3206,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "SaajidAtVX7"
+                                        },
+                                        "title": "Feature: Add play button when multiple media files are selected",
+                                        "url": "https://github.com/files-community/Files/issues/8619",
+                                        "state": "CLOSED",
+                                        "number": 8619,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yodaluca23"
+                        },
+                        "title": "Opening \"shell:AppsFolder\" from Run has odd behavior...",
+                        "url": "https://github.com/files-community/Files/issues/8626",
+                        "state": "CLOSED",
+                        "number": 8626,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Use external launcher to set Files as default explorer",
+                                        "url": "https://github.com/files-community/Files/pull/8684",
+                                        "state": "MERGED",
+                                        "number": 8684,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Bargithub"
+                        },
+                        "title": "preview pane",
+                        "url": "https://github.com/files-community/Files/issues/8625",
+                        "state": "CLOSED",
+                        "number": 8625,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mistic100"
+                        },
+                        "title": "Missing filesize in status bar",
+                        "url": "https://github.com/files-community/Files/issues/8623",
+                        "state": "CLOSED",
+                        "number": 8623,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "angellucruz16"
+                                        },
+                                        "title": "File size in preview pane for images",
+                                        "url": "https://github.com/files-community/Files/issues/6743",
+                                        "state": "CLOSED",
+                                        "number": 6743,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "LeoMrttOnYouTube"
+                        },
+                        "title": "Default file manager",
+                        "url": "https://github.com/files-community/Files/issues/8595",
+                        "state": "CLOSED",
+                        "number": 8595,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mqliang"
+                        },
+                        "title": "Acknowledge tag info in .DS_Store file",
+                        "url": "https://github.com/files-community/Files/issues/8573",
+                        "state": "CLOSED",
+                        "number": 8573,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "deathgrape"
+                        },
+                        "title": "No \"in use\" notification when trying to move a file",
+                        "url": "https://github.com/files-community/Files/issues/8572",
+                        "state": "CLOSED",
+                        "number": 8572,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cleuton4k"
+                                        },
+                                        "title": "Inform user when files cannot be moved or excluded.",
+                                        "url": "https://github.com/files-community/Files/issues/6981",
+                                        "state": "CLOSED",
+                                        "number": 6981,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Show which process is locking a file",
+                                        "url": "https://github.com/files-community/Files/pull/8809",
+                                        "state": "MERGED",
+                                        "number": 8809,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "AlbertM94"
+                        },
+                        "title": "Keeps asking \"How do you want to open this app\" for certain apps",
+                        "url": "https://github.com/files-community/Files/issues/8564",
+                        "state": "CLOSED",
+                        "number": 8564,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "SuperXae"
+                                        },
+                                        "title": "Audio file program association.",
+                                        "url": "https://github.com/files-community/Files/issues/9396",
+                                        "state": "CLOSED",
+                                        "number": 9396,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "SdiaSuez"
+                        },
+                        "title": "Crash when pasting",
+                        "url": "https://github.com/files-community/Files/issues/8557",
+                        "state": "CLOSED",
+                        "number": 8557,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "idknameso69"
+                        },
+                        "title": "It's taking so long",
+                        "url": "https://github.com/files-community/Files/issues/8553",
+                        "state": "CLOSED",
+                        "number": 8553,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "therealandreww"
+                        },
+                        "title": "Open in Issue",
+                        "url": "https://github.com/files-community/Files/issues/8548",
+                        "state": "CLOSED",
+                        "number": 8548,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "xmha97"
+                        },
+                        "title": "Please add this GIF to README.md",
+                        "url": "https://github.com/files-community/Files/issues/8546",
+                        "state": "CLOSED",
+                        "number": 8546,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "rifsxd"
+                        },
+                        "title": "FTP Network",
+                        "url": "https://github.com/files-community/Files/issues/8538",
+                        "state": "CLOSED",
+                        "number": 8538,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "m-urashima"
+                        },
+                        "title": "context menu",
+                        "url": "https://github.com/files-community/Files/issues/8519",
+                        "state": "CLOSED",
+                        "number": 8519,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "jojorne"
+                        },
+                        "title": "Add the ability to drag tabs into other windows",
+                        "url": "https://github.com/files-community/Files/issues/8514",
+                        "state": "CLOSED",
+                        "number": 8514,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Noisemagician"
+                        },
+                        "title": "Themes are gone",
+                        "url": "https://github.com/files-community/Files/issues/8502",
+                        "state": "CLOSED",
+                        "number": 8502,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Dangomation"
+                        },
+                        "title": "Bugs that I've found",
+                        "url": "https://github.com/files-community/Files/issues/8500",
+                        "state": "CLOSED",
+                        "number": 8500,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "snarkDADMin"
+                        },
+                        "title": "Icons/Text skew when selecting/deselecting files and folders.",
+                        "url": "https://github.com/files-community/Files/issues/8497",
+                        "state": "CLOSED",
+                        "number": 8497,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "EvilCheez"
+                        },
+                        "title": "Eliminate Animations.",
+                        "url": "https://github.com/files-community/Files/issues/8491",
+                        "state": "CLOSED",
+                        "number": 8491,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "soredake"
+                        },
+                        "title": "cleartype rendering for fonts",
+                        "url": "https://github.com/files-community/Files/issues/8472",
+                        "state": "CLOSED",
+                        "number": 8472,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "mqliang"
+                        },
+                        "title": "GetInfo title font color is invisible with Grass Green Theme and Light Color and System Dark mode ",
+                        "url": "https://github.com/files-community/Files/issues/8470",
+                        "state": "CLOSED",
+                        "number": 8470,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "leorcdias"
+                        },
+                        "title": "QuickLook don't open when press space button",
+                        "url": "https://github.com/files-community/Files/issues/8463",
+                        "state": "CLOSED",
+                        "number": 8463,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "MichaelWendrell"
+                        },
+                        "title": "Need to improve the function of the Tab key",
+                        "url": "https://github.com/files-community/Files/issues/8446",
+                        "state": "CLOSED",
+                        "number": 8446,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "IBR-41379"
+                        },
+                        "title": "Files app crashing",
+                        "url": "https://github.com/files-community/Files/issues/8429",
+                        "state": "CLOSED",
+                        "number": 8429,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "shetozz"
+                                        },
+                                        "title": "save crashing",
+                                        "url": "https://github.com/files-community/Files/issues/8298",
+                                        "state": "CLOSED",
+                                        "number": 8298,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yeliabmit"
+                                        },
+                                        "title": "Tried running a program and it crashed",
+                                        "url": "https://github.com/files-community/Files/issues/9637",
+                                        "state": "CLOSED",
+                                        "number": 9637,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "BirnadinErick"
+                        },
+                        "title": "Full localization for Tamil locale",
+                        "url": "https://github.com/files-community/Files/issues/8410",
+                        "state": "CLOSED",
+                        "number": 8410,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Oricul"
+                        },
+                        "title": "Crash when accessing directory",
+                        "url": "https://github.com/files-community/Files/issues/8401",
+                        "state": "CLOSED",
+                        "number": 8401,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "koraxcz"
+                        },
+                        "title": "Creating, renaming or deleting a file or folder requires refresh",
+                        "url": "https://github.com/files-community/Files/issues/8391",
+                        "state": "CLOSED",
+                        "number": 8391,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ThisNekoGuy"
+                        },
+                        "title": "Files Auto-Scrolling Upwards and Resets Theme Selection to the Top-Right",
+                        "url": "https://github.com/files-community/Files/issues/8373",
+                        "state": "CLOSED",
+                        "number": 8373,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Maltbrew"
+                        },
+                        "title": "Problems when cycling through tabs ",
+                        "url": "https://github.com/files-community/Files/issues/8372",
+                        "state": "CLOSED",
+                        "number": 8372,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "osgfxman"
+                        },
+                        "title": "ordered by & group by BUG",
+                        "url": "https://github.com/files-community/Files/issues/8368",
+                        "state": "CLOSED",
+                        "number": 8368,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "TheChilliPL"
+                        },
+                        "title": "Files crashes when opening Downloads",
+                        "url": "https://github.com/files-community/Files/issues/8367",
+                        "state": "CLOSED",
+                        "number": 8367,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "miguelisidoro"
+                        },
+                        "title": "Copy and paste doesn't show progress",
+                        "url": "https://github.com/files-community/Files/issues/8337",
+                        "state": "CLOSED",
+                        "number": 8337,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

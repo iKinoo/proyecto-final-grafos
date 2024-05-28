@@ -1,0 +1,1670 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOGg43kg=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed a bug where enter key does not work to confirm delete action",
+                        "url": "https://github.com/files-community/Files/pull/878",
+                        "state": "MERGED",
+                        "number": 878,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "generalguy41"
+                                        },
+                                        "title": "Enter key does not work to confirm delete action",
+                                        "url": "https://github.com/files-community/Files/issues/877",
+                                        "state": "CLOSED",
+                                        "number": 877,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Properties dialog: Added strings and some changes",
+                        "url": "https://github.com/files-community/Files/pull/879",
+                        "state": "MERGED",
+                        "number": 879,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation update [Spanish]",
+                        "url": "https://github.com/files-community/Files/pull/883",
+                        "state": "MERGED",
+                        "number": 883,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Cleaned up code",
+                        "url": "https://github.com/files-community/Files/pull/886",
+                        "state": "MERGED",
+                        "number": 886,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Recyclebin bugfix",
+                        "url": "https://github.com/files-community/Files/pull/887",
+                        "state": "CLOSED",
+                        "number": 887,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation update + Strings added",
+                        "url": "https://github.com/files-community/Files/pull/888",
+                        "state": "MERGED",
+                        "number": 888,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Files UWP shows 1 days ago instead of 1 day ago",
+                                        "url": "https://github.com/files-community/Files/issues/885",
+                                        "state": "CLOSED",
+                                        "number": 885,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix multiple fulltrust process instances running",
+                        "url": "https://github.com/files-community/Files/pull/889",
+                        "state": "MERGED",
+                        "number": 889,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated Nuget packages",
+                        "url": "https://github.com/files-community/Files/pull/890",
+                        "state": "MERGED",
+                        "number": 890,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "v0.9.1",
+                        "url": "https://github.com/files-community/Files/pull/891",
+                        "state": "MERGED",
+                        "number": 891,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Remove Microsoft.Net.Compilers dependency",
+                        "url": "https://github.com/files-community/Files/pull/892",
+                        "state": "MERGED",
+                        "number": 892,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Updated Nuget packages",
+                                        "url": "https://github.com/files-community/Files/pull/890",
+                                        "state": "MERGED",
+                                        "number": 890,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Tweaked tab margins",
+                        "url": "https://github.com/files-community/Files/pull/894",
+                        "state": "MERGED",
+                        "number": 894,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "carmellolb"
+                                        },
+                                        "title": "Have tabs curve onto the title bar rather than going straight down (hard to explain, refer to pictures)",
+                                        "url": "https://github.com/files-community/Files/issues/508",
+                                        "state": "CLOSED",
+                                        "number": 508,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix renaming files with long names in GridViewBrowser",
+                        "url": "https://github.com/files-community/Files/pull/898",
+                        "state": "MERGED",
+                        "number": 898,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tsvietOK"
+                                        },
+                                        "title": "Fix creating a folder or file with restricted names or characters",
+                                        "url": "https://github.com/files-community/Files/pull/933",
+                                        "state": "MERGED",
+                                        "number": 933,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ADeltaX"
+                        },
+                        "title": "[WIP] Detect desktop/tablet mode changes",
+                        "url": "https://github.com/files-community/Files/pull/900",
+                        "state": "CLOSED",
+                        "number": 900,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "stamminator"
+                                        },
+                                        "title": "Provide tighter spacing options for visual elements",
+                                        "url": "https://github.com/files-community/Files/issues/1143",
+                                        "state": "CLOSED",
+                                        "number": 1143,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added option to open a specific page on startup",
+                        "url": "https://github.com/files-community/Files/pull/902",
+                        "state": "MERGED",
+                        "number": 902,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Auto-Detect and List Windows Terminal",
+                        "url": "https://github.com/files-community/Files/pull/903",
+                        "state": "MERGED",
+                        "number": 903,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Check \"permanently delete\" automatically by pressing shift + Del",
+                        "url": "https://github.com/files-community/Files/pull/904",
+                        "state": "MERGED",
+                        "number": 904,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix pasting to recycle bin - Issue 899",
+                        "url": "https://github.com/files-community/Files/pull/905",
+                        "state": "CLOSED",
+                        "number": 905,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix pasting to recycle bin - Issue 899",
+                        "url": "https://github.com/files-community/Files/pull/906",
+                        "state": "MERGED",
+                        "number": 906,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Translation Update (Tamil)",
+                        "url": "https://github.com/files-community/Files/pull/907",
+                        "state": "MERGED",
+                        "number": 907,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Resource update [ta]",
+                        "url": "https://github.com/files-community/Files/pull/908",
+                        "state": "MERGED",
+                        "number": 908,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Save defaultTerminalId in terminal.json instead of localSettings",
+                        "url": "https://github.com/files-community/Files/pull/909",
+                        "state": "MERGED",
+                        "number": 909,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Fix compatibility with old terminal.json file",
+                        "url": "https://github.com/files-community/Files/pull/910",
+                        "state": "MERGED",
+                        "number": 910,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Auto detect Fluent Terminal",
+                        "url": "https://github.com/files-community/Files/pull/911",
+                        "state": "CLOSED",
+                        "number": 911,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "AutoDetectFluentTerminal",
+                        "url": "https://github.com/files-community/Files/pull/912",
+                        "state": "CLOSED",
+                        "number": 912,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Updated drives tooltip + string added",
+                        "url": "https://github.com/files-community/Files/pull/913",
+                        "state": "MERGED",
+                        "number": 913,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Remove terminal from json if terminal app has been removed",
+                        "url": "https://github.com/files-community/Files/pull/914",
+                        "state": "MERGED",
+                        "number": 914,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "AutoDetectFluentTerminal",
+                                        "url": "https://github.com/files-community/Files/pull/912",
+                                        "state": "CLOSED",
+                                        "number": 912,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Update translation: UA, RU",
+                        "url": "https://github.com/files-community/Files/pull/916",
+                        "state": "MERGED",
+                        "number": 916,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Switch to WinUI ProgressBar",
+                        "url": "https://github.com/files-community/Files/pull/918",
+                        "state": "MERGED",
+                        "number": 918,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Improved settings code",
+                        "url": "https://github.com/files-community/Files/pull/919",
+                        "state": "MERGED",
+                        "number": 919,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation update [Spanish]",
+                        "url": "https://github.com/files-community/Files/pull/920",
+                        "state": "MERGED",
+                        "number": 920,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Update version number to v0.9.2",
+                        "url": "https://github.com/files-community/Files/pull/923",
+                        "state": "MERGED",
+                        "number": 923,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "[PROPOSAL] - Access android (MTP) devices",
+                        "url": "https://github.com/files-community/Files/pull/926",
+                        "state": "MERGED",
+                        "number": 926,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "creamtea47"
+                                        },
+                                        "title": "Can't display other drives ",
+                                        "url": "https://github.com/files-community/Files/issues/488",
+                                        "state": "CLOSED",
+                                        "number": 488,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "lukeblevins"
+                                        },
+                                        "title": "Add Private Network capability for proper NAS drive support",
+                                        "url": "https://github.com/files-community/Files/pull/1288",
+                                        "state": "CLOSED",
+                                        "number": 1288,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lampenlampen"
+                        },
+                        "title": "feat: Open item with",
+                        "url": "https://github.com/files-community/Files/pull/928",
+                        "state": "MERGED",
+                        "number": 928,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix settings",
+                        "url": "https://github.com/files-community/Files/pull/931",
+                        "state": "CLOSED",
+                        "number": 931,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix settings",
+                        "url": "https://github.com/files-community/Files/pull/932",
+                        "state": "MERGED",
+                        "number": 932,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "SOI7"
+                                        },
+                                        "title": "Startup options require multiple clicks to change",
+                                        "url": "https://github.com/files-community/Files/issues/958",
+                                        "state": "CLOSED",
+                                        "number": 958,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "aqilc"
+                                        },
+                                        "title": "Problems with saving your current Settings",
+                                        "url": "https://github.com/files-community/Files/issues/993",
+                                        "state": "CLOSED",
+                                        "number": 993,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Selecting 'Open in new tab' option in preferences causes a crash",
+                                        "url": "https://github.com/files-community/Files/issues/1008",
+                                        "state": "CLOSED",
+                                        "number": 1008,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Fix creating a folder or file with restricted names or characters",
+                        "url": "https://github.com/files-community/Files/pull/933",
+                        "state": "MERGED",
+                        "number": 933,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Change how to get Dispatcher",
+                        "url": "https://github.com/files-community/Files/pull/937",
+                        "state": "MERGED",
+                        "number": 937,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tomyan112"
+                                        },
+                                        "title": "None of my drive shows up",
+                                        "url": "https://github.com/files-community/Files/issues/930",
+                                        "state": "CLOSED",
+                                        "number": 930,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "fixed auto selection when renaming if extensions are hidden",
+                        "url": "https://github.com/files-community/Files/pull/938",
+                        "state": "MERGED",
+                        "number": 938,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation Update [ES]",
+                        "url": "https://github.com/files-community/Files/pull/939",
+                        "state": "MERGED",
+                        "number": 939,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Fixed md5 visibility and check boxes spacing",
+                        "url": "https://github.com/files-community/Files/pull/940",
+                        "state": "MERGED",
+                        "number": 940,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Add ability to open sidebar drive in new window or tab",
+                        "url": "https://github.com/files-community/Files/pull/941",
+                        "state": "MERGED",
+                        "number": 941,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Dialogs: Hide rename dialog if user pressed Esc button",
+                        "url": "https://github.com/files-community/Files/pull/942",
+                        "state": "MERGED",
+                        "number": 942,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Added button to open debug.txt location in explorer",
+                        "url": "https://github.com/files-community/Files/pull/943",
+                        "state": "MERGED",
+                        "number": 943,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Merge pull request #1 from files-community/master",
+                        "url": "https://github.com/files-community/Files/pull/945",
+                        "state": "CLOSED",
+                        "number": 945,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Align tab button with close tab button",
+                        "url": "https://github.com/files-community/Files/pull/950",
+                        "state": "MERGED",
+                        "number": 950,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Richard-HM"
+                                        },
+                                        "title": "Move \"+\" button down a bit",
+                                        "url": "https://github.com/files-community/Files/issues/944",
+                                        "state": "CLOSED",
+                                        "number": 944,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added option to unpin libraries from the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/951",
+                        "state": "MERGED",
+                        "number": 951,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "TailyFair"
+                                        },
+                                        "title": "Allow to hide default library folders in sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/949",
+                                        "state": "CLOSED",
+                                        "number": 949,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Implement filesystem watching via ReadDirectoryChangesW",
+                        "url": "https://github.com/files-community/Files/pull/952",
+                        "state": "MERGED",
+                        "number": 952,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yhonfer"
+                                        },
+                                        "title": "it gets really cool and I can't use the files",
+                                        "url": "https://github.com/files-community/Files/issues/983",
+                                        "state": "CLOSED",
+                                        "number": 983,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Mikodzi"
+                                        },
+                                        "title": "App crashes when creating and naming a folder on a OneDrive",
+                                        "url": "https://github.com/files-community/Files/issues/979",
+                                        "state": "CLOSED",
+                                        "number": 979,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Update re-pinned library icons without restarting the app",
+                        "url": "https://github.com/files-community/Files/pull/954",
+                        "state": "MERGED",
+                        "number": 954,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KiriKirby"
+                        },
+                        "title": "(o\uff9fv\uff9f)\u30ceUpdated Chinese Simplified translation \u7b80\u4f53\u4e2d\u6587\u7ffb\u8bd1",
+                        "url": "https://github.com/files-community/Files/pull/955",
+                        "state": "CLOSED",
+                        "number": 955,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "[help wanted] Implement file search",
+                        "url": "https://github.com/files-community/Files/pull/959",
+                        "state": "CLOSED",
+                        "number": 959,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Add margin to gridview item",
+                        "url": "https://github.com/files-community/Files/pull/960",
+                        "state": "MERGED",
+                        "number": 960,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Added keyboard shortcuts to the tooltip of buttons in the navigation bar",
+                        "url": "https://github.com/files-community/Files/pull/964",
+                        "state": "MERGED",
+                        "number": 964,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "TailyFair"
+                                        },
+                                        "title": "Add shortcuts page inside settings",
+                                        "url": "https://github.com/files-community/Files/issues/957",
+                                        "state": "CLOSED",
+                                        "number": 957,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "GridViewBrowser: Fixed folder icon size",
+                        "url": "https://github.com/files-community/Files/pull/970",
+                        "state": "MERGED",
+                        "number": 970,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Create FUNDING.yml",
+                        "url": "https://github.com/files-community/Files/pull/972",
+                        "state": "MERGED",
+                        "number": 972,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Added Japanese translation",
+                        "url": "https://github.com/files-community/Files/pull/977",
+                        "state": "MERGED",
+                        "number": 977,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lampenlampen"
+                        },
+                        "title": "Add logging for QuickLook",
+                        "url": "https://github.com/files-community/Files/pull/988",
+                        "state": "MERGED",
+                        "number": 988,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Terminal: Use path as terminal identifier",
+                        "url": "https://github.com/files-community/Files/pull/989",
+                        "state": "MERGED",
+                        "number": 989,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Fix crash on startup by providing a migration path for DefaultTerminalPath property",
+                        "url": "https://github.com/files-community/Files/pull/996",
+                        "state": "MERGED",
+                        "number": 996,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "KiriKirby"
+                        },
+                        "title": "Updated Chinese Simplified translation \u7b80\u4f53\u4e2d\u6587",
+                        "url": "https://github.com/files-community/Files/pull/998",
+                        "state": "MERGED",
+                        "number": 998,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Prevent the file watching loop from still being alive after we kill it",
+                        "url": "https://github.com/files-community/Files/pull/1001",
+                        "state": "MERGED",
+                        "number": 1001,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Cancel previous watcher",
+                                        "url": "https://github.com/files-community/Files/pull/1048",
+                                        "state": "MERGED",
+                                        "number": 1048,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "VigneshVoid"
+                        },
+                        "title": "Fixed a crash when using the high contrast theme",
+                        "url": "https://github.com/files-community/Files/pull/1011",
+                        "state": "MERGED",
+                        "number": 1011,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Properties: Fix Properties window crash on older systems",
+                        "url": "https://github.com/files-community/Files/pull/1012",
+                        "state": "MERGED",
+                        "number": 1012,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Update resources [zh-Hans]",
+                        "url": "https://github.com/files-community/Files/pull/1013",
+                        "state": "MERGED",
+                        "number": 1013,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Custom icons for Tiles view and List view in layout mode menu",
+                        "url": "https://github.com/files-community/Files/pull/1018",
+                        "state": "MERGED",
+                        "number": 1018,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated status bar",
+                        "url": "https://github.com/files-community/Files/pull/1026",
+                        "state": "MERGED",
+                        "number": 1026,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "maicol07"
+                        },
+                        "title": "Updated italian translations",
+                        "url": "https://github.com/files-community/Files/pull/1038",
+                        "state": "MERGED",
+                        "number": 1038,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation update [ES]",
+                        "url": "https://github.com/files-community/Files/pull/1039",
+                        "state": "MERGED",
+                        "number": 1039,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Update resources [it-IT]",
+                        "url": "https://github.com/files-community/Files/pull/1041",
+                        "state": "MERGED",
+                        "number": 1041,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "VigneshVoid"
+                        },
+                        "title": "[Fixed]   #1034 Multi-Windows Cut Copy crash",
+                        "url": "https://github.com/files-community/Files/pull/1044",
+                        "state": "MERGED",
+                        "number": 1044,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "OrStudio"
+                        },
+                        "title": "New language Files.zh-Hant.xlf",
+                        "url": "https://github.com/files-community/Files/pull/1046",
+                        "state": "MERGED",
+                        "number": 1046,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Cancel previous watcher",
+                        "url": "https://github.com/files-community/Files/pull/1048",
+                        "state": "MERGED",
+                        "number": 1048,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated version to 0.10.2",
+                        "url": "https://github.com/files-community/Files/pull/1053",
+                        "state": "MERGED",
+                        "number": 1053,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "VigneshVoid"
+                        },
+                        "title": "Added Support for Date Accessed and File Owner Properties",
+                        "url": "https://github.com/files-community/Files/pull/1055",
+                        "state": "MERGED",
+                        "number": 1055,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Richard-HM"
+                                        },
+                                        "title": "Add margin to folder size progress ring",
+                                        "url": "https://github.com/files-community/Files/pull/1108",
+                                        "state": "MERGED",
+                                        "number": 1108,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix quicklook detection",
+                        "url": "https://github.com/files-community/Files/pull/1061",
+                        "state": "MERGED",
+                        "number": 1061,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "artikweb"
+                                        },
+                                        "title": "Add QuickLook integration",
+                                        "url": "https://github.com/files-community/Files/issues/969",
+                                        "state": "CLOSED",
+                                        "number": 969,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "seriaati"
+                                        },
+                                        "title": "Let's get compatible with QuickLook!",
+                                        "url": "https://github.com/files-community/Files/issues/1058",
+                                        "state": "CLOSED",
+                                        "number": 1058,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Iuyitim"
+                                        },
+                                        "title": "\u4f5c\u8005\uff0c\u60a8\u597d\u3002\u6211\u9047\u5230\u4e00\u4e2a\u95ee\u9898\uff0c\u65e0\u8bba\u4f7f\u7528quicklook\u7684\u54ea\u4e00\u4e2a\u7248\u672c\uff0c\u6211\u90fd\u65e0\u6cd5\u9884\u89c8files uwp\u4e2d\u7684\u4efb\u4f55\u6587\u4ef6\uff08\u6211\u5b89\u88c5\u6240\u6709\u7684\u63d2\u4ef6\uff0c\u4e14\u5728\u8d44\u6e90\u7ba1\u7406\u5668\u4e2d\u9884\u89c8\u6ca1\u6709\u95ee\u9898\uff09\uff0c\u771f\u5fc3\u5e0c\u671b\u5f97\u5230\u60a8\u7684\u56de\u590d\u548c\u5e2e\u52a9\uff0c\u795d\u597d",
+                                        "url": "https://github.com/files-community/Files/issues/1104",
+                                        "state": "CLOSED",
+                                        "number": 1104,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yhybulider"
+                                        },
+                                        "title": "can not use Quicklook in files-uwp",
+                                        "url": "https://github.com/files-community/Files/issues/1157",
+                                        "state": "CLOSED",
+                                        "number": 1157,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hc981111"
+                                        },
+                                        "title": "quicklook\u652f\u6301\u95ee\u9898",
+                                        "url": "https://github.com/files-community/Files/issues/1163",
+                                        "state": "CLOSED",
+                                        "number": 1163,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Improved support for opening multiple files at a time",
+                        "url": "https://github.com/files-community/Files/pull/1062",
+                        "state": "MERGED",
+                        "number": 1062,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "szaimen"
+                                        },
+                                        "title": "open pictures with photos app should allow to cycle through all photos in that directory",
+                                        "url": "https://github.com/files-community/Files/issues/524",
+                                        "state": "CLOSED",
+                                        "number": 524,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "BehnamSeydAbadi"
+                                        },
+                                        "title": "play multiselected mp3s",
+                                        "url": "https://github.com/files-community/Files/issues/1057",
+                                        "state": "CLOSED",
+                                        "number": 1057,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ADeltaX"
+                                        },
+                                        "title": "Launch file (with other files containing in folder as param) to support apps like Photos and Movies & TV + Include Files.Extensions (unused at the moment)",
+                                        "url": "https://github.com/files-community/Files/pull/1081",
+                                        "state": "MERGED",
+                                        "number": 1081,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Improve performance on selection operations",
+                        "url": "https://github.com/files-community/Files/pull/1063",
+                        "state": "MERGED",
+                        "number": 1063,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "ModernSidebar: Rework pinned to SideBar items model",
+                        "url": "https://github.com/files-community/Files/pull/1064",
+                        "state": "MERGED",
+                        "number": 1064,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added item count to the status bar",
+                        "url": "https://github.com/files-community/Files/pull/1065",
+                        "state": "MERGED",
+                        "number": 1065,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lampenlampen"
+                        },
+                        "title": "feat: Uri activation with path",
+                        "url": "https://github.com/files-community/Files/pull/1066",
+                        "state": "CLOSED",
+                        "number": 1066,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation update [ES]",
+                        "url": "https://github.com/files-community/Files/pull/1067",
+                        "state": "MERGED",
+                        "number": 1067,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Added ability to cancel hash computation",
+                        "url": "https://github.com/files-community/Files/pull/1072",
+                        "state": "MERGED",
+                        "number": 1072,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Upgrade SDK Version to v2004",
+                        "url": "https://github.com/files-community/Files/pull/1078",
+                        "state": "MERGED",
+                        "number": 1078,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Fixed converting \"PinnedItems.txt\" when it already conatins duplicate\u2026",
+                        "url": "https://github.com/files-community/Files/pull/1079",
+                        "state": "MERGED",
+                        "number": 1079,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Automatically refresh the itemCount of the status bar",
+                                        "url": "https://github.com/files-community/Files/pull/1090",
+                                        "state": "MERGED",
+                                        "number": 1090,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ADeltaX"
+                        },
+                        "title": "Launch file (with other files containing in folder as param) to support apps like Photos and Movies & TV + Include Files.Extensions (unused at the moment)",
+                        "url": "https://github.com/files-community/Files/pull/1081",
+                        "state": "MERGED",
+                        "number": 1081,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "szaimen"
+                                        },
+                                        "title": "open pictures with photos app should allow to cycle through all photos in that directory",
+                                        "url": "https://github.com/files-community/Files/issues/524",
+                                        "state": "CLOSED",
+                                        "number": 524,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Properties: Show progress when calculating MD5 hash",
+                        "url": "https://github.com/files-community/Files/pull/1082",
+                        "state": "MERGED",
+                        "number": 1082,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Added pin path to sidebar to right click context menu",
+                        "url": "https://github.com/files-community/Files/pull/1084",
+                        "state": "MERGED",
+                        "number": 1084,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "szaimen"
+                                        },
+                                        "title": "Add option to right click context menu to pin the current directory to the sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/255",
+                                        "state": "CLOSED",
+                                        "number": 255,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Automatically refresh the itemCount of the status bar",
+                        "url": "https://github.com/files-community/Files/pull/1090",
+                        "state": "MERGED",
+                        "number": 1090,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Bug fixes for handling network path",
+                        "url": "https://github.com/files-community/Files/pull/1091",
+                        "state": "MERGED",
+                        "number": 1091,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Make size calculation progressive",
+                                        "url": "https://github.com/files-community/Files/pull/1092",
+                                        "state": "CLOSED",
+                                        "number": 1092,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Make size calculation progressive",
+                        "url": "https://github.com/files-community/Files/pull/1092",
+                        "state": "CLOSED",
+                        "number": 1092,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fixed issue where the folder name wouldn't display on tabs",
+                        "url": "https://github.com/files-community/Files/pull/1095",
+                        "state": "MERGED",
+                        "number": 1095,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Add ability to empty recycle bin from sidebar context menu",
+                        "url": "https://github.com/files-community/Files/pull/1096",
+                        "state": "MERGED",
+                        "number": 1096,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Use FindFirstFile to calculate Directory Size Recursively",
+                        "url": "https://github.com/files-community/Files/pull/1099",
+                        "state": "MERGED",
+                        "number": 1099,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Make size calculation progressive",
+                                        "url": "https://github.com/files-community/Files/pull/1092",
+                                        "state": "CLOSED",
+                                        "number": 1092,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Improved code layout",
+                        "url": "https://github.com/files-community/Files/pull/1102",
+                        "state": "MERGED",
+                        "number": 1102,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Add margin to folder size progress ring",
+                        "url": "https://github.com/files-community/Files/pull/1108",
+                        "state": "MERGED",
+                        "number": 1108,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Fix bug with Status Bar control not displaying information through multiple tabs",
+                        "url": "https://github.com/files-community/Files/pull/1109",
+                        "state": "MERGED",
+                        "number": 1109,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Update Multilingual Resources + translation [ES]",
+                        "url": "https://github.com/files-community/Files/pull/1133",
+                        "state": "MERGED",
+                        "number": 1133,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Properties: Fix progressRing displayed for files properties",
+                        "url": "https://github.com/files-community/Files/pull/1135",
+                        "state": "MERGED",
+                        "number": 1135,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Set WorkingDirectory for terminal",
+                        "url": "https://github.com/files-community/Files/pull/1136",
+                        "state": "MERGED",
+                        "number": 1136,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "cocoon"
+                                        },
+                                        "title": "Open in Terminal + wt.exe + pwsh fails if path ends with backslash",
+                                        "url": "https://github.com/files-community/Files/issues/1107",
+                                        "state": "CLOSED",
+                                        "number": 1107,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Recyclebin improvements",
+                        "url": "https://github.com/files-community/Files/pull/1137",
+                        "state": "MERGED",
+                        "number": 1137,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tsvietOK"
+                                        },
+                                        "title": "RecycleBin: When opening Recycle bin it appears empty.",
+                                        "url": "https://github.com/files-community/Files/issues/1199",
+                                        "state": "CLOSED",
+                                        "number": 1199,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Richard-HM"
+                                        },
+                                        "title": "\"Recycle bin\" no longer appears translated",
+                                        "url": "https://github.com/files-community/Files/issues/1191",
+                                        "state": "CLOSED",
+                                        "number": 1191,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Fix incorrect item size value",
+                        "url": "https://github.com/files-community/Files/pull/1138",
+                        "state": "MERGED",
+                        "number": 1138,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

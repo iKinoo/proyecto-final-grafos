@@ -1,0 +1,1433 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOcIzqQA=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Downgrade LiteDB to fix transaction issue",
+                        "url": "https://github.com/files-community/Files/pull/15217",
+                        "state": "MERGED",
+                        "number": 15217,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Replpace LibraryManager with IWindowsLibraryService",
+                        "url": "https://github.com/files-community/Files/pull/15219",
+                        "state": "CLOSED",
+                        "number": 15219,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Use registry for preferences and tags storage",
+                        "url": "https://github.com/files-community/Files/pull/15220",
+                        "state": "MERGED",
+                        "number": 15220,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nunescostr"
+                        },
+                        "title": "Fix: Fixed an issue where the home key wouldn't move focus when renaming items in List View",
+                        "url": "https://github.com/files-community/Files/pull/15225",
+                        "state": "OPEN",
+                        "number": 15225,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Disable composite ReadyToRun for server",
+                        "url": "https://github.com/files-community/Files/pull/15226",
+                        "state": "CLOSED",
+                        "number": 15226,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where changing sort preferences didn't work properly when the sync option was on",
+                        "url": "https://github.com/files-community/Files/pull/15228",
+                        "state": "MERGED",
+                        "number": 15228,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Various fixes to the WinRT server call",
+                        "url": "https://github.com/files-community/Files/pull/15229",
+                        "state": "MERGED",
+                        "number": 15229,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "0x5bfa"
+                                        },
+                                        "title": "Code Quality: Introduced Files.App.Win32 to avoid duplication",
+                                        "url": "https://github.com/files-community/Files/pull/15231",
+                                        "state": "CLOSED",
+                                        "number": 15231,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Introduced Files.App.Win32 to avoid duplication",
+                        "url": "https://github.com/files-community/Files/pull/15231",
+                        "state": "CLOSED",
+                        "number": 15231,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Added IWSLDrivesService",
+                        "url": "https://github.com/files-community/Files/pull/15232",
+                        "state": "CLOSED",
+                        "number": 15232,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where View more and Open all in Tags widget were disabled",
+                        "url": "https://github.com/files-community/Files/pull/15236",
+                        "state": "MERGED",
+                        "number": 15236,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed a bug where dropdown flyouts opened in the wrong location",
+                        "url": "https://github.com/files-community/Files/pull/15246",
+                        "state": "MERGED",
+                        "number": 15246,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed an issue where the window wasn't refocused if minimized on launch",
+                        "url": "https://github.com/files-community/Files/pull/15247",
+                        "state": "MERGED",
+                        "number": 15247,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed issue where changing focus in column view caused extra animation",
+                        "url": "https://github.com/files-community/Files/pull/15249",
+                        "state": "MERGED",
+                        "number": 15249,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed an issue where HWiNFO64.exe wouldn't open",
+                        "url": "https://github.com/files-community/Files/pull/15251",
+                        "state": "MERGED",
+                        "number": 15251,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Improved loading of pinned folders and recent files",
+                        "url": "https://github.com/files-community/Files/pull/15259",
+                        "state": "MERGED",
+                        "number": 15259,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ashrafmansuri"
+                        },
+                        "title": "Fix: Fixed an issue where the conflicts dialog didn't append numbers when pasting files",
+                        "url": "https://github.com/files-community/Files/pull/15267",
+                        "state": "MERGED",
+                        "number": 15267,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue that caused shortcut keys to be displayed incorrectly in the command palette",
+                        "url": "https://github.com/files-community/Files/pull/15271",
+                        "state": "MERGED",
+                        "number": 15271,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Code Quality: Use protocol launch for open and save file dialogs",
+                        "url": "https://github.com/files-community/Files/pull/15280",
+                        "state": "MERGED",
+                        "number": 15280,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where scroll position wasn't always in the correct position",
+                        "url": "https://github.com/files-community/Files/pull/15281",
+                        "state": "MERGED",
+                        "number": 15281,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Remove context flyout builder",
+                        "url": "https://github.com/files-community/Files/pull/15284",
+                        "state": "CLOSED",
+                        "number": 15284,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Moved Resources dir to Assets",
+                        "url": "https://github.com/files-community/Files/pull/15285",
+                        "state": "MERGED",
+                        "number": 15285,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15286",
+                        "state": "MERGED",
+                        "number": 15286,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Update WindowsAppSDK and Vanara",
+                        "url": "https://github.com/files-community/Files/pull/15289",
+                        "state": "MERGED",
+                        "number": 15289,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added a theming option to display a background image",
+                        "url": "https://github.com/files-community/Files/pull/15290",
+                        "state": "MERGED",
+                        "number": 15290,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "onlytanmoy"
+                                        },
+                                        "title": "Feature: Add support for setting a background image for the app",
+                                        "url": "https://github.com/files-community/Files/issues/12636",
+                                        "state": "CLOSED",
+                                        "number": 12636,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Removed Vanara.PInvoke.Mpr & Vanara.PInvoke.DwmApi",
+                        "url": "https://github.com/files-community/Files/pull/15292",
+                        "state": "MERGED",
+                        "number": 15292,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Code Quality: Update CsWin32 to latest version",
+                        "url": "https://github.com/files-community/Files/pull/15296",
+                        "state": "MERGED",
+                        "number": 15296,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gumbarros"
+                        },
+                        "title": "Code Quality: Use `LibraryImportAttribute` at undocumented EntryPoint",
+                        "url": "https://github.com/files-community/Files/pull/15298",
+                        "state": "MERGED",
+                        "number": 15298,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Removed ContextMenuFlyoutItemViewModelBuilder",
+                        "url": "https://github.com/files-community/Files/pull/15299",
+                        "state": "OPEN",
+                        "number": 15299,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "0x5bfa"
+                                        },
+                                        "title": "Code Quality: Added 'object? parameter' to every rich commands",
+                                        "url": "https://github.com/files-community/Files/pull/15325",
+                                        "state": "MERGED",
+                                        "number": 15325,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Use SidebarContext and HomePageContext in OpenIn... RichCommands",
+                        "url": "https://github.com/files-community/Files/pull/15300",
+                        "state": "CLOSED",
+                        "number": 15300,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Renamed FilesystemViewModel to ShellViewModel",
+                        "url": "https://github.com/files-community/Files/pull/15301",
+                        "state": "CLOSED",
+                        "number": 15301,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Use WindowContext instead of AppModel",
+                        "url": "https://github.com/files-community/Files/pull/15302",
+                        "state": "CLOSED",
+                        "number": 15302,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Artoryn"
+                        },
+                        "title": "Feature: Added audio bitrate to the Details Pane",
+                        "url": "https://github.com/files-community/Files/pull/15304",
+                        "state": "MERGED",
+                        "number": 15304,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed an issue where renaming in the conflict dialog would leave the copy status in process",
+                        "url": "https://github.com/files-community/Files/pull/15305",
+                        "state": "MERGED",
+                        "number": 15305,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Fix horizontal alignment labels",
+                        "url": "https://github.com/files-community/Files/pull/15306",
+                        "state": "MERGED",
+                        "number": 15306,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added additional localizations",
+                        "url": "https://github.com/files-community/Files/pull/15307",
+                        "state": "MERGED",
+                        "number": 15307,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15309",
+                        "state": "MERGED",
+                        "number": 15309,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15310",
+                        "state": "MERGED",
+                        "number": 15310,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where \"Custom\" wasn't localized in the settings appearance page",
+                        "url": "https://github.com/files-community/Files/pull/15312",
+                        "state": "MERGED",
+                        "number": 15312,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Ignore exceptions to return default layout preferences in GetLayoutPreferencesForPath",
+                        "url": "https://github.com/files-community/Files/pull/15314",
+                        "state": "MERGED",
+                        "number": 15314,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed COMException in LayoutPreferencesManager.SetLayoutPreferencesForPath",
+                                        "url": "https://github.com/files-community/Files/pull/15321",
+                                        "state": "MERGED",
+                                        "number": 15321,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Code Quality: Ignore exceptions to return default layout preferences in GetLayoutPreferencesForPath\"",
+                                        "url": "https://github.com/files-community/Files/pull/15326",
+                                        "state": "MERGED",
+                                        "number": 15326,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15315",
+                        "state": "MERGED",
+                        "number": 15315,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added set as app background action",
+                        "url": "https://github.com/files-community/Files/pull/15316",
+                        "state": "MERGED",
+                        "number": 15316,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15318",
+                        "state": "MERGED",
+                        "number": 15318,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed COMException in LayoutPreferencesManager.SetLayoutPreferencesForPath",
+                        "url": "https://github.com/files-community/Files/pull/15321",
+                        "state": "MERGED",
+                        "number": 15321,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Fix: Fixed COMException in LayoutPreferencesManager.SetLayoutPreferencesForPath\"",
+                                        "url": "https://github.com/files-community/Files/pull/15327",
+                                        "state": "MERGED",
+                                        "number": 15327,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15322",
+                        "state": "CLOSED",
+                        "number": 15322,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Pin WinRT server object to prevent object reference being invalid",
+                        "url": "https://github.com/files-community/Files/pull/15324",
+                        "state": "MERGED",
+                        "number": 15324,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hez2010"
+                                        },
+                                        "title": "Revert \"Code Quality: Pin WinRT server object to prevent object reference being invalid\"",
+                                        "url": "https://github.com/files-community/Files/pull/15346",
+                                        "state": "MERGED",
+                                        "number": 15346,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Added 'object? parameter' to every rich commands",
+                        "url": "https://github.com/files-community/Files/pull/15325",
+                        "state": "MERGED",
+                        "number": 15325,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Code Quality: Ignore exceptions to return default layout preferences in GetLayoutPreferencesForPath\"",
+                        "url": "https://github.com/files-community/Files/pull/15326",
+                        "state": "MERGED",
+                        "number": 15326,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Fix: Fixed COMException in LayoutPreferencesManager.SetLayoutPreferencesForPath\"",
+                        "url": "https://github.com/files-community/Files/pull/15327",
+                        "state": "MERGED",
+                        "number": 15327,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Use RichCommands in home and sidebar",
+                        "url": "https://github.com/files-community/Files/pull/15329",
+                        "state": "OPEN",
+                        "number": 15329,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15330",
+                        "state": "MERGED",
+                        "number": 15330,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Use constructor instead of collection expression for the properties window cache",
+                        "url": "https://github.com/files-community/Files/pull/15337",
+                        "state": "MERGED",
+                        "number": 15337,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Fix: Fixed NullReferenceException in FilePropertiesHelpers.DestroyCachedWindows",
+                                        "url": "https://github.com/files-community/Files/pull/15401",
+                                        "state": "MERGED",
+                                        "number": 15401,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for SeerPro's \"Track selected file\" setting",
+                        "url": "https://github.com/files-community/Files/pull/15339",
+                        "state": "MERGED",
+                        "number": 15339,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Code Quality: Gave priority to registry when loading Seer Pro settings",
+                                        "url": "https://github.com/files-community/Files/pull/15387",
+                                        "state": "MERGED",
+                                        "number": 15387,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Introduced IStorageArchiveService",
+                        "url": "https://github.com/files-community/Files/pull/15341",
+                        "state": "MERGED",
+                        "number": 15341,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Revert \"Code Quality: Pin WinRT server object to prevent object reference being invalid\"",
+                        "url": "https://github.com/files-community/Files/pull/15346",
+                        "state": "MERGED",
+                        "number": 15346,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where the string for \"Actions\" wasn't localize in the Settings menu",
+                        "url": "https://github.com/files-community/Files/pull/15347",
+                        "state": "MERGED",
+                        "number": 15347,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15348",
+                        "state": "MERGED",
+                        "number": 15348,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for setting tif files as the Background Image",
+                        "url": "https://github.com/files-community/Files/pull/15350",
+                        "state": "MERGED",
+                        "number": 15350,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Moving registry database to Files.App",
+                        "url": "https://github.com/files-community/Files/pull/15357",
+                        "state": "MERGED",
+                        "number": 15357,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Fix: Updated Files running as admin prompt for when UAC is off",
+                        "url": "https://github.com/files-community/Files/pull/15362",
+                        "state": "CLOSED",
+                        "number": 15362,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Feature: Updated the wording of the \"Files is running as admin\" prompt",
+                                        "url": "https://github.com/files-community/Files/pull/15376",
+                                        "state": "MERGED",
+                                        "number": 15376,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Introduce flexible pane generation 1",
+                        "url": "https://github.com/files-community/Files/pull/15368",
+                        "state": "MERGED",
+                        "number": 15368,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where execution via URI or alias could run different version of Files",
+                        "url": "https://github.com/files-community/Files/pull/15371",
+                        "state": "CLOSED",
+                        "number": 15371,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Feature: Updated the wording of the \"Files is running as admin\" prompt",
+                        "url": "https://github.com/files-community/Files/pull/15376",
+                        "state": "MERGED",
+                        "number": 15376,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Josh65-2201"
+                        },
+                        "title": "Feature: Added toolbar button to play mkv files",
+                        "url": "https://github.com/files-community/Files/pull/15377",
+                        "state": "MERGED",
+                        "number": 15377,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed crash when connecting some removable drives",
+                        "url": "https://github.com/files-community/Files/pull/15383",
+                        "state": "MERGED",
+                        "number": 15383,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Code Quality: Switch DirectN to CsWin32",
+                        "url": "https://github.com/files-community/Files/pull/15385",
+                        "state": "MERGED",
+                        "number": 15385,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed a crash that would occur when opening file pickers and Files was running as admin",
+                        "url": "https://github.com/files-community/Files/pull/15386",
+                        "state": "MERGED",
+                        "number": 15386,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Feature: Improving Performance, optimizations, reliability and codebase ",
+                                        "url": "https://github.com/files-community/Files/issues/4180",
+                                        "state": "OPEN",
+                                        "number": 4180,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Gave priority to registry when loading Seer Pro settings",
+                        "url": "https://github.com/files-community/Files/pull/15387",
+                        "state": "MERGED",
+                        "number": 15387,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added support for displaying all network folders on the sidebar",
+                        "url": "https://github.com/files-community/Files/pull/15388",
+                        "state": "MERGED",
+                        "number": 15388,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Feature: Prompt to enable network discovery when clicking the Network option",
+                                        "url": "https://github.com/files-community/Files/issues/9735",
+                                        "state": "OPEN",
+                                        "number": 9735,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where the app wouldn\u2019t run as admin",
+                        "url": "https://github.com/files-community/Files/pull/15389",
+                        "state": "MERGED",
+                        "number": 15389,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Fix: Fixed an issue where changing the theme mode could cause a crash",
+                        "url": "https://github.com/files-community/Files/pull/15391",
+                        "state": "MERGED",
+                        "number": 15391,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added a setting to configure the \"Open in ide\" button on the status bar",
+                        "url": "https://github.com/files-community/Files/pull/15393",
+                        "state": "CLOSED",
+                        "number": 15393,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added a setting to configure the \"Open in ide\" button on the status bar",
+                        "url": "https://github.com/files-community/Files/pull/15394",
+                        "state": "MERGED",
+                        "number": 15394,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added localization for Belarusian",
+                        "url": "https://github.com/files-community/Files/pull/15399",
+                        "state": "MERGED",
+                        "number": 15399,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in FilePropertiesHelpers.DestroyCachedWindows",
+                        "url": "https://github.com/files-community/Files/pull/15401",
+                        "state": "MERGED",
+                        "number": 15401,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Code Quality: Add Dummy update service for dev builds",
+                        "url": "https://github.com/files-community/Files/pull/15405",
+                        "state": "MERGED",
+                        "number": 15405,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Feature: Added support for \"Thin acrylic\" system backdrop",
+                        "url": "https://github.com/files-community/Files/pull/15406",
+                        "state": "MERGED",
+                        "number": 15406,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Update structure of storage projects",
+                        "url": "https://github.com/files-community/Files/pull/15407",
+                        "state": "MERGED",
+                        "number": 15407,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Opening the log location will now close the Settings Dialog when Files is the default file manager",
+                        "url": "https://github.com/files-community/Files/pull/15416",
+                        "state": "MERGED",
+                        "number": 15416,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "MarathonMax"
+                                        },
+                                        "title": "Feature: Close Settings Dialog when opening Debug Log file folder",
+                                        "url": "https://github.com/files-community/Files/issues/15415",
+                                        "state": "CLOSED",
+                                        "number": 15415,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added \"Run as admin\" support for AHK files",
+                        "url": "https://github.com/files-community/Files/pull/15417",
+                        "state": "MERGED",
+                        "number": 15417,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "MahmoudAli96505"
+                                        },
+                                        "title": "Bug: Run as admin doesn't show on `.ahk` files",
+                                        "url": "https://github.com/files-community/Files/issues/15250",
+                                        "state": "CLOSED",
+                                        "number": 15250,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Updated the Status Bar design",
+                        "url": "https://github.com/files-community/Files/pull/15419",
+                        "state": "MERGED",
+                        "number": 15419,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "XTorLukas"
+                        },
+                        "title": "Fix: Fixed an issue where it didn't work to map certain keys to Actions",
+                        "url": "https://github.com/files-community/Files/pull/15420",
+                        "state": "MERGED",
+                        "number": 15420,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added a tooltip when hovering over OneDrive status icons",
+                        "url": "https://github.com/files-community/Files/pull/15421",
+                        "state": "MERGED",
+                        "number": 15421,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added a widget for Network locations",
+                        "url": "https://github.com/files-community/Files/pull/15422",
+                        "state": "MERGED",
+                        "number": 15422,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Feature: Prompt to enable network discovery when clicking the Network option",
+                                        "url": "https://github.com/files-community/Files/issues/9735",
+                                        "state": "OPEN",
+                                        "number": 9735,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Disable run as user for AHK files",
+                        "url": "https://github.com/files-community/Files/pull/15428",
+                        "state": "MERGED",
+                        "number": 15428,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added an action to edit \"Batch\" files in Notepad",
+                        "url": "https://github.com/files-community/Files/pull/15429",
+                        "state": "MERGED",
+                        "number": 15429,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "XTorLukas"
+                        },
+                        "title": "Code Quality: Adding the possibility of plural translation using ICU format",
+                        "url": "https://github.com/files-community/Files/pull/15433",
+                        "state": "MERGED",
+                        "number": 15433,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added \"Edit in notepad\" action to the right click context menu",
+                        "url": "https://github.com/files-community/Files/pull/15435",
+                        "state": "MERGED",
+                        "number": 15435,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/15438",
+                        "state": "MERGED",
+                        "number": 15438,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "XTorLukas"
+                        },
+                        "title": "Fix: Correct load os language for `MessageFormatExtensions`",
+                        "url": "https://github.com/files-community/Files/pull/15441",
+                        "state": "CLOSED",
+                        "number": 15441,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Updated the Toolbar design",
+                        "url": "https://github.com/files-community/Files/pull/15442",
+                        "state": "MERGED",
+                        "number": 15442,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "XTorLukas"
+                        },
+                        "title": "Code Quality: Created a language helper to work with the global language of the application",
+                        "url": "https://github.com/files-community/Files/pull/15443",
+                        "state": "MERGED",
+                        "number": 15443,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "XTorLukas"
+                                        },
+                                        "title": "Fix: Correct load os language for `MessageFormatExtensions`",
+                                        "url": "https://github.com/files-community/Files/pull/15441",
+                                        "state": "CLOSED",
+                                        "number": 15441,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "wangfu91"
+                        },
+                        "title": "Fix: Fixed an issue with Nutstore cloud drive detection",
+                        "url": "https://github.com/files-community/Files/pull/15445",
+                        "state": "MERGED",
+                        "number": 15445,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Changed default settings for Network locations widget",
+                        "url": "https://github.com/files-community/Files/pull/15446",
+                        "state": "MERGED",
+                        "number": 15446,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Fix: Fixed formatting bug when entering commands into the Address Bar",
+                        "url": "https://github.com/files-community/Files/pull/15448",
+                        "state": "MERGED",
+                        "number": 15448,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Fix: Fixed an issue where the focus was lost when quickly switching tabs",
+                        "url": "https://github.com/files-community/Files/pull/15449",
+                        "state": "OPEN",
+                        "number": 15449,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Moved toolbar background to MainPage",
+                        "url": "https://github.com/files-community/Files/pull/15451",
+                        "state": "MERGED",
+                        "number": 15451,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Updated the Preview Pane design",
+                        "url": "https://github.com/files-community/Files/pull/15456",
+                        "state": "MERGED",
+                        "number": 15456,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Josh65-2201"
+                                        },
+                                        "title": "Bug: New floating style toolbar doesn't have mica effect",
+                                        "url": "https://github.com/files-community/Files/issues/15450",
+                                        "state": "CLOSED",
+                                        "number": 15450,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Moved Settings button to Sidebar",
+                        "url": "https://github.com/files-community/Files/pull/15458",
+                        "state": "OPEN",
+                        "number": 15458,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "FieryRMS"
+                        },
+                        "title": "Fix: Fixed an issue with launching programs from the Address Bar",
+                        "url": "https://github.com/files-community/Files/pull/15459",
+                        "state": "MERGED",
+                        "number": 15459,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException in QuickAccessWidgetViewModel.NavigateToPath",
+                        "url": "https://github.com/files-community/Files/pull/15466",
+                        "state": "MERGED",
+                        "number": 15466,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

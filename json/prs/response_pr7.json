@@ -1,0 +1,1688 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOHSPaGg=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Settings: Fix space at the end of string",
+                        "url": "https://github.com/files-community/Files/pull/1706",
+                        "state": "MERGED",
+                        "number": 1706,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.UI.Xaml from 2.4.2 to 2.4.3",
+                        "url": "https://github.com/files-community/Files/pull/1711",
+                        "state": "MERGED",
+                        "number": 1711,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix crash on invalid shortcuts",
+                        "url": "https://github.com/files-community/Files/pull/1717",
+                        "state": "MERGED",
+                        "number": 1717,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "R3voA3"
+                                        },
+                                        "title": "App crashed when opening Documents folder",
+                                        "url": "https://github.com/files-community/Files/issues/1676",
+                                        "state": "CLOSED",
+                                        "number": 1676,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "generalguy41"
+                                        },
+                                        "title": "Crash when trying to open Desktop",
+                                        "url": "https://github.com/files-community/Files/issues/1712",
+                                        "state": "CLOSED",
+                                        "number": 1712,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Improve recyclebin contents update",
+                        "url": "https://github.com/files-community/Files/pull/1718",
+                        "state": "MERGED",
+                        "number": 1718,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Uwp.UI.Controls.DataGrid from 6.1.0 to 6.1.1",
+                        "url": "https://github.com/files-community/Files/pull/1719",
+                        "state": "MERGED",
+                        "number": 1719,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Uwp.UI.Controls from 6.1.0 to 6.1.1",
+                        "url": "https://github.com/files-community/Files/pull/1720",
+                        "state": "MERGED",
+                        "number": 1720,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Uwp.UI.Animations from 6.1.0 to 6.1.1",
+                        "url": "https://github.com/files-community/Files/pull/1721",
+                        "state": "MERGED",
+                        "number": 1721,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Uwp from 6.1.0 to 6.1.1",
+                        "url": "https://github.com/files-community/Files/pull/1722",
+                        "state": "MERGED",
+                        "number": 1722,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Uwp.UI from 6.1.0 to 6.1.1",
+                        "url": "https://github.com/files-community/Files/pull/1723",
+                        "state": "MERGED",
+                        "number": 1723,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.Toolkit.Uwp.DeveloperTools from 6.1.0 to 6.1.1",
+                        "url": "https://github.com/files-community/Files/pull/1724",
+                        "state": "MERGED",
+                        "number": 1724,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Fixed an issue where open with is wrongly displayed as 'The requested operation is not supported' in ta",
+                        "url": "https://github.com/files-community/Files/pull/1728",
+                        "state": "MERGED",
+                        "number": 1728,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Replaced string property names with nameof()",
+                        "url": "https://github.com/files-community/Files/pull/1730",
+                        "state": "MERGED",
+                        "number": 1730,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "d2dyno1"
+                                        },
+                                        "title": "Use nameof() instead",
+                                        "url": "https://github.com/files-community/Files/issues/1729",
+                                        "state": "CLOSED",
+                                        "number": 1729,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tobias-mayer"
+                        },
+                        "title": "replaced hardcoded property names with nameof()",
+                        "url": "https://github.com/files-community/Files/pull/1733",
+                        "state": "MERGED",
+                        "number": 1733,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Files.Package: Manifest: Fix tabulation",
+                        "url": "https://github.com/files-community/Files/pull/1734",
+                        "state": "MERGED",
+                        "number": 1734,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Remove empty lines in resources",
+                        "url": "https://github.com/files-community/Files/pull/1735",
+                        "state": "MERGED",
+                        "number": 1735,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed several rename issues",
+                        "url": "https://github.com/files-community/Files/pull/1736",
+                        "state": "MERGED",
+                        "number": 1736,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "TarsChiu"
+                                        },
+                                        "title": "rename bug",
+                                        "url": "https://github.com/files-community/Files/issues/1684",
+                                        "state": "CLOSED",
+                                        "number": 1684,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "NoStyle27"
+                                        },
+                                        "title": "Crash",
+                                        "url": "https://github.com/files-community/Files/issues/1760",
+                                        "state": "CLOSED",
+                                        "number": 1760,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "wahom"
+                                        },
+                                        "title": "Crash for using keyboard to operate this software",
+                                        "url": "https://github.com/files-community/Files/issues/1532",
+                                        "state": "CLOSED",
+                                        "number": 1532,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "seo-rii"
+                        },
+                        "title": "Added Korean Translation",
+                        "url": "https://github.com/files-community/Files/pull/1740",
+                        "state": "MERGED",
+                        "number": 1740,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed an issue loading recent items on the home page",
+                        "url": "https://github.com/files-community/Files/pull/1745",
+                        "state": "MERGED",
+                        "number": 1745,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Show consent dialog for broadFileSystemAccess",
+                        "url": "https://github.com/files-community/Files/pull/1750",
+                        "state": "MERGED",
+                        "number": 1750,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Migrated to Toolkit.MVVM",
+                        "url": "https://github.com/files-community/Files/pull/1752",
+                        "state": "MERGED",
+                        "number": 1752,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Added support for Dynamic Shell Context Menus",
+                        "url": "https://github.com/files-community/Files/pull/1754",
+                        "state": "MERGED",
+                        "number": 1754,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "BuraChuhadar"
+                                        },
+                                        "title": "Bring Support Of Dynamic Shell Context Menus",
+                                        "url": "https://github.com/files-community/Files/issues/1397",
+                                        "state": "CLOSED",
+                                        "number": 1397,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "KaKi87"
+                                        },
+                                        "title": "Windows Explorer context menu",
+                                        "url": "https://github.com/files-community/Files/issues/174",
+                                        "state": "CLOSED",
+                                        "number": 174,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Jackaroo05"
+                                        },
+                                        "title": "Ability to extract .rar files",
+                                        "url": "https://github.com/files-community/Files/issues/1748",
+                                        "state": "CLOSED",
+                                        "number": 1748,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "aqilc"
+                                        },
+                                        "title": "Ability to automatically install fonts.",
+                                        "url": "https://github.com/files-community/Files/issues/1019",
+                                        "state": "CLOSED",
+                                        "number": 1019,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "chuchanpr"
+                                        },
+                                        "title": "Allow integration with power rename",
+                                        "url": "https://github.com/files-community/Files/issues/1028",
+                                        "state": "CLOSED",
+                                        "number": 1028,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "RDavidN"
+                                        },
+                                        "title": "Powertoys",
+                                        "url": "https://github.com/files-community/Files/issues/1300",
+                                        "state": "CLOSED",
+                                        "number": 1300,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Not all shell menu items shown",
+                                        "url": "https://github.com/files-community/Files/issues/1304",
+                                        "state": "CLOSED",
+                                        "number": 1304,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Icon not shown for custom context menu items",
+                                        "url": "https://github.com/files-community/Files/issues/1210",
+                                        "state": "CLOSED",
+                                        "number": 1210,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "flumiie"
+                                        },
+                                        "title": "App or Customized Context Menu",
+                                        "url": "https://github.com/files-community/Files/issues/1024",
+                                        "state": "CLOSED",
+                                        "number": 1024,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "KraXen72"
+                                        },
+                                        "title": "option for classic context menu/options from it",
+                                        "url": "https://github.com/files-community/Files/issues/775",
+                                        "state": "CLOSED",
+                                        "number": 775,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "MarcAnt01"
+                                        },
+                                        "title": "7-zip support",
+                                        "url": "https://github.com/files-community/Files/issues/1105",
+                                        "state": "CLOSED",
+                                        "number": 1105,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Added strings for the share dialog",
+                        "url": "https://github.com/files-community/Files/pull/1758",
+                        "state": "MERGED",
+                        "number": 1758,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Added strings for the share dialog\"",
+                                        "url": "https://github.com/files-community/Files/pull/1761",
+                                        "state": "CLOSED",
+                                        "number": 1761,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Added strings for the share dialog\"",
+                        "url": "https://github.com/files-community/Files/pull/1761",
+                        "state": "CLOSED",
+                        "number": 1761,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Translation: Update",
+                        "url": "https://github.com/files-community/Files/pull/1762",
+                        "state": "MERGED",
+                        "number": 1762,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Display localized names for system folders",
+                        "url": "https://github.com/files-community/Files/pull/1764",
+                        "state": "CLOSED",
+                        "number": 1764,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Show localized names for system folders",
+                        "url": "https://github.com/files-community/Files/pull/1766",
+                        "state": "CLOSED",
+                        "number": 1766,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Suburbanno"
+                        },
+                        "title": "Translation update [pt-BR]",
+                        "url": "https://github.com/files-community/Files/pull/1770",
+                        "state": "MERGED",
+                        "number": 1770,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.2.13 to 3.2.14",
+                        "url": "https://github.com/files-community/Files/pull/1772",
+                        "state": "MERGED",
+                        "number": 1772,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Changed about page item double click to click",
+                        "url": "https://github.com/files-community/Files/pull/1773",
+                        "state": "MERGED",
+                        "number": 1773,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "You need to double click on an about page item to open",
+                                        "url": "https://github.com/files-community/Files/issues/1705",
+                                        "state": "CLOSED",
+                                        "number": 1705,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ignasicl"
+                                        },
+                                        "title": "Quick Look doesn't update when selecting other files with the keyboard.",
+                                        "url": "https://github.com/files-community/Files/issues/2993",
+                                        "state": "CLOSED",
+                                        "number": 2993,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "robinwittebol"
+                        },
+                        "title": "Update lang nl-NL",
+                        "url": "https://github.com/files-community/Files/pull/1775",
+                        "state": "MERGED",
+                        "number": 1775,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed a crash that would sometimes occur when loading drives",
+                        "url": "https://github.com/files-community/Files/pull/1778",
+                        "state": "MERGED",
+                        "number": 1778,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Enabled the option to continue where you left off when opening Files UWP",
+                        "url": "https://github.com/files-community/Files/pull/1779",
+                        "state": "MERGED",
+                        "number": 1779,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Add a startup option to continue where you left off",
+                                        "url": "https://github.com/files-community/Files/issues/381",
+                                        "state": "CLOSED",
+                                        "number": 381,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "jlnwcic"
+                                        },
+                                        "title": "When reopening Files, all previous tabs and locations are lost - Still hoping for this feature after 2 years.",
+                                        "url": "https://github.com/files-community/Files/issues/3936",
+                                        "state": "CLOSED",
+                                        "number": 3936,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed a crash that would sometimes occur when copying items to usb drives",
+                        "url": "https://github.com/files-community/Files/pull/1780",
+                        "state": "MERGED",
+                        "number": 1780,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "LinuxWincomn"
+                                        },
+                                        "title": "App crashed when copy a folder to USB drive",
+                                        "url": "https://github.com/files-community/Files/issues/1652",
+                                        "state": "CLOSED",
+                                        "number": 1652,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Implemented the ability to rename files/folders from the properties window",
+                        "url": "https://github.com/files-community/Files/pull/1781",
+                        "state": "MERGED",
+                        "number": 1781,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "JaiganeshKumaran"
+                                        },
+                                        "title": "Ability to rename a file by changing the name in the properties window",
+                                        "url": "https://github.com/files-community/Files/issues/1382",
+                                        "state": "CLOSED",
+                                        "number": 1382,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump NLog.Schema from 4.7.3 to 4.7.4",
+                        "url": "https://github.com/files-community/Files/pull/1784",
+                        "state": "MERGED",
+                        "number": 1784,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump NLog from 4.7.3 to 4.7.4",
+                        "url": "https://github.com/files-community/Files/pull/1785",
+                        "state": "MERGED",
+                        "number": 1785,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "tsvietOK"
+                        },
+                        "title": "Fixed some grayed out context menu items",
+                        "url": "https://github.com/files-community/Files/pull/1791",
+                        "state": "MERGED",
+                        "number": 1791,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "ArttuLai"
+                                        },
+                                        "title": "\"Open in Terminal\" is greyed out and doesn't work",
+                                        "url": "https://github.com/files-community/Files/issues/1782",
+                                        "state": "CLOSED",
+                                        "number": 1782,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tsvietOK"
+                                        },
+                                        "title": "Toolbar \"+\" button is disabled in all folders.",
+                                        "url": "https://github.com/files-community/Files/issues/1787",
+                                        "state": "CLOSED",
+                                        "number": 1787,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Continue where you left off fixes",
+                        "url": "https://github.com/files-community/Files/pull/1792",
+                        "state": "MERGED",
+                        "number": 1792,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "More Precise Exception Handling for Item Rename Operation",
+                        "url": "https://github.com/files-community/Files/pull/1793",
+                        "state": "MERGED",
+                        "number": 1793,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Fixed closing last tab causes an exception with continue where you left off",
+                        "url": "https://github.com/files-community/Files/pull/1802",
+                        "state": "MERGED",
+                        "number": 1802,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Suburbanno"
+                        },
+                        "title": "Translation update & fix typo [pt-BR]",
+                        "url": "https://github.com/files-community/Files/pull/1808",
+                        "state": "MERGED",
+                        "number": 1808,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed an issue where external devices cannot be removed while app is opened",
+                        "url": "https://github.com/files-community/Files/pull/1810",
+                        "state": "MERGED",
+                        "number": 1810,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "tsvietOK"
+                                        },
+                                        "title": "Added option to eject removable device",
+                                        "url": "https://github.com/files-community/Files/pull/2328",
+                                        "state": "MERGED",
+                                        "number": 2328,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Added a cancel button to the properties dialog",
+                        "url": "https://github.com/files-community/Files/pull/1811",
+                        "state": "MERGED",
+                        "number": 1811,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Add new translations & fixed existing [de-DE]",
+                        "url": "https://github.com/files-community/Files/pull/1812",
+                        "state": "CLOSED",
+                        "number": 1812,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "boscorelly"
+                        },
+                        "title": "Update lang FR",
+                        "url": "https://github.com/files-community/Files/pull/1814",
+                        "state": "CLOSED",
+                        "number": 1814,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Improve translation [de-DE]",
+                        "url": "https://github.com/files-community/Files/pull/1815",
+                        "state": "MERGED",
+                        "number": 1815,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "CodeMaid",
+                        "url": "https://github.com/files-community/Files/pull/1818",
+                        "state": "MERGED",
+                        "number": 1818,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Resume devicewatcher after suspending",
+                        "url": "https://github.com/files-community/Files/pull/1819",
+                        "state": "MERGED",
+                        "number": 1819,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Duplicate usb drives in sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/1829",
+                                        "state": "CLOSED",
+                                        "number": 1829,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix duplicate removable drives in sidebar",
+                                        "url": "https://github.com/files-community/Files/pull/1830",
+                                        "state": "MERGED",
+                                        "number": 1830,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed a crash that would sometimes occur when cutting an item",
+                        "url": "https://github.com/files-community/Files/pull/1820",
+                        "state": "MERGED",
+                        "number": 1820,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "DeDaMrAzR"
+                                        },
+                                        "title": "Selecting multiple files and using cut (ctrl+x) crashes the program.",
+                                        "url": "https://github.com/files-community/Files/issues/1816",
+                                        "state": "CLOSED",
+                                        "number": 1816,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gauss182"
+                                        },
+                                        "title": "cuting (Ctrl + X) a bundle of files crashed the app (windows store version)",
+                                        "url": "https://github.com/files-community/Files/issues/1400",
+                                        "state": "CLOSED",
+                                        "number": 1400,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.AppCenter.Analytics from 3.4.0 to 3.4.1",
+                        "url": "https://github.com/files-community/Files/pull/1826",
+                        "state": "MERGED",
+                        "number": 1826,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Microsoft.AppCenter.Crashes from 3.4.0 to 3.4.1",
+                        "url": "https://github.com/files-community/Files/pull/1827",
+                        "state": "MERGED",
+                        "number": 1827,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix duplicate removable drives in sidebar",
+                        "url": "https://github.com/files-community/Files/pull/1830",
+                        "state": "MERGED",
+                        "number": 1830,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "SketchNI"
+                        },
+                        "title": "Add an option to display dotfiles.",
+                        "url": "https://github.com/files-community/Files/pull/1832",
+                        "state": "MERGED",
+                        "number": 1832,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "Added settings to choose multitasking preferences",
+                        "url": "https://github.com/files-community/Files/pull/1833",
+                        "state": "MERGED",
+                        "number": 1833,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation Update [es-ES]",
+                        "url": "https://github.com/files-community/Files/pull/1837",
+                        "state": "MERGED",
+                        "number": 1837,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Improve codebase quality in properties",
+                        "url": "https://github.com/files-community/Files/pull/1842",
+                        "state": "CLOSED",
+                        "number": 1842,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.2.14 to 3.2.15",
+                        "url": "https://github.com/files-community/Files/pull/1843",
+                        "state": "MERGED",
+                        "number": 1843,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Update copyright in AssemblyInfo.cs",
+                        "url": "https://github.com/files-community/Files/pull/1845",
+                        "state": "MERGED",
+                        "number": 1845,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Updated grammar and added slight changes",
+                        "url": "https://github.com/files-community/Files/pull/1846",
+                        "state": "MERGED",
+                        "number": 1846,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix crash when connecting certain drives",
+                        "url": "https://github.com/files-community/Files/pull/1847",
+                        "state": "MERGED",
+                        "number": 1847,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed an issue where opening the properties window would sometimes crash the app on 1903/1909",
+                        "url": "https://github.com/files-community/Files/pull/1850",
+                        "state": "MERGED",
+                        "number": 1850,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Sasino97"
+                                        },
+                                        "title": "The properties dialog crashes the app",
+                                        "url": "https://github.com/files-community/Files/issues/1876",
+                                        "state": "CLOSED",
+                                        "number": 1876,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Reordered buttons on the properties dialog",
+                        "url": "https://github.com/files-community/Files/pull/1851",
+                        "state": "MERGED",
+                        "number": 1851,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Fixed an issue where the text in the properties dialog would get cut off in some languages",
+                                        "url": "https://github.com/files-community/Files/pull/2484",
+                                        "state": "MERGED",
+                                        "number": 2484,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated strings",
+                        "url": "https://github.com/files-community/Files/pull/1852",
+                        "state": "MERGED",
+                        "number": 1852,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Updateed README.md with some info about Files UWP",
+                        "url": "https://github.com/files-community/Files/pull/1853",
+                        "state": "MERGED",
+                        "number": 1853,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Improve codebase quality in properties",
+                        "url": "https://github.com/files-community/Files/pull/1854",
+                        "state": "MERGED",
+                        "number": 1854,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Show dialog to restart app after language changed",
+                        "url": "https://github.com/files-community/Files/pull/1856",
+                        "state": "MERGED",
+                        "number": 1856,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Display localised names for system folders",
+                        "url": "https://github.com/files-community/Files/pull/1860",
+                        "state": "CLOSED",
+                        "number": 1860,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Properties: added string for \"Cancel\" button",
+                        "url": "https://github.com/files-community/Files/pull/1862",
+                        "state": "MERGED",
+                        "number": 1862,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated the confirm delete dialog to include the number of selected items",
+                        "url": "https://github.com/files-community/Files/pull/1863",
+                        "state": "MERGED",
+                        "number": 1863,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Suburbanno"
+                        },
+                        "title": "Translation update [pt-BR]",
+                        "url": "https://github.com/files-community/Files/pull/1866",
+                        "state": "MERGED",
+                        "number": 1866,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "0.14.0.0",
+                        "url": "https://github.com/files-community/Files/pull/1867",
+                        "state": "MERGED",
+                        "number": 1867,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation Update [es-ES]",
+                        "url": "https://github.com/files-community/Files/pull/1868",
+                        "state": "MERGED",
+                        "number": 1868,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Update Resources.resw",
+                        "url": "https://github.com/files-community/Files/pull/1871",
+                        "state": "CLOSED",
+                        "number": 1871,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Removed duplicate extract all menu item",
+                        "url": "https://github.com/files-community/Files/pull/1877",
+                        "state": "MERGED",
+                        "number": 1877,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Removed duplicate extract all menu item\"",
+                                        "url": "https://github.com/files-community/Files/pull/1883",
+                                        "state": "CLOSED",
+                                        "number": 1883,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed a crash that would sometimes occur when selecting some options on the right click context menu",
+                        "url": "https://github.com/files-community/Files/pull/1881",
+                        "state": "MERGED",
+                        "number": 1881,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Removed duplicate extract all menu item\"",
+                        "url": "https://github.com/files-community/Files/pull/1883",
+                        "state": "CLOSED",
+                        "number": 1883,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Update Resources.resw with improved labels for more intuitiveness",
+                        "url": "https://github.com/files-community/Files/pull/1885",
+                        "state": "MERGED",
+                        "number": 1885,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Bump Vanara.Windows.Shell from 3.2.15 to 3.2.16",
+                        "url": "https://github.com/files-community/Files/pull/1887",
+                        "state": "MERGED",
+                        "number": 1887,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Update CODE_OF_CONDUCT.md with some minor changes",
+                        "url": "https://github.com/files-community/Files/pull/1888",
+                        "state": "MERGED",
+                        "number": 1888,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Added link to code of conduct in README.md",
+                        "url": "https://github.com/files-community/Files/pull/1889",
+                        "state": "MERGED",
+                        "number": 1889,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Moved set as lockscreen and set as background to a sub menu",
+                        "url": "https://github.com/files-community/Files/pull/1890",
+                        "state": "MERGED",
+                        "number": 1890,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot-preview"
+                        },
+                        "title": "Create Dependabot config file",
+                        "url": "https://github.com/files-community/Files/pull/1891",
+                        "state": "MERGED",
+                        "number": 1891,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation Update [es-ES]",
+                        "url": "https://github.com/files-community/Files/pull/1896",
+                        "state": "MERGED",
+                        "number": 1896,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Richard-HM"
+                                        },
+                                        "title": "The most recent Spanish translation update was reversed",
+                                        "url": "https://github.com/files-community/Files/issues/1923",
+                                        "state": "CLOSED",
+                                        "number": 1923,
+                                        "__typename": "Issue"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Richard-HM"
+                                        },
+                                        "title": "Translation Update [es-ES]",
+                                        "url": "https://github.com/files-community/Files/pull/1927",
+                                        "state": "MERGED",
+                                        "number": 1927,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Updated localization",
+                        "url": "https://github.com/files-community/Files/pull/1901",
+                        "state": "MERGED",
+                        "number": 1901,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "pixl8dev"
+                        },
+                        "title": "Update README.md",
+                        "url": "https://github.com/files-community/Files/pull/1902",
+                        "state": "MERGED",
+                        "number": 1902,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Added a copy location button to the right click context menu",
+                        "url": "https://github.com/files-community/Files/pull/1906",
+                        "state": "MERGED",
+                        "number": 1906,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Xemanth"
+                                        },
+                                        "title": "\"Copy path\" -button to files",
+                                        "url": "https://github.com/files-community/Files/issues/1242",
+                                        "state": "CLOSED",
+                                        "number": 1242,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "boscorelly"
+                        },
+                        "title": "Update lang FR",
+                        "url": "https://github.com/files-community/Files/pull/1907",
+                        "state": "CLOSED",
+                        "number": 1907,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "JaiganeshKumaran"
+                        },
+                        "title": "Implement traditional list view",
+                        "url": "https://github.com/files-community/Files/pull/1909",
+                        "state": "CLOSED",
+                        "number": 1909,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "R3voA3"
+                        },
+                        "title": "Update Files.de-DE.xlf",
+                        "url": "https://github.com/files-community/Files/pull/1915",
+                        "state": "MERGED",
+                        "number": 1915,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Open github new issue page from crash notification",
+                        "url": "https://github.com/files-community/Files/pull/1916",
+                        "state": "MERGED",
+                        "number": 1916,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed an issue where the file access consent dialog would sometimes show even after permission was already granted",
+                        "url": "https://github.com/files-community/Files/pull/1917",
+                        "state": "MERGED",
+                        "number": 1917,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fixed a crash that would sometimes occur on startup",
+                        "url": "https://github.com/files-community/Files/pull/1918",
+                        "state": "MERGED",
+                        "number": 1918,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "lukeblevins"
+                        },
+                        "title": "StatusCenter: Improve reliability of file operations, enable limited progress reporting, reorganize code",
+                        "url": "https://github.com/files-community/Files/pull/1919",
+                        "state": "MERGED",
+                        "number": 1919,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Improved context menu load time",
+                        "url": "https://github.com/files-community/Files/pull/1921",
+                        "state": "MERGED",
+                        "number": 1921,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Suburbanno"
+                        },
+                        "title": "Translation update [pt-BR]",
+                        "url": "https://github.com/files-community/Files/pull/1925",
+                        "state": "MERGED",
+                        "number": 1925,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Fixed an issue where navigating away from the home page sometimes wouldn't work",
+                        "url": "https://github.com/files-community/Files/pull/1926",
+                        "state": "MERGED",
+                        "number": 1926,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "prakharb5"
+                                        },
+                                        "title": "Going from Home to Recycle Bin directly creates a bug.",
+                                        "url": "https://github.com/files-community/Files/issues/1935",
+                                        "state": "CLOSED",
+                                        "number": 1935,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Richard-HM"
+                        },
+                        "title": "Translation Update [es-ES]",
+                        "url": "https://github.com/files-community/Files/pull/1927",
+                        "state": "MERGED",
+                        "number": 1927,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Thomas1664"
+                        },
+                        "title": "Update German localization",
+                        "url": "https://github.com/files-community/Files/pull/1933",
+                        "state": "MERGED",
+                        "number": 1933,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Updated strings",
+                        "url": "https://github.com/files-community/Files/pull/1934",
+                        "state": "CLOSED",
+                        "number": 1934,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "boscorelly"
+                        },
+                        "title": "Update Files.fr-FR.xlf",
+                        "url": "https://github.com/files-community/Files/pull/1938",
+                        "state": "MERGED",
+                        "number": 1938,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}

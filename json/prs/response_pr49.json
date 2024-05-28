@@ -1,0 +1,1355 @@
+{
+    "data": {
+        "repository": {
+            "pullRequests": {
+                "pageInfo": {
+                    "endCursor": "Y3Vyc29yOnYyOpHOXQyoCQ=="
+                },
+                "nodes": [
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added TextBlock for read only properties",
+                        "url": "https://github.com/files-community/Files/pull/13278",
+                        "state": "MERGED",
+                        "number": 13278,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "hishitetsu"
+                                        },
+                                        "title": "Code Quality: Show \"(multiple values)\" on read-only properties",
+                                        "url": "https://github.com/files-community/Files/pull/13290",
+                                        "state": "MERGED",
+                                        "number": 13290,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Localized the theme names",
+                        "url": "https://github.com/files-community/Files/pull/13279",
+                        "state": "MERGED",
+                        "number": 13279,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where textbox for renaming wouldn't disappear after losing focus",
+                        "url": "https://github.com/files-community/Files/pull/13282",
+                        "state": "MERGED",
+                        "number": 13282,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.WindowsAppSDK from 1.3.230724000 to 1.4.230822000",
+                        "url": "https://github.com/files-community/Files/pull/13286",
+                        "state": "CLOSED",
+                        "number": 13286,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.NET.Test.Sdk from 17.7.1 to 17.7.2",
+                        "url": "https://github.com/files-community/Files/pull/13287",
+                        "state": "MERGED",
+                        "number": 13287,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "yaira2"
+                                        },
+                                        "title": "Revert \"Build(deps): Bump Microsoft.NET.Test.Sdk from 17.7.1 to 17.7.2\"",
+                                        "url": "https://github.com/files-community/Files/pull/13291",
+                                        "state": "CLOSED",
+                                        "number": 13291,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Refactored context menu loading for WASDK 1.4",
+                        "url": "https://github.com/files-community/Files/pull/13288",
+                        "state": "MERGED",
+                        "number": 13288,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Show \"(multiple values)\" on read-only properties",
+                        "url": "https://github.com/files-community/Files/pull/13290",
+                        "state": "MERGED",
+                        "number": 13290,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Revert \"Build(deps): Bump Microsoft.NET.Test.Sdk from 17.7.1 to 17.7.2\"",
+                        "url": "https://github.com/files-community/Files/pull/13291",
+                        "state": "CLOSED",
+                        "number": 13291,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Preview: v2.5.25",
+                        "url": "https://github.com/files-community/Files/pull/13292",
+                        "state": "MERGED",
+                        "number": 13292,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed an issue where the update button didn't show",
+                        "url": "https://github.com/files-community/Files/pull/13293",
+                        "state": "MERGED",
+                        "number": 13293,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "New Crowdin updates",
+                        "url": "https://github.com/files-community/Files/pull/13294",
+                        "state": "CLOSED",
+                        "number": 13294,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Vanara.PInvoke.DwmApi from 3.4.15 to 3.4.16",
+                        "url": "https://github.com/files-community/Files/pull/13295",
+                        "state": "MERGED",
+                        "number": 13295,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for additional archive formats",
+                        "url": "https://github.com/files-community/Files/pull/13298",
+                        "state": "MERGED",
+                        "number": 13298,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: Disable font previews",
+                        "url": "https://github.com/files-community/Files/pull/13300",
+                        "state": "MERGED",
+                        "number": 13300,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Code Quality: UseCurrentScale for properties window",
+                        "url": "https://github.com/files-community/Files/pull/13301",
+                        "state": "MERGED",
+                        "number": 13301,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where parameters were ignored when resuming the app",
+                        "url": "https://github.com/files-community/Files/pull/13304",
+                        "state": "MERGED",
+                        "number": 13304,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where some elements couldn't be clicked on when search is focused",
+                        "url": "https://github.com/files-community/Files/pull/13307",
+                        "state": "MERGED",
+                        "number": 13307,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Lukiluc29"
+                                        },
+                                        "title": "Bug: Can't open items when search is started from Columns View",
+                                        "url": "https://github.com/files-community/Files/issues/13311",
+                                        "state": "OPEN",
+                                        "number": 13311,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "marcelwgn"
+                        },
+                        "title": "Code Quality: Fixed A11y issues in settings dialog",
+                        "url": "https://github.com/files-community/Files/pull/13314",
+                        "state": "MERGED",
+                        "number": 13314,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Fix: Issue#13284 Command Palette doesn't display the Select All option",
+                        "url": "https://github.com/files-community/Files/pull/13319",
+                        "state": "CLOSED",
+                        "number": 13319,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Fix: Issue#13284 Clear item selection doesn't appear in Command Palette",
+                        "url": "https://github.com/files-community/Files/pull/13320",
+                        "state": "CLOSED",
+                        "number": 13320,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Fix: Selection commands don't appear in Command Palette",
+                        "url": "https://github.com/files-community/Files/pull/13321",
+                        "state": "CLOSED",
+                        "number": 13321,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "HorseBandit"
+                                        },
+                                        "title": "Fix: Issue#13284 Command Palette doesn't display the Select All option",
+                                        "url": "https://github.com/files-community/Files/pull/13319",
+                                        "state": "CLOSED",
+                                        "number": 13319,
+                                        "__typename": "PullRequest"
+                                    }
+                                },
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "HorseBandit"
+                                        },
+                                        "title": "Fix: Issue#13284 Clear item selection doesn't appear in Command Palette",
+                                        "url": "https://github.com/files-community/Files/pull/13320",
+                                        "state": "CLOSED",
+                                        "number": 13320,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Fix: Fixed an issue where the selection commands weren't shown in the command palette",
+                        "url": "https://github.com/files-community/Files/pull/13322",
+                        "state": "MERGED",
+                        "number": 13322,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where tab headers sometimes didn't match actual content",
+                        "url": "https://github.com/files-community/Files/pull/13326",
+                        "state": "MERGED",
+                        "number": 13326,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Display custom icon when Files is the registered handler for archives",
+                        "url": "https://github.com/files-community/Files/pull/13327",
+                        "state": "MERGED",
+                        "number": 13327,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Package: Localized application description",
+                        "url": "https://github.com/files-community/Files/pull/13331",
+                        "state": "CLOSED",
+                        "number": 13331,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Preview: v2.5.26",
+                        "url": "https://github.com/files-community/Files/pull/13332",
+                        "state": "MERGED",
+                        "number": 13332,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Support for browsing the contents of .lzh files",
+                        "url": "https://github.com/files-community/Files/pull/13333",
+                        "state": "MERGED",
+                        "number": 13333,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed NullReferenceException at launch",
+                        "url": "https://github.com/files-community/Files/pull/13334",
+                        "state": "MERGED",
+                        "number": 13334,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where the \"loading more\" sub menu wouldn't always hide",
+                        "url": "https://github.com/files-community/Files/pull/13336",
+                        "state": "MERGED",
+                        "number": 13336,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where the app didn't update after restarting when background running is on",
+                        "url": "https://github.com/files-community/Files/pull/13339",
+                        "state": "MERGED",
+                        "number": 13339,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where the path bar would display wrong location at app startup",
+                        "url": "https://github.com/files-community/Files/pull/13342",
+                        "state": "MERGED",
+                        "number": 13342,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "QuaintMako"
+                        },
+                        "title": "Feature: Update the RecycleBin icon when emptying/filling/restoring it",
+                        "url": "https://github.com/files-community/Files/pull/13344",
+                        "state": "CLOSED",
+                        "number": 13344,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "GitHub: Moved files screenshot to the root of the repository",
+                        "url": "https://github.com/files-community/Files/pull/13346",
+                        "state": "MERGED",
+                        "number": 13346,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Feature: Display error message when settings file isn't valid #710",
+                        "url": "https://github.com/files-community/Files/pull/13347",
+                        "state": "CLOSED",
+                        "number": 13347,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Clean up Widgets 1/2",
+                        "url": "https://github.com/files-community/Files/pull/13349",
+                        "state": "CLOSED",
+                        "number": 13349,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Axe.Windows from 2.2.0 to 2.3.0",
+                        "url": "https://github.com/files-community/Files/pull/13355",
+                        "state": "MERGED",
+                        "number": 13355,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Feature: Added support to switch between items using arrow keys in the conflicts dialog",
+                        "url": "https://github.com/files-community/Files/pull/13357",
+                        "state": "MERGED",
+                        "number": 13357,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Added XML comments for C# source files",
+                        "url": "https://github.com/files-community/Files/pull/13358",
+                        "state": "CLOSED",
+                        "number": 13358,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added speed graph to the status center",
+                        "url": "https://github.com/files-community/Files/pull/13359",
+                        "state": "MERGED",
+                        "number": 13359,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "gave92"
+                                        },
+                                        "title": "Fix: Fixed an issue with admin operations not working",
+                                        "url": "https://github.com/files-community/Files/pull/13545",
+                                        "state": "MERGED",
+                                        "number": 13545,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Data.Sqlite.Core from 7.0.10 to 7.0.11",
+                        "url": "https://github.com/files-community/Files/pull/13361",
+                        "state": "MERGED",
+                        "number": 13361,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "NicoooByte"
+                        },
+                        "title": "Feature: Added file operation support for FTP",
+                        "url": "https://github.com/files-community/Files/pull/13362",
+                        "state": "MERGED",
+                        "number": 13362,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where sidebar items could be selected unexpectedly",
+                        "url": "https://github.com/files-community/Files/pull/13366",
+                        "state": "MERGED",
+                        "number": 13366,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "Battler624"
+                                        },
+                                        "title": "Bug: Issue when double clicking to expand the sidebar",
+                                        "url": "https://github.com/files-community/Files/issues/13360",
+                                        "state": "CLOSED",
+                                        "number": 13360,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hez2010"
+                        },
+                        "title": "Code Quality: Improve the implementation of StatusCenterItemProgressModel",
+                        "url": "https://github.com/files-community/Files/pull/13370",
+                        "state": "MERGED",
+                        "number": 13370,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "imgbot"
+                        },
+                        "title": "[ImgBot] Optimize images",
+                        "url": "https://github.com/files-community/Files/pull/13373",
+                        "state": "MERGED",
+                        "number": 13373,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump WinUIEx from 2.1.0 to 2.3.0",
+                        "url": "https://github.com/files-community/Files/pull/13377",
+                        "state": "MERGED",
+                        "number": 13377,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Replace static instance in App with DI",
+                        "url": "https://github.com/files-community/Files/pull/13382",
+                        "state": "CLOSED",
+                        "number": 13382,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "cekkr"
+                        },
+                        "title": "SevenZip exception placeholder",
+                        "url": "https://github.com/files-community/Files/pull/13383",
+                        "state": "CLOSED",
+                        "number": 13383,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed an issue where the context menu didn't show all shell items",
+                        "url": "https://github.com/files-community/Files/pull/13388",
+                        "state": "MERGED",
+                        "number": 13388,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed issue where the context menu would not display properly when clicking on an inactive pane or column",
+                        "url": "https://github.com/files-community/Files/pull/13391",
+                        "state": "MERGED",
+                        "number": 13391,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Codebase Quality: Closes issue#13350 Implement AppLifecycleHelper class to improve readability of App.xaml.cs",
+                        "url": "https://github.com/files-community/Files/pull/13392",
+                        "state": "CLOSED",
+                        "number": 13392,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed crash in FTP folders",
+                        "url": "https://github.com/files-community/Files/pull/13393",
+                        "state": "MERGED",
+                        "number": 13393,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "HorseBandit"
+                        },
+                        "title": "Code Quality: Only execute actions once",
+                        "url": "https://github.com/files-community/Files/pull/13397",
+                        "state": "CLOSED",
+                        "number": 13397,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "HorseBandit"
+                                        },
+                                        "title": "Code Quality: Only execute actions once",
+                                        "url": "https://github.com/files-community/Files/pull/13585",
+                                        "state": "CLOSED",
+                                        "number": 13585,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "niklasb22"
+                        },
+                        "title": "Feature: Added `ctrl + alt + c` shortcut to copy path with quotes",
+                        "url": "https://github.com/files-community/Files/pull/13398",
+                        "state": "MERGED",
+                        "number": 13398,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "shrublet"
+                                        },
+                                        "title": "Feature: Copy multiple paths at once when mutliple items are selected",
+                                        "url": "https://github.com/files-community/Files/issues/13527",
+                                        "state": "CLOSED",
+                                        "number": 13527,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Parallel size",
+                        "url": "https://github.com/files-community/Files/pull/13400",
+                        "state": "CLOSED",
+                        "number": 13400,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nephi-duff"
+                        },
+                        "title": "Feature: Added Support for Proton Drive",
+                        "url": "https://github.com/files-community/Files/pull/13401",
+                        "state": "MERGED",
+                        "number": 13401,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump FluentFTP from 43.0.1 to 48.0.0",
+                        "url": "https://github.com/files-community/Files/pull/13402",
+                        "state": "CLOSED",
+                        "number": 13402,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.WindowsAppSDK from 1.4.230822000 to 1.4.230913002",
+                        "url": "https://github.com/files-community/Files/pull/13403",
+                        "state": "MERGED",
+                        "number": 13403,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Fixed semaphore to change for each type of build",
+                        "url": "https://github.com/files-community/Files/pull/13404",
+                        "state": "MERGED",
+                        "number": 13404,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "CI: Update Azure Pipeline project build CI",
+                        "url": "https://github.com/files-community/Files/pull/13405",
+                        "state": "CLOSED",
+                        "number": 13405,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ashrafmansuri"
+                        },
+                        "title": "Fix: Fixed issue where path name wasn't visible when grouping libraries by path",
+                        "url": "https://github.com/files-community/Files/pull/13409",
+                        "state": "MERGED",
+                        "number": 13409,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "nephi-duff"
+                        },
+                        "title": "Fix mixed fonts when custom font is being used",
+                        "url": "https://github.com/files-community/Files/pull/13413",
+                        "state": "CLOSED",
+                        "number": 13413,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed scroll position after page transitions",
+                        "url": "https://github.com/files-community/Files/pull/13415",
+                        "state": "CLOSED",
+                        "number": 13415,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "ferrariofilippo"
+                        },
+                        "title": "Fix: Display error when failing to initialize folder as git repo",
+                        "url": "https://github.com/files-community/Files/pull/13416",
+                        "state": "MERGED",
+                        "number": 13416,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Bumped the version of WASDK in the app package",
+                        "url": "https://github.com/files-community/Files/pull/13417",
+                        "state": "MERGED",
+                        "number": 13417,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump WinUIEx from 2.3.0 to 2.3.1",
+                        "url": "https://github.com/files-community/Files/pull/13427",
+                        "state": "MERGED",
+                        "number": 13427,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Improve tab icon resolution",
+                        "url": "https://github.com/files-community/Files/pull/13431",
+                        "state": "MERGED",
+                        "number": 13431,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Updated strings",
+                        "url": "https://github.com/files-community/Files/pull/13432",
+                        "state": "MERGED",
+                        "number": 13432,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "kworede582"
+                        },
+                        "title": "\"Feature_Color_network_drives_#11998\"",
+                        "url": "https://github.com/files-community/Files/pull/13433",
+                        "state": "CLOSED",
+                        "number": 13433,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Fixed a typo",
+                        "url": "https://github.com/files-community/Files/pull/13434",
+                        "state": "MERGED",
+                        "number": 13434,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Graphics.Win2D from 1.0.5.1 to 1.1.0",
+                        "url": "https://github.com/files-community/Files/pull/13435",
+                        "state": "MERGED",
+                        "number": 13435,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "test security breach (Do not review)",
+                        "url": "https://github.com/files-community/Files/pull/13437",
+                        "state": "CLOSED",
+                        "number": 13437,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hemalshah28"
+                        },
+                        "title": "Fix: Renamed duplicate \"Artist\" to \"Contributing Artists\" in properties window",
+                        "url": "https://github.com/files-community/Files/pull/13447",
+                        "state": "MERGED",
+                        "number": 13447,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Mohammed-619"
+                        },
+                        "title": "Fix: Fixed issue with appending \"copy\" instead of \"#\"",
+                        "url": "https://github.com/files-community/Files/pull/13464",
+                        "state": "CLOSED",
+                        "number": 13464,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.AppCenter.Crashes from 5.0.2 to 5.0.3",
+                        "url": "https://github.com/files-community/Files/pull/13465",
+                        "state": "MERGED",
+                        "number": 13465,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.AppCenter.Analytics from 5.0.2 to 5.0.3",
+                        "url": "https://github.com/files-community/Files/pull/13466",
+                        "state": "MERGED",
+                        "number": 13466,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "MyoMinHein1246"
+                        },
+                        "title": "Fix: Fixed an issue where the file list would scroll up when refocusing the window",
+                        "url": "https://github.com/files-community/Files/pull/13468",
+                        "state": "CLOSED",
+                        "number": 13468,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "GitHub: Auto format XAML command",
+                        "url": "https://github.com/files-community/Files/pull/13486",
+                        "state": "MERGED",
+                        "number": 13486,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Improved app theme mode handler",
+                        "url": "https://github.com/files-community/Files/pull/13490",
+                        "state": "CLOSED",
+                        "number": 13490,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "0x5bfa"
+                                        },
+                                        "title": "Code Quality: Introduced AppThemeModeService",
+                                        "url": "https://github.com/files-community/Files/pull/14068",
+                                        "state": "CLOSED",
+                                        "number": 14068,
+                                        "__typename": "PullRequest"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Improved UserControls codebase",
+                        "url": "https://github.com/files-community/Files/pull/13492",
+                        "state": "CLOSED",
+                        "number": 13492,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump DirectNCore from 1.13.2.1 to 1.15.0.1",
+                        "url": "https://github.com/files-community/Files/pull/13493",
+                        "state": "MERGED",
+                        "number": 13493,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed error when trying to open the root of WSL directories",
+                        "url": "https://github.com/files-community/Files/pull/13497",
+                        "state": "MERGED",
+                        "number": 13497,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Feature: Added support for opening Git root in VS Code",
+                        "url": "https://github.com/files-community/Files/pull/13498",
+                        "state": "MERGED",
+                        "number": 13498,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Data.Sqlite.Core from 7.0.11 to 7.0.12",
+                        "url": "https://github.com/files-community/Files/pull/13500",
+                        "state": "MERGED",
+                        "number": 13500,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.WindowsAppSDK from 1.4.230913002 to 1.4.231008000",
+                        "url": "https://github.com/files-community/Files/pull/13501",
+                        "state": "MERGED",
+                        "number": 13501,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "heftymouse"
+                        },
+                        "title": "Feature: Updated the design for startup settings",
+                        "url": "https://github.com/files-community/Files/pull/13503",
+                        "state": "MERGED",
+                        "number": 13503,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Feature: Added support for unblocking downloaded files",
+                        "url": "https://github.com/files-community/Files/pull/13504",
+                        "state": "MERGED",
+                        "number": 13504,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "kworede582"
+                        },
+                        "title": "Feature: Repurpose Ctrl+Shift+N shortcut to create new folder",
+                        "url": "https://github.com/files-community/Files/pull/13505",
+                        "state": "MERGED",
+                        "number": 13505,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Code Quality: Deleted workaround for context menu loading",
+                        "url": "https://github.com/files-community/Files/pull/13506",
+                        "state": "MERGED",
+                        "number": 13506,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "Mohammed-619"
+                        },
+                        "title": "Fix: Fixed issue where archive size wouldn't update",
+                        "url": "https://github.com/files-community/Files/pull/13507",
+                        "state": "CLOSED",
+                        "number": 13507,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump WinUIEx from 2.3.1 to 2.3.2",
+                        "url": "https://github.com/files-community/Files/pull/13508",
+                        "state": "MERGED",
+                        "number": 13508,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump FluentFTP from 43.0.1 to 48.0.1",
+                        "url": "https://github.com/files-community/Files/pull/13509",
+                        "state": "CLOSED",
+                        "number": 13509,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "kworede582"
+                        },
+                        "title": "Fixed: Eject_Option_for_External_Hard_Drives- Bug #13250",
+                        "url": "https://github.com/files-community/Files/pull/13512",
+                        "state": "CLOSED",
+                        "number": 13512,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "yaira2"
+                        },
+                        "title": "Preview: v2.5.30",
+                        "url": "https://github.com/files-community/Files/pull/13516",
+                        "state": "MERGED",
+                        "number": 13516,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Code Quality: Improved SideBar codebase",
+                        "url": "https://github.com/files-community/Files/pull/13520",
+                        "state": "CLOSED",
+                        "number": 13520,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump DirectNCore from 1.15.0.1 to 1.15.0.2",
+                        "url": "https://github.com/files-community/Files/pull/13521",
+                        "state": "MERGED",
+                        "number": 13521,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "hishitetsu"
+                        },
+                        "title": "Fix: Fixed an issue where new files were sometimes created in the wrong directory",
+                        "url": "https://github.com/files-community/Files/pull/13523",
+                        "state": "MERGED",
+                        "number": 13523,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "0x5bfa"
+                        },
+                        "title": "Feature: Added icon to system tray when process is in the background",
+                        "url": "https://github.com/files-community/Files/pull/13524",
+                        "state": "CLOSED",
+                        "number": 13524,
+                        "timelineItems": {
+                            "nodes": [
+                                {
+                                    "source": {
+                                        "author": {
+                                            "login": "0x5bfa"
+                                        },
+                                        "title": "Feature: Minimalize the app running in the background to the system tray",
+                                        "url": "https://github.com/files-community/Files/issues/14240",
+                                        "state": "CLOSED",
+                                        "number": 14240,
+                                        "__typename": "Issue"
+                                    }
+                                }
+                            ]
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "dependabot"
+                        },
+                        "title": "Build(deps): Bump Microsoft.Windows.CsWinRT from 2.0.3 to 2.0.4",
+                        "url": "https://github.com/files-community/Files/pull/13525",
+                        "state": "MERGED",
+                        "number": 13525,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "d2dyno1"
+                        },
+                        "title": "Revert \"Code Quality: Improved app startup routine 2\"",
+                        "url": "https://github.com/files-community/Files/pull/13526",
+                        "state": "MERGED",
+                        "number": 13526,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    },
+                    {
+                        "author": {
+                            "login": "gave92"
+                        },
+                        "title": "Fix: Fixed crash when dragging files from Gmail",
+                        "url": "https://github.com/files-community/Files/pull/13528",
+                        "state": "MERGED",
+                        "number": 13528,
+                        "timelineItems": {
+                            "nodes": []
+                        }
+                    }
+                ]
+            }
+        }
+    }
+}
