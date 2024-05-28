@@ -8,7 +8,7 @@
 
 [Google Collab link](https://colab.research.google.com/drive/1jwk7xCMUwL9dkWyAI4oqZQeduxHKho_o)
 
-[Vídeo Presentación Link](https://youtu.be/WhaCUwZtsjQ)
+[Vídeo Presentación Link](https://youtu.be/LY1SjN_z0R4)
 
 Todos los archivos necesarios para correr el collab están en la carpeta json
 
